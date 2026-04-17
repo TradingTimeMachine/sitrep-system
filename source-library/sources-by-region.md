@@ -16,6 +16,7 @@ Middle East Eye	`https://www.middleeasteye.net/rss`	Digital	Strong on Gulf and I
 Iran International	`https://iranintl.com/en/rss`	Broadcast	Best English-language Iran coverage
 The New Arab	`https://www.newarab.com/rss.xml`	Digital	Arab perspective
 Jerusalem Post	`https://www.jpost.com/rss/rssfeedsfrontpage.aspx`	Newspaper	Israeli security focus
+Times of Israel	`https://www.timesofisrael.com/feed`	Digital	Fast on Israeli security breaking news
 Daily Star Lebanon	`https://www.dailystar.com.lb/RSS.aspx`	Newspaper	Lebanon ground-level
 Dawn (Pakistan)	`https://www.dawn.com/feeds/home`	Newspaper	Pakistan-Iran-Gulf dynamics
 ---
@@ -44,12 +45,25 @@ MarineTraffic	`https://www.marinetraffic.com`	Data	Real-time vessel tracking —
 Kpler	`https://www.kpler.com`	Data	Oil flow tracking
 S&P Global Commodity	`https://www.spglobal.com/commodityinsights`	Data	Energy market intelligence
 ---
+Hard Indicator / Verification Tools
+These sources provide physical or sensor-derived data independent of narrative reporting.
+Use for cross-verification: a strike claim from a Telegram channel plus a FIRMS thermal anomaly
+in the same grid square within the same time window constitutes elevated-confidence confirmation.
+No single source constitutes verification — triangulate across at least two independent layers.
+
+Source	URL	Type	Notes
+NASA FIRMS	`https://firms.modaps.eosdis.nasa.gov`	Satellite	Thermal anomalies — confirm airstrikes, fires, missile impacts within hours. Free, API key easy to obtain.
+ADS-B Exchange	`https://globe.adsbexchange.com`	Aircraft tracking	Military/unfiltered — does not honor government suppression requests. Use for ISR orbit detection and airspace closure confirmation over Gulf.
+Tzeva Adom	`https://www.tzevaadom.co.il`	Alert system	Real-time Israeli missile and rocket alerts — primary hard indicator for Levant escalation. Updates every few seconds during active exchanges.
+---
 Great Power Inputs
 Source	RSS / URL	Region	Notes
 TASS	`https://tass.com/rss/v2.xml`	Russia	State narrative — read for signal in framing
 Xinhua	`http://www.xinhuanet.com/english/rss/worldrss.xml`	China	State narrative — read for signal in framing
 Global Times	`https://www.globaltimes.cn/rss/outbrain.xml`	China	Nationalist framing of China-US dynamics
 CGTN	`https://www.cgtn.com/subscribe/feeds/english/rss.xml`	China	Chinese international broadcast
+PressTV	`https://www.presstv.ir/feed`	Iran	Iranian state narrative — read for official framing, flag as propagandistic
+Tasnim News	`https://www.tasnimnews.com/en/rss`	Iran	IRGC-aligned — read for military signaling, flag as propagandistic
 CNBC Energy	`https://www.cnbc.com/id/10000664/device/rss/rss.html`	Global	Energy market reaction
 ---
 Security Council / UN
