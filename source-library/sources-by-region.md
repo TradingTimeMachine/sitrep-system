@@ -46,10 +46,15 @@ Kpler	`https://www.kpler.com`	Data	Oil flow tracking
 S&P Global Commodity	`https://www.spglobal.com/commodityinsights`	Data	Energy market intelligence
 ---
 Hard Indicator / Verification Tools
-These sources provide physical or sensor-derived data independent of narrative reporting.
-Use for cross-verification: a strike claim from a Telegram channel plus a FIRMS thermal anomaly
-in the same grid square within the same time window constitutes elevated-confidence confirmation.
-No single source constitutes verification — triangulate across at least two independent layers.
+These sources produce physical or sensor-derived data independent of narrative reporting.
+They are not news sources. Use them for cross-verification, not for signal detection.
+
+Verification protocol: A strike claim from any Telegram or news source gains elevated confidence
+when a FIRMS thermal anomaly appears in the same grid square within the same time window.
+An ADS-B pattern change over the Gulf combined with a MarineTraffic vessel movement and a
+Tzeva Adom alert sequence constitutes a hard indicator cluster. Two independent hard indicators
+plus one narrative source = reportable with high confidence. One hard indicator alone = notable
+but not confirmable. Narrative source alone = treat as claim pending verification.
 
 Source	URL	Type	Notes
 NASA FIRMS	`https://firms.modaps.eosdis.nasa.gov`	Satellite	Thermal anomalies — confirm airstrikes, fires, missile impacts within hours. Free, API key easy to obtain.
