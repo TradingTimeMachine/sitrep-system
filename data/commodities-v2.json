@@ -13,8 +13,8 @@
       "close": 0.73
     },
     "Currencies: EUR/USD": {
-      "date": "2026-04-16",
-      "close": 1.17835
+      "date": "2026-04-17",
+      "close": 1.17725
     },
     "Currencies: Japanese Yen": {
       "date": "2026-04-16",
@@ -37,16 +37,16 @@
       "close": 3.16
     },
     "Energies: Natural Gas": {
-      "date": "2026-04-16",
-      "close": 3.08
+      "date": "2026-04-17",
+      "close": 3.11
     },
     "Energies: RBOB Gasoline": {
       "date": "2026-04-16",
       "close": 3.16
     },
     "Energies: Brent Crude": {
-      "date": "2026-04-16",
-      "close": 99.39
+      "date": "2026-04-17",
+      "close": 91.87
     },
     "Meats: Feeder Cattle": {
       "date": "2026-04-16",
@@ -97,8 +97,8 @@
       "close": 4808.3
     },
     "Metals: Copper": {
-      "date": "2026-04-16",
-      "close": 6.13
+      "date": "2026-04-17",
+      "close": 6.14
     },
     "Metals: Platinum": {
       "date": "2026-04-16",
@@ -1614,10 +1614,6 @@
     ],
     "Currencies: EUR/USD": [
       {
-        "date": "2025-10-19",
-        "close": 1.16567
-      },
-      {
         "date": "2025-10-20",
         "close": 1.16436
       },
@@ -2332,6 +2328,10 @@
       {
         "date": "2026-04-16",
         "close": 1.17835
+      },
+      {
+        "date": "2026-04-17",
+        "close": 1.17725
       }
     ],
     "Currencies: Japanese Yen": [
@@ -5292,6 +5292,10 @@
       {
         "date": "2026-04-16",
         "close": 3.08
+      },
+      {
+        "date": "2026-04-17",
+        "close": 3.11
       }
     ],
     "Energies: RBOB Gasoline": [
@@ -6280,6 +6284,10 @@
       {
         "date": "2026-04-16",
         "close": 99.39
+      },
+      {
+        "date": "2026-04-17",
+        "close": 91.87
       }
     ],
     "Meats: Feeder Cattle": [
@@ -12682,6 +12690,10 @@
       {
         "date": "2026-04-16",
         "close": 6.13
+      },
+      {
+        "date": "2026-04-17",
+        "close": 6.14
       }
     ],
     "Metals: Platinum": [
@@ -17123,5 +17135,5 @@
       }
     ]
   },
-  "updated": "2026-04-18T02:49:20.227Z"
+  "updated": "2026-04-18T04:37:18.135Z"
 }
