@@ -26,7 +26,7 @@
     },
     "Energies: WTI Crude": {
       "date": "2026-04-20",
-      "close": 86.16
+      "close": 86.14
     },
     "Energies: NY Harbor Heating Oil": {
       "date": "2026-04-20",
@@ -94,7 +94,7 @@
     },
     "Metals: Gold": {
       "date": "2026-04-20",
-      "close": 4852.3
+      "close": 4852.2
     },
     "Metals: Copper": {
       "date": "2026-04-20",
@@ -133,8 +133,8 @@
       "close": 11.01
     },
     "Softs and Fibers: Lumber": {
-      "date": "2026-04-20",
-      "close": 72.71
+      "date": "2026-04-21",
+      "close": 71.26
     }
   },
   "series": {
@@ -3797,7 +3797,7 @@
       },
       {
         "date": "2026-04-20",
-        "close": 86.16
+        "close": 86.14
       }
     ],
     "Energies: NY Harbor Heating Oil": [
@@ -12107,7 +12107,7 @@
       },
       {
         "date": "2026-04-20",
-        "close": 4852.3
+        "close": 4852.2
       }
     ],
     "Metals: Copper": [
@@ -17008,8 +17008,12 @@
       {
         "date": "2026-04-20",
         "close": 72.71
+      },
+      {
+        "date": "2026-04-21",
+        "close": 71.26
       }
     ]
   },
-  "updated": "2026-04-21T20:35:06.660Z"
+  "updated": "2026-04-21T22:33:36.170Z"
 }
