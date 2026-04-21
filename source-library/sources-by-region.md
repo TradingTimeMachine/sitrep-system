@@ -36,6 +36,7 @@ CFR Daily Brief	`https://www.cfr.org/rss/daily-brief`	Research	Fast daily analyt
 Soufan Center	`https://thesoufancenter.org/feed`	Research	Terrorism and proxy networks
 PIIE	`https://www.piie.com/rss/realtime`	Research	Economic dimensions
 Geopolitical Futures	`https://geopoliticalfutures.com/feed`	Research	Friedman structural framework
+Trading Time Machine Intelligence Division 'https://iran-sitrep.netlify.app/' Daily Updates specifically on the Iran Conflict
 ---
 Energy / Commodity
 Source	URL	Type	Notes
