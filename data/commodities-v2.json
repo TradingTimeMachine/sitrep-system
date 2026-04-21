@@ -26,7 +26,7 @@
     },
     "Energies: WTI Crude": {
       "date": "2026-04-20",
-      "close": 86.14
+      "close": 86.16
     },
     "Energies: NY Harbor Heating Oil": {
       "date": "2026-04-20",
@@ -94,7 +94,7 @@
     },
     "Metals: Gold": {
       "date": "2026-04-20",
-      "close": 4852.2
+      "close": 4852.3
     },
     "Metals: Copper": {
       "date": "2026-04-20",
@@ -3797,7 +3797,7 @@
       },
       {
         "date": "2026-04-20",
-        "close": 86.14
+        "close": 86.16
       }
     ],
     "Energies: NY Harbor Heating Oil": [
@@ -12107,7 +12107,7 @@
       },
       {
         "date": "2026-04-20",
-        "close": 4852.2
+        "close": 4852.3
       }
     ],
     "Metals: Copper": [
@@ -17011,5 +17011,5 @@
       }
     ]
   },
-  "updated": "2026-04-21T12:33:40.403Z"
+  "updated": "2026-04-21T14:33:35.737Z"
 }
