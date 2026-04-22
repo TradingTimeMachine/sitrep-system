@@ -1,11 +1,10 @@
 # Session Startup Instructions
-Copy this into every new Claude session to orient the model immediately.
 
 ---
 
 ## URL Construction Logic
 
-All repository URLs follow a predictable pattern. Claude can construct them automatically from the current date without any human input.
+All repository URLs follow a predictable pattern. Claude constructs them automatically from the current date without human input.
 
 **Base pattern:**
 `https://raw.githubusercontent.com/TradingTimeMachine/sitrep-system/refs/heads/main/[filepath]`
@@ -28,10 +27,10 @@ Examples:
 - `daily-updates/2026-04-20-monday.md`
 - `daily-updates/2026-04-21-tuesday.md`
 
-**Missing day handling:** If a daily update URL returns a 404 or error, skip it silently and note "no update filed for [weekday]" in the session log. Do not halt the session.
-
 **SITREP URLs (constructed from date and issue number):**
 `https://raw.githubusercontent.com/TradingTimeMachine/sitrep-system/refs/heads/main/sitreps/YYYY-MM-DD-issue-NNN.md`
+
+**Missing day handling:** If a daily update or SITREP URL returns a 404 or error, skip it silently and note "no file found for [date]" in the session log. Do not halt the session.
 
 ---
 
@@ -45,26 +44,29 @@ From those two inputs Claude constructs all URLs, fetches all files, and proceed
 
 ---
 
-## Manual Session Startup
+## Wednesday SITREP Session
 
-### For Wednesday SITREP Sessions
+Say: "run the SITREP" and Claude will automatically fetch:
 
-Say: "run the SITREP" and paste the weekly daily update URLs if not auto-constructing.
+1. Current memory record
+2. Delta comparison prompt
+3. Triad synthesis prompt
+4. Source library
+5. This week's daily updates (Thursday through Tuesday, constructed from date)
+6. The 4 most recent prior SITREP files (constructed from issue number and date)
 
-Claude will automatically fetch:
-- Memory record
-- Delta comparison prompt
-- Triad synthesis prompt
-- Source library
-- Any daily update URLs provided or constructed
+**Why prior SITREPs are included:** The system is longitudinal and accumulative. Each Wednesday synthesis is richer when it can see the full arc of prior issues, not just the immediately preceding memory record. The memory record contains distilled structural continuity. The prior SITREP files provide narrative depth, thesis evolution, and forecast accuracy track record. As the archive grows beyond 12 issues, the rolling window stays at 4 most recent SITREPs plus the memory record. If fewer than 4 SITREPs exist, fetch all available.
 
 Then run delta comparison first, then full Triad synthesis.
 
-### For Daily Update Sessions (Thursday through Tuesday)
+---
+
+## Daily Update Session (Thursday through Tuesday)
 
 Say: "run the daily" and Claude will automatically fetch:
-- Memory record
-- Daily update prompt
+
+1. Current memory record
+2. Daily update prompt
 
 Then scan for signals and produce the daily update.
 
@@ -72,12 +74,12 @@ Then scan for signals and produce the daily update.
 
 ## After Each Wednesday Session — Commit Checklist
 
-- [ ] Save SITREP output to `/sitreps/YYYY-MM-DD-issue-NNN.md`
-- [ ] Copy new memory record JSON into `/memory/current-memory-record.json` (overwrite)
-- [ ] Append previous week's memory record to `/memory/memory-archive.json`
-- [ ] Commit all changes with message: `Issue NNN - YYYY-MM-DD`
+- [ ] Save SITREP to `sitreps/YYYY-MM-DD-issue-NNN.md`
+- [ ] Overwrite `memory/current-memory-record.json` with new memory record JSON
+- [ ] Append previous memory record to `memory/memory-archive.json`
+- [ ] Commit message: `Issue NNN - YYYY-MM-DD`
 
 ## After Each Daily Session — Commit Checklist
 
-- [ ] Save daily update to `/daily-updates/YYYY-MM-DD-[weekday].md`
-- [ ] Commit with message: `Daily update - YYYY-MM-DD [Weekday]`
+- [ ] Save daily update to `daily-updates/YYYY-MM-DD-[weekday].md`
+- [ ] Commit message: `Daily update - YYYY-MM-DD [Weekday]`
