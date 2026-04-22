@@ -23,3 +23,157 @@
     }
   ]
 }
+{
+  "meta": {
+    "issue": "001",
+    "date": "2026-04-15",
+    "weekday": "Wednesday",
+    "region": "Middle East",
+    "cycle_day": 1,
+    "next_sitrep": "2026-04-22"
+  },
+
+  "core_thesis": "Iran's IRGC has captured the state following Khamenei's assassination. Mojtaba Khamenei is a figurehead installed under IRGC pressure who has not appeared publicly since his 9 March appointment. The constitutional mechanism requiring Supreme Leader confirmation of SNSC decisions is structurally inoperative. The United States is conducting blockade operations and peace negotiations simultaneously against an entity that cannot constitutionally authorize a deal and has every military incentive not to. The ceasefire is a reorganization interval, not a peace-building interval.",
+
+  "thesis_continuity": "BASELINE - first issue, no prior thesis to compare",
+
+  "key_actors": {
+    "iran_leadership": "IRGC military council - Vahidi (IRGC commander), Zolghadr (SNSC Secretary), Rezai (military adviser to Mojtaba)",
+    "iran_figurehead": "Mojtaba Khamenei - not seen publicly since 9 March appointment",
+    "us_posture": "Naval blockade of Iranian ports active since 13 April; mine clearance operations underway; Vance left Islamabad talks with final and best offer",
+    "key_mediator": "Pakistan - sole active mediator with access to all parties; working Lebanon and Yemen tracks simultaneously",
+    "china_posture": "Condemning blockade publicly; allowing Chinese-flagged vessels preferential Hormuz passage; Xi met Lavrov 15 April",
+    "russia_posture": "Strategic beneficiary - up to $151B additional 2026 revenues; perverse incentive to prolong conflict",
+    "gcc_posture": "Hardening - actively demanding nuclear, missile, Hormuz, and proxy concessions from Tehran; Qatar seeking reparations"
+  },
+
+  "forecasts": {
+    "30_day": {
+      "most_likely": "Ceasefire expires without renewal; IRGC-authorized proxy escalation rather than direct strikes",
+      "proxy_escalation_probability": "60-70%",
+      "direct_resumption_probability": "40-50%",
+      "primary_vector": "Houthi activation or Iraqi militia attacks on US bases"
+    },
+    "60_day": {
+      "most_likely": "If proxy escalation triggers US kinetic response, second round faces partially reconstituted Iranian missile capability. China back-channel possible as import shortfall becomes acute.",
+      "inflection_point": "China-brokered Iran-Gulf back-channel bypassing Washington"
+    },
+    "90_day": {
+      "scenario_1": {"label": "Negotiated partial resolution", "probability": "30%"},
+      "scenario_2": {"label": "Managed escalation - most likely", "probability": "45%"},
+      "scenario_3": {"label": "Structural Iranian internal collapse", "probability": "25%", "note": "Lowest probability, highest consequence spread"}
+    }
+  },
+
+  "trigger_events_watched": [
+    {
+      "id": "T1",
+      "event": "Mojtaba Khamenei public appearance",
+      "status": "NOT FIRED",
+      "significance": "Presence signals controllable figurehead; absence signals leadership vacuum deeper than acknowledged"
+    },
+    {
+      "id": "T2",
+      "event": "Attack on Saudi Aramco Abqaiq facility",
+      "status": "NOT FIRED",
+      "significance": "Signals IRGC chose escalation over negotiation; historic oil price shock"
+    },
+    {
+      "id": "T3",
+      "event": "Houthi attack on Bab el-Mandeb shipping",
+      "status": "NOT FIRED",
+      "significance": "Dual-chokepoint scenario - most severe global supply disruption outcome"
+    },
+    {
+      "id": "T4",
+      "event": "Chinese-flagged vessel incident with US Navy during blockade",
+      "status": "NOT FIRED",
+      "significance": "Forces Beijing off diplomatic fence into active opposition"
+    },
+    {
+      "id": "T5",
+      "event": "Knesset West Bank annexation vote",
+      "status": "NOT FIRED",
+      "significance": "Fractures Arab League acquiescence to Israel's Iran operation"
+    }
+  ],
+
+  "falsification_conditions": [
+    {
+      "id": "F1",
+      "condition": "Mojtaba Khamenei appears publicly and demonstrates independent authority, bypassing IRGC commanders on a material decision",
+      "status": "NOT TRIGGERED",
+      "implication": "IRGC-capture thesis requires revision"
+    },
+    {
+      "id": "F2",
+      "condition": "Iran accepts phased Hormuz reopening without preconditions on nuclear program",
+      "status": "NOT TRIGGERED",
+      "implication": "IRGC hardliner control thesis weakened; negotiated resolution scenario probability increases"
+    },
+    {
+      "id": "F3",
+      "condition": "China exercises direct public pressure on Tehran - moves beyond condemning blockade to active engagement on Iranian concessions",
+      "status": "NOT TRIGGERED",
+      "implication": "China leverage thesis activating; resolution timeline potentially accelerating"
+    },
+    {
+      "id": "F4",
+      "condition": "GCC state opens bilateral back-channel with Tehran producing partial agreement outside US framework",
+      "status": "NOT TRIGGERED",
+      "implication": "US-led coalition pressure fracturing; regional diplomatic realignment underway"
+    },
+    {
+      "id": "F5",
+      "condition": "Internal IRGC factional conflict becomes publicly visible",
+      "status": "NOT TRIGGERED",
+      "implication": "Unified hardliner thesis requires revision; window for moderate faction may be opening"
+    }
+  ],
+
+  "key_uncertainties": [
+    "Whether Mojtaba Khamenei has any independent clerical authority beyond IRGC backing",
+    "Whether IRGC command structure is unified or factionally contested beneath surface",
+    "Whether Iran's mine problem in Hormuz is genuine or manufactured as compliance excuse",
+    "Whether China will convert economic pressure into diplomatic leverage on Iran and at what threshold"
+  ],
+
+  "pattern_match": {
+    "label": "Escalation ladder forming",
+    "analog": "Korean War 1951 stalemate - not clean resolution model",
+    "key_difference": "Korea had institutional negotiating structures on both sides; Iran currently does not"
+  },
+
+  "confidence_levels": {
+    "high": ["IRGC consolidation thesis", "Russian windfall incentive structure", "Hormuz mine problem as structural veto"],
+    "medium": ["30-day escalation probability ranges", "China pressure timeline"],
+    "low": ["Mojtaba independent agency", "IRGC internal coherence", "90-day scenario probabilities"]
+  },
+
+  "hormuz_status": {
+    "condition": "Functionally closed",
+    "tankers_waiting": 230,
+    "daily_disruption_bbl": "approximately 10 million",
+    "iea_reserve_release": "400 million barrels - largest in history",
+    "us_blockade": "Active since 13 April",
+    "bypass_capacity": "Saudi East-West Pipeline approximately 5M bbl/day partial bypass"
+  },
+
+  "global_inputs_summary": {
+    "russia": "Urals crude $116/barrel on 2 April - nearly double budget assumption. $45B-$151B additional 2026 revenues. 90% of crude exports to China and India. Perverse incentive to prolong conflict.",
+    "china": "38% of normal Hormuz flow. Half of seaborne oil supply. Pre-loaded reserves buying time but March imports already falling. Preferential passage arrangement with Iran. Xi-Lavrov meeting 15 April.",
+    "pakistan": "Brokered 8 April ceasefire. Islamabad talks collapsed 12 April. Working Lebanon and Yemen tracks. Indispensable but limited.",
+    "europe": "ECB warning stagflation and recession in Germany and Italy. G20 inflation projected 4%. US missile stocks overstretched affecting Ukraine aid."
+  },
+
+  "levant_baseline": {
+    "israel_fronts": ["Lebanon ground invasion (5 divisions)", "West Bank operations", "Partial Gaza deployment", "Southern Syria footprint"],
+    "lebanon_talks": "First direct Israel-Lebanon diplomatic talks in decades began 15 April; Hezbollah rejected wholesale",
+    "west_bank": "Settler attack injuries: 105/month in 2026 vs 30/month in 2024. 1,697 displaced. Systematic consolidation underway.",
+    "smotrich_speech": "9 April - explicit articulation of territorial expansion into Lebanon, West Bank, Syria buffer zones"
+  },
+
+  "delta_from_previous": "N/A - Issue 001, baseline established",
+
+  "next_session_instructions": "Fetch this file at session start. Run delta comparison against new signals before beginning Issue 002 synthesis. Check each trigger event status and each falsification condition against developments from the past week. Note what changed, what held, what was wrong and why. Feed delta report into Triad synthesis prompt."
+}
