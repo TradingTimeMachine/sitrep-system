@@ -159,6 +159,8 @@ Sources referenced: [Key sources]
 
 ## Style Notes
 
+## Style Notes
+
 - Length should match signal volume. On quiet days the update will be short. On active days it can run as long as the analysis requires. Never pad, never cut artificially.
 - Never use em dashes, double hyphens, or special characters. Use a colon, comma, or period instead.
 - Analytical, not journalistic.
