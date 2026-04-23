@@ -157,14 +157,14 @@ Sources referenced: [Key sources]
 
 ## Style Notes
 
+## Style Notes
+
 - Length should match signal volume. On quiet days the update will be short. On active days it can run as long as the analysis requires. Never pad, never cut artificially.
 - Never use em dashes, double hyphens, or special characters. Use a colon, comma, or period instead.
 - Analytical, not journalistic.
 - A quiet day produces a short update - that is correct and honest.
 - The discipline of saying "nothing significant moved today" is as valuable as finding signal.
 - Never manufacture urgency that is not supported by the signals.
-- - Sources go in the Sources Referenced section at the end only. Never interrupt prose with inline source attribution. Name the outlet cleanly at the end.
-- When Model Impact covers multiple sub-topics, give each sub-topic its own clearly labeled paragraph with a short header. Example: "On the blockade:" then the paragraph. "On Mojtaba:" then the paragraph. Never run multiple sub-topics into one extended block.
 - Sources go in the Sources Referenced section at the end only. Never interrupt prose with inline source attribution. Name the outlet cleanly at the end.
 - When Model Impact covers multiple sub-topics, give each sub-topic its own clearly labeled paragraph with a short header. Example: "On the blockade:" then the paragraph. "On Mojtaba:" then the paragraph. Never run multiple sub-topics into one extended block.
 
