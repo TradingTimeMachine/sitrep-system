@@ -13,8 +13,8 @@
       "close": 0.73
     },
     "Currencies: EUR/USD": {
-      "date": "2026-04-23",
-      "close": 1.168315
+      "date": "2026-04-24",
+      "close": 1.17215
     },
     "Currencies: Japanese Yen": {
       "date": "2026-04-23",
@@ -29,16 +29,16 @@
       "close": 96.63
     },
     "Energies: NY Harbor Heating Oil": {
-      "date": "2026-04-23",
-      "close": 3.89
+      "date": "2026-04-24",
+      "close": 3.85
     },
     "Energies: Unleaded Gas": {
       "date": "2026-04-23",
       "close": 3.33
     },
     "Energies: Natural Gas": {
-      "date": "2026-04-23",
-      "close": 3.03
+      "date": "2026-04-24",
+      "close": 3
     },
     "Energies: RBOB Gasoline": {
       "date": "2026-04-23",
@@ -1622,10 +1622,6 @@
     ],
     "Currencies: EUR/USD": [
       {
-        "date": "2025-10-26",
-        "close": 1.16308
-      },
-      {
         "date": "2025-10-27",
         "close": 1.16508
       },
@@ -2336,6 +2332,10 @@
       {
         "date": "2026-04-23",
         "close": 1.168315
+      },
+      {
+        "date": "2026-04-24",
+        "close": 1.17215
       }
     ],
     "Currencies: Japanese Yen": [
@@ -4312,6 +4312,10 @@
       {
         "date": "2026-04-23",
         "close": 3.89
+      },
+      {
+        "date": "2026-04-24",
+        "close": 3.85
       }
     ],
     "Energies: Unleaded Gas": [
@@ -5300,6 +5304,10 @@
       {
         "date": "2026-04-23",
         "close": 3.03
+      },
+      {
+        "date": "2026-04-24",
+        "close": 3
       }
     ],
     "Energies: RBOB Gasoline": [
@@ -17147,5 +17155,5 @@
       }
     ]
   },
-  "updated": "2026-04-25T02:33:33.692Z"
+  "updated": "2026-04-25T04:33:36.033Z"
 }
