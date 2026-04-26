@@ -30,31 +30,31 @@
     },
     "Energies: NY Harbor Heating Oil": {
       "date": "2026-04-24",
-      "close": 3.85
+      "close": 3.79
     },
     "Energies: Unleaded Gas": {
       "date": "2026-04-24",
-      "close": 3.35
+      "close": 3.33
     },
     "Energies: Natural Gas": {
       "date": "2026-04-24",
-      "close": 3
+      "close": 2.98
     },
     "Energies: RBOB Gasoline": {
       "date": "2026-04-24",
-      "close": 3.35
+      "close": 3.33
     },
     "Energies: Brent Crude": {
       "date": "2026-04-24",
-      "close": 105.88
+      "close": 105.33
     },
     "Meats: Feeder Cattle": {
       "date": "2026-04-24",
-      "close": 360.95
+      "close": 361.78
     },
     "Meats: Live Cattle": {
       "date": "2026-04-24",
-      "close": 244.88
+      "close": 245.23
     },
     "Meats: Lean Hogs": {
       "date": "2026-04-24",
@@ -62,11 +62,11 @@
     },
     "Meats: Milk Class III": {
       "date": "2026-04-24",
-      "close": 17.56
+      "close": 17.55
     },
     "Grains and Soy: Soybean Oil": {
       "date": "2026-04-24",
-      "close": 71.24
+      "close": 71.33
     },
     "Grains and Soy: Corn": {
       "date": "2026-04-24",
@@ -74,15 +74,15 @@
     },
     "Grains and Soy: Kansas City Wheat": {
       "date": "2026-04-24",
-      "close": 668.5
+      "close": 669.75
     },
     "Grains and Soy: Oats": {
       "date": "2026-04-24",
-      "close": 338.25
+      "close": 338
     },
     "Grains and Soy: Soybeans": {
       "date": "2026-04-24",
-      "close": 1176.75
+      "close": 1178.5
     },
     "Grains and Soy: Soybeans Meal": {
       "date": "2026-04-24",
@@ -90,7 +90,7 @@
     },
     "Grains and Soy: Wheat": {
       "date": "2026-04-24",
-      "close": 616.25
+      "close": 616.75
     },
     "Metals: Gold": {
       "date": "2026-04-24",
@@ -102,7 +102,7 @@
     },
     "Metals: Platinum": {
       "date": "2026-04-24",
-      "close": 2021
+      "close": 2030.4
     },
     "Metals: Silver": {
       "date": "2026-04-24",
@@ -126,7 +126,7 @@
     },
     "Interest Rates: 30 Year T-Bond": {
       "date": "2026-04-24",
-      "close": 114.13
+      "close": 114
     },
     "Softs and Fibers: Rice": {
       "date": "2026-04-24",
@@ -719,6 +719,10 @@
       },
       {
         "date": "2025-11-26",
+        "close": 1.32
+      },
+      {
+        "date": "2025-11-28",
         "close": 1.32
       },
       {
@@ -4311,7 +4315,7 @@
       },
       {
         "date": "2026-04-24",
-        "close": 3.85
+        "close": 3.79
       }
     ],
     "Energies: Unleaded Gas": [
@@ -4805,7 +4809,7 @@
       },
       {
         "date": "2026-04-24",
-        "close": 3.35
+        "close": 3.33
       }
     ],
     "Energies: Natural Gas": [
@@ -5299,7 +5303,7 @@
       },
       {
         "date": "2026-04-24",
-        "close": 3
+        "close": 2.98
       }
     ],
     "Energies: RBOB Gasoline": [
@@ -5793,7 +5797,7 @@
       },
       {
         "date": "2026-04-24",
-        "close": 3.35
+        "close": 3.33
       }
     ],
     "Energies: Brent Crude": [
@@ -6287,7 +6291,7 @@
       },
       {
         "date": "2026-04-24",
-        "close": 105.88
+        "close": 105.33
       }
     ],
     "Meats: Feeder Cattle": [
@@ -6781,7 +6785,7 @@
       },
       {
         "date": "2026-04-24",
-        "close": 360.95
+        "close": 361.78
       }
     ],
     "Meats: Live Cattle": [
@@ -6872,10 +6876,6 @@
       {
         "date": "2025-11-26",
         "close": 212.93
-      },
-      {
-        "date": "2025-11-28",
-        "close": 217.85
       },
       {
         "date": "2025-12-01",
@@ -7275,7 +7275,7 @@
       },
       {
         "date": "2026-04-24",
-        "close": 244.88
+        "close": 245.23
       }
     ],
     "Meats: Lean Hogs": [
@@ -8251,7 +8251,7 @@
       },
       {
         "date": "2026-04-24",
-        "close": 17.56
+        "close": 17.55
       }
     ],
     "Grains and Soy: Soybean Oil": [
@@ -8745,7 +8745,7 @@
       },
       {
         "date": "2026-04-24",
-        "close": 71.24
+        "close": 71.33
       }
     ],
     "Grains and Soy: Corn": [
@@ -9733,7 +9733,7 @@
       },
       {
         "date": "2026-04-24",
-        "close": 668.5
+        "close": 669.75
       }
     ],
     "Grains and Soy: Oats": [
@@ -9824,6 +9824,10 @@
       {
         "date": "2025-11-26",
         "close": 315
+      },
+      {
+        "date": "2025-11-28",
+        "close": 317.5
       },
       {
         "date": "2025-12-01",
@@ -10223,7 +10227,7 @@
       },
       {
         "date": "2026-04-24",
-        "close": 338.25
+        "close": 338
       }
     ],
     "Grains and Soy: Soybeans": [
@@ -10717,7 +10721,7 @@
       },
       {
         "date": "2026-04-24",
-        "close": 1176.75
+        "close": 1178.5
       }
     ],
     "Grains and Soy: Soybeans Meal": [
@@ -11304,6 +11308,10 @@
         "close": 540.5
       },
       {
+        "date": "2025-11-28",
+        "close": 538.5
+      },
+      {
         "date": "2025-12-01",
         "close": 535
       },
@@ -11701,7 +11709,7 @@
       },
       {
         "date": "2026-04-24",
-        "close": 616.25
+        "close": 616.75
       }
     ],
     "Metals: Gold": [
@@ -13183,7 +13191,7 @@
       },
       {
         "date": "2026-04-24",
-        "close": 2021
+        "close": 2030.4
       }
     ],
     "Metals: Silver": [
@@ -15746,10 +15754,6 @@
         "close": 117.84
       },
       {
-        "date": "2025-11-28",
-        "close": 117.44
-      },
-      {
         "date": "2025-12-01",
         "close": 116.22
       },
@@ -16147,7 +16151,7 @@
       },
       {
         "date": "2026-04-24",
-        "close": 114.13
+        "close": 114
       }
     ],
     "Softs and Fibers: Rice": [
@@ -17139,5 +17143,5 @@
       }
     ]
   },
-  "updated": "2026-04-26T04:33:54.883Z"
+  "updated": "2026-04-26T06:33:48.333Z"
 }
