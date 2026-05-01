@@ -1,51 +1,52 @@
 {
   "meta": {
-    "issue": "002",
-    "date": "2026-04-22",
-    "weekday": "Wednesday",
+    "issue": "003",
+    "date": "2026-05-01",
+    "weekday": "Thursday",
     "region": "Middle East",
     "cycle_day": 1,
-    "next_sitrep": "2026-04-29"
+    "next_sitrep": "2026-05-06"
   },
 
-  "core_thesis": "The IRGC has completed its transition from passive veto player to active dual-track operator, allowing civilian diplomats to signal negotiating flexibility while simultaneously conducting maritime operations that negate any civilian commitment. The open-ended ceasefire extension conditioned on Iranian internal unity transfers the decision on whether talks resume to the entity with the greatest structural incentive to prevent them. The U.S. has now publicly acknowledged this fracture, conditioning the ceasefire extension on Iran producing a unified proposal, which transfers the decision on whether talks ever resume to the entity with the greatest structural incentive to prevent them. This dynamic is expected to persist for 6 to 10 weeks unless either the IRGC command structure fractures internally or the U.S. abandons the unified-proposal precondition and engages the IRGC directly.",
+  "core_thesis": "The IRGC's Hormuz permission regime has been formally endorsed by Mojtaba Khamenei in written statements declaring nuclear and missile capabilities non-negotiable national assets and framing a Persian Gulf without U.S. presence as Iran's strategic end state. The decoupling proposal is not a concession: it is the IRGC's actual minimum acceptable outcome in diplomatic language, structurally incompatible with the U.S. minimum requirement of nuclear constraints. The ceasefire holds not because the sides are converging but because neither has a path to its minimum outcome, and Russia has inserted itself as an active diplomatic architect with a structural interest in prolonging the stalemate.",
 
-  "thesis_continuity": "PIVOT - structural diagnosis confirmed and publicly validated by Washington, but mechanism upgraded from static intransigence to active pressure cycling",
+  "thesis_continuity": "SUPPORTED from Issue 002 — structural diagnosis confirmed, IRGC dual-track and Hormuz permission regime thesis both validated at Supreme Leader level this week",
 
-  "thesis_timeframe": "6 to 10 weeks. End conditions: overt IRGC internal fracture forcing state restructuring, or U.S. resumes strikes following collapse of indefinite ceasefire, or U.S. redesigns negotiating approach to engage IRGC directly.",
+  "thesis_timeframe": "4 to 8 weeks. End conditions: U.S. accepts decoupling framework and defers nuclear negotiations; IRGC authorizes substantive back-channel bypassing civilian foreign ministry; Lebanon ceasefire collapse triggers Iran-U.S. escalation; or military strikes resume following a Hormuz triggering incident.",
 
-  "tactical_vs_structural_note": "The Hormuz open-close cycle is tactical and reversible. The IRGC's emergence as an independent public voice in foreign policy issuing statements that directly contradict civilian diplomats in real time is structural and durable. The indefinite ceasefire extension as structural veto mechanism is tactical in origin but structural in consequence.",
+  "tactical_vs_structural_note": "Mojtaba's written declarations on nuclear and missile capabilities are structural: they represent Supreme Leader-level endorsement of IRGC non-negotiables. The decoupling proposal is tactical: it can be revised without changing Iran's structural minimum. Russia's entry as active diplomatic architect is structural in consequence but tactical in its current expression — Putin can withdraw diplomatic cover if his interests shift. The Lebanon deterioration is tactical but carries structural escalation risk via the ceasefire linkage precedent.",
 
-  "pace_assessment": "faster_than_anticipated. The situation compressed a projected 30-day cycle into 7 days. The 30-day forecast window is functionally a 10-14 day decision window.",
+  "pace_assessment": "faster_than_anticipated on diplomatic hardening. Mojtaba's emergence as a direct policy voice on nuclear and Hormuz issues compressed the timeline on the thesis validation. The structural incompatibility is now explicit at the Supreme Leader level rather than implied through IRGC behavior. The 30-day forecast decision window is now dominated by the Trump-Xi summit variable and Lebanon track.",
 
   "key_actors": {
-    "iran_leadership": "IRGC military council, operating dual-track: Vahidi (IRGC commander), Zolghadr (SNSC Secretary), Rezai (military adviser to Mojtaba), Abdollahi (issuing independent public foreign policy statements)",
-    "iran_civilian_track": "Araghchi (foreign minister, Hormuz opening authority), Ghalibaf (parliament speaker, chief negotiator), Pezeshkian (president, public dialogue signals), Mohammadi (Ghalibaf adviser, public dismissal of ceasefire extension)",
-    "iran_figurehead": "Mojtaba Khamenei, not seen publicly since 9 March appointment. Reuters sources: 1-2 months minimum before potential public appearance.",
-    "us_posture": "Naval blockade expanded to global scope. Indefinite ceasefire extension announced April 21. 3-5 day new ultimatum issued April 22. Vance Pakistan trip canceled. Trump publicly acknowledged IRGC-civilian fracture.",
-    "key_mediator": "Pakistan, secured ceasefire extension but failed to deliver Iranian delegation to Islamabad talks. Mediation capital partially spent.",
-    "china_posture": "Condemning blockade publicly, maintaining preferential Hormuz passage, advancing Scarborough Shoal position during U.S. bandwidth consumption. Active multi-theater opportunist.",
-    "russia_posture": "Passive beneficiary. Urals crude tracking toward upper end of $45-151B additional 2026 revenue range. No active moves this week.",
-    "india_posture": "Active diplomatic complainant. Summoned Iranian ambassador after Indian-flagged vessel attacks. Studied neutrality under strain.",
-    "gcc_posture": "Hardening. Concession demands unchanged. Saudi East-West pipeline bypass capacity as primary energy hedge."
+    "iran_supreme_leader": "Mojtaba Khamenei — issuing written statements on nuclear and missile non-negotiables and Hormuz permanent management. Still not seen publicly. Operating through controlled written communications structure. Two substantive policy statements this week.",
+    "iran_civilian_track": "Araghchi (foreign minister, decoupling proposal author), Ghalibaf (parliament speaker, chief negotiator and national unity enforcer), Pezeshkian (president, blockade as military action framing)",
+    "iran_irgc": "IRGC military council — operational authority unchanged. Mojtaba's statements aligned with IRGC institutional interests throughout.",
+    "us_posture": "Blockade continuing, War Powers clock declared terminated, dissatisfied with decoupling proposal, Centcom briefed Trump on strike options, Maritime Freedom Construct coalition being assembled.",
+    "russia_posture": "Active diplomatic architect. Araghchi-Putin meeting Monday, Putin-Trump 90-minute call Tuesday, Russia defense minister met Iran deputy defense minister Monday. Structural interest in prolonging ceasefire.",
+    "china_posture": "Absorbed Hengli sanctions without escalation. Maintained preferential Hormuz passage. Trump-Xi summit approaching is the primary F3 activation window.",
+    "pakistan_posture": "Transmission mechanism. Delivered decoupling proposal to Washington. Cannot bridge structural incompatibility.",
+    "india_posture": "Monitoring. No new escalation this week.",
+    "gcc_posture": "Hardening. UAE described IRGC Hormuz tolls as piracy. Saudi East-West pipeline bypass remains primary energy hedge."
   },
 
   "forecasts": {
     "30_day": {
-      "most_likely": "Indefinite ceasefire holds in name. IRGC maritime pressure continues episodically. No second round of Islamabad talks. Reconstitution advances uninterrupted.",
-      "probability": "50-60%",
-      "direct_resumption_probability": "55-65% if 3-5 day ultimatum holds, 30-40% if Trump backs off again",
-      "key_uncertainty": "Whether Trump's 3-5 day ultimatum is the fourth deadline or the line that holds",
-      "velocity_note": "Functional decision window is 10-14 days, not 30"
+      "most_likely": "Continued ceasefire holding with diplomatic stalemate. Decoupling proposal rejected by U.S. Nuclear incompatibility persists. Blockade continues. IRGC maritime harassment episodic. Reconstitution advances.",
+      "probability": "50-55%",
+      "lebanon_collapse_probability": "20-25%",
+      "diplomatic_breakthrough_probability": "15-20%",
+      "direct_resumption_probability": "10-15%",
+      "key_variable": "Trump-Xi summit outcome and Lebanon ceasefire durability"
     },
     "60_day": {
-      "most_likely": "China import stress approaches domestic political threshold. Back-channel possibility increases. India diplomatic friction accumulates. Second round faces partially reconstituted Iran.",
-      "inflection_point": "China economic pain threshold and whether India escalates beyond ambassador summoning"
+      "most_likely": "Trump-Xi summit is the primary inflection point. Chinese posture adjustment or escalation will determine 60-day trajectory more than direct Iran-U.S. track.",
+      "inflection_point": "Trump-Xi summit outcome, China response to Hengli sanctions, Lebanon ceasefire status"
     },
     "90_day": {
-      "scenario_1": {"label": "Managed Escalation", "probability": "45%", "type": "tactical resolution, likely to produce second ceasefire at higher IRGC capability baseline"},
-      "scenario_2": {"label": "Negotiated Framework via IRGC back-channel", "probability": "25%", "type": "partial structural resolution if IRGC directly engaged"},
-      "scenario_3": {"label": "Structural Deterioration, Frozen Conflict", "probability": "30%", "type": "indefinite operational ceasefire with active maritime harassment as new normal"}
+      "scenario_1": {"label": "Structural Deterioration, Frozen Conflict", "probability": "40%", "type": "structural — Hormuz permission regime consolidates as new normal"},
+      "scenario_2": {"label": "Managed Escalation", "probability": "35%", "type": "tactical resolution producing second ceasefire at higher Iranian capability baseline"},
+      "scenario_3": {"label": "Negotiated Framework via nuclear sequencing", "probability": "25%", "type": "partial structural resolution if U.S. accepts decoupling with timeline commitment"}
     }
   },
 
@@ -54,133 +55,143 @@
       "id": "T1",
       "event": "Mojtaba Khamenei public appearance",
       "status": "NOT FIRED",
-      "significance": "Absence confirms leadership vacuum. 1-2 months minimum per Reuters sources."
+      "significance": "Now issuing substantive written policy statements including nuclear non-negotiables and Hormuz permanent management. Communication structure upgraded from ceremonial to strategic. Physical appearance trigger not fired."
     },
     {
       "id": "T2",
-      "event": "Attack on Saudi Aramco Abqaiq facility",
+      "event": "Attack on Saudi Aramco Abqaiq",
       "status": "NOT FIRED",
-      "significance": "Lower probability while Hormuz lever is active. IRGC prefers reversible pressure tools."
+      "significance": "Lower probability while Hormuz lever active."
     },
     {
       "id": "T3",
       "event": "Houthi attack on Bab el-Mandeb shipping",
       "status": "APPROACHING",
-      "significance": "Activation window widened by open-ended ceasefire. Timeframe 2-4 weeks if diplomatic track continues stalling."
+      "significance": "Activation window widening. Lebanon deterioration introduces new Houthi solidarity pathway. Revised timeframe 2-3 weeks."
     },
     {
       "id": "T4",
-      "event": "Chinese-flagged vessel incident with US Navy",
+      "event": "Chinese-flagged vessel incident with U.S. Navy",
       "status": "PARTIAL",
-      "significance": "Tifani interdiction in Bay of Bengal established global enforcement precedent. Full trigger requires Chinese-flagged vessel."
+      "significance": "Maritime Freedom Construct coalition assembly increases inadvertent contact risk. Hengli sanctions elevated Chinese diplomatic tension."
     },
     {
       "id": "T5",
       "event": "Knesset West Bank annexation vote",
       "status": "NOT FIRED",
-      "significance": "Extended timeline. Diplomatic absorption continues."
+      "significance": "Lebanon ceasefire collapse could create domestic Israeli conditions where annexation legislation advances."
     },
     {
       "id": "T6",
-      "event": "China South China Sea escalation to direct confrontation while Iran crisis continues",
+      "event": "China South China Sea escalation to direct confrontation",
       "status": "APPROACHING",
-      "significance": "Scarborough Shoal floating barrier deployment April 10-12 is the precursor action. Direct confrontation with U.S. or Philippine assets would force simultaneous multi-theater crisis management."
+      "significance": "No new development this week. Holding."
+    },
+    {
+      "id": "T7",
+      "event": "Lebanon ceasefire collapse triggering Iran-U.S. escalation",
+      "status": "APPROACHING",
+      "significance": "NEW. Hezbollah drone killed Israeli soldier today. Israeli strikes killed 14 Lebanese civilians. Mutual ceasefire violations active. Iran-ceasefire linkage precedent from April 17 still operative."
     }
   ],
 
   "falsification_conditions": [
     {
       "id": "F1",
-      "condition": "Mojtaba Khamenei appears publicly and demonstrates independent authority bypassing IRGC commanders on a material decision",
+      "condition": "Mojtaba demonstrates independent authority bypassing IRGC commanders on a material decision",
       "status": "NOT TRIGGERED",
       "condition_type": "structural",
-      "implication": "IRGC-capture thesis requires replacement"
+      "implication": "Mojtaba's statements upgraded from ceremonial to strategic this week but remain within IRGC-managed communication structure. Gap between figurehead and functioning Supreme Leader assessment narrowing but not closed."
     },
     {
       "id": "F2",
-      "condition": "Iran accepts phased Hormuz reopening without preconditions on nuclear program",
-      "status": "PARTIAL",
+      "condition": "Iran accepts phased Hormuz reopening without nuclear preconditions",
+      "status": "PARTIAL, upgraded",
       "condition_type": "tactical",
-      "implication": "Partial trigger confirmed thesis mechanism rather than challenging it. Civilian offer structurally unauthorized. Probability adjustment applied."
+      "implication": "Decoupling proposal offers Hormuz reopening but conditioned on blockade relief, not unconditional. Mojtaba's Hormuz permanent management endorsement works against full trigger."
     },
     {
       "id": "F3",
-      "condition": "China exercises direct public pressure on Tehran, moving beyond condemning blockade to active engagement on Iranian concessions",
+      "condition": "China exercises direct public pressure on Tehran for concessions",
       "status": "NOT TRIGGERED",
       "condition_type": "structural",
-      "implication": "China leverage thesis activating would accelerate resolution timeline"
+      "implication": "Trump-Xi summit is primary activation window. Hengli sanctions created conditions but China has not activated."
     },
     {
       "id": "F4",
-      "condition": "GCC state opens bilateral back-channel with Tehran producing partial agreement outside U.S. framework",
+      "condition": "GCC bilateral back-channel with Tehran produces partial agreement",
       "status": "NOT TRIGGERED",
       "condition_type": "structural",
-      "implication": "U.S.-led coalition pressure fracturing"
+      "implication": "UAE piracy characterization moves this further from triggering."
     },
     {
       "id": "F5",
       "condition": "Internal IRGC factional conflict becomes publicly visible",
-      "status": "APPROACHING",
+      "status": "APPROACHING, elevated",
       "condition_type": "structural",
-      "implication": "IRGC dual-voice is precursor condition. Abdollahi independent statement is first observable signal. Probability adjustment: upward on IRGC coherence uncertainty."
+      "implication": "Parliamentary unity declaration remains most visible fracture signal. No new development this week but internal pressure management not easing."
     },
     {
       "id": "F6",
-      "condition": "U.S. redesigns negotiating approach to engage IRGC directly rather than through civilian intermediaries",
+      "condition": "U.S. redesigns negotiating approach to engage IRGC directly",
       "status": "NOT TRIGGERED",
       "condition_type": "tactical",
-      "implication": "Would indicate strategic adaptation that could accelerate resolution timeline if IRGC engages."
+      "implication": "Centcom strike options briefing suggests escalation rather than engagement redesign is the current administration consideration."
     }
   ],
 
   "key_uncertainties": [
-    "Whether Trump's 3-5 day ultimatum holds or becomes the fourth deadline Iran watches him back off from",
-    "Whether the IRGC is running deliberate pressure calibration or genuine internal confusion",
-    "Whether China's import shortfall will generate sufficient domestic economic stress to motivate active Iran pressure within the 60-day window",
-    "Whether India's diplomatic friction escalates into a formal pressure track on Iran",
-    "Whether the IRGC's public dual-voice signals approaching internal factional conflict or a new confident assertiveness"
+    "Whether Trump-Xi summit produces Chinese posture adjustment on Iran",
+    "Whether Lebanon ceasefire collapse triggers Iran-U.S. escalation via the April 17 linkage precedent",
+    "Whether Mojtaba's written policy declarations represent genuine Supreme Leader authority or IRGC-authored messaging",
+    "Whether U.S. domestic gas price pressure ($4.30/gallon) forces a resolution timeline faster than the War Powers maneuver suggests",
+    "Whether Russia's ceasefire management role extends to active mediation or remains a cost-raising function for military resumption"
   ],
 
   "pattern_match": {
-    "label": "Active fighting during armistice negotiations",
-    "analog": "Korean War 1951-1953 armistice period",
-    "refinement_from_baseline": "Upgraded from static stalemate to active-fighting-during-armistice variant. IRGC seizing vessels on morning of ceasefire extension is the operational analog to continued fighting at the Punchbowl during Panmunjom talks.",
-    "key_difference": "Korea had institutional military-to-military negotiating structures. Iran's military has no formal negotiating channel. The civilian track is structurally unauthorized to make binding commitments.",
-    "trajectory": "Diverging from Korean resolution toward indefinite frozen conflict with active maritime harassment"
+    "label": "Sovereignty claim by attrition over critical waterway",
+    "analog": "Cod Wars Iceland-UK 1958-1976, refined from Korean armistice variant",
+    "key_similarity": "IRGC establishing permission regime through repeated low-level confrontations, enduring costs, betting on opposing party domestic political will exhausting first",
+    "key_difference": "Hormuz stakes existentially higher than fish supply. U.S. domestic gas prices and global supply disruption compress the political will exhaustion timeline.",
+    "trajectory": "Diverging from Korean armistice resolution, tracking toward sovereignty-claim-by-attrition variant with compressed timeline due to economic stakes"
   },
 
   "confidence_levels": {
-    "high": ["IRGC dual-track operation thesis", "Civilian diplomatic track unauthorized to make binding commitments", "Russian windfall incentive structure", "IRGC Hormuz permission regime as post-war structural goal"],
-    "medium": ["30-day escalation probability ranges pending 3-5 day ultimatum resolution", "China import stress timeline", "Pakistan mediation remaining capacity"],
-    "low": ["Whether IRGC is calibrating deliberately or operating in genuine internal confusion", "90-day scenario probabilities", "India pressure track trajectory"]
+    "high": ["IRGC dual-track thesis", "Structural incompatibility of decoupling proposal and U.S. nuclear requirements", "Russia structural interest in prolonging ceasefire", "Hormuz permission regime as IRGC permanent goal now endorsed at Supreme Leader level"],
+    "medium": ["30-day scenario probabilities", "China Trump-Xi summit response", "Lebanon escalation timeline"],
+    "low": ["Mojtaba independent agency versus IRGC-authored messaging", "90-day scenario probabilities", "Whether IRGC endurance calculation shifts under blockade pressure"]
   },
 
   "hormuz_status": {
-    "condition": "IRGC permission regime: vessels required to seek Iranian authorization for transit",
-    "vessels_seized_today": 2,
-    "vessels_fired_upon_today": 3,
-    "daily_disruption_bbl": "approximately 10 million, blockade leakage 26 ghost fleet vessels circumvented",
+    "condition": "Dual blockade — IRGC permission regime active, U.S. Navy blockading Iranian ports",
+    "shipping_drop": "90%+ since February 28",
+    "cumulative_disruption_bbl": "500 million barrels exceeded",
+    "seafarers_stranded": "approximately 20,000",
+    "daily_disruption_bbl": "approximately 13 million",
+    "us_gas_price": "$4.30/gallon average",
     "iea_reserve_release": "400 million barrels ongoing",
-    "us_blockade": "Active since 13 April, expanded to global scope April 16, first INDOPACOM interdiction April 21",
-    "bypass_capacity": "Saudi East-West Pipeline approximately 5M bbl/day partial bypass"
+    "maritime_freedom_construct": "U.S. State Department assembling coalition — New Zealand received proposal, conditional on sustainable ceasefire",
+    "bypass_capacity": "Saudi East-West Pipeline approximately 5M bbl/day"
   },
 
   "global_inputs_summary": {
-    "russia": "Passive beneficiary. Urals crude elevated. Windfall tracking toward upper revenue range. No active moves.",
-    "china": "Active multi-theater opportunist. Preferential Hormuz passage maintained. Scarborough Shoal floating barrier deployed April 10-12. Import stress accumulating.",
-    "pakistan": "Mediation capital partially spent. Ceasefire extension secured but Islamabad talks failed. Indispensable but exposed.",
-    "india": "Active diplomatic complainant. Summoned Iranian ambassador after Hormuz attacks on Indian-flagged vessels. Studied neutrality under strain.",
-    "europe": "ECB stagflation warnings tracking. No active diplomatic engagement. Normative opposition accumulating without converting to action."
+    "russia": "Active diplomatic architect. Araghchi-Putin meeting and Putin-Trump 90-minute call both this week. Russia defense minister met Iran deputy defense minister. Structural interest in prolonged ceasefire, not resolution.",
+    "china": "Absorbed Hengli sanctions without escalation. Maintained preferential passage. Trump-Xi summit is primary F3 activation window.",
+    "pakistan": "Transmission mechanism. Delivered decoupling proposal. Cannot bridge structural incompatibility.",
+    "india": "Holding. No new escalation.",
+    "europe": "Sweden jet fuel warning. IMF global growth warning. ECB stagflation tracking. Germany noting Iranian negotiating skill. Economic pain now operational."
   },
 
   "levant_baseline": {
-    "israel_fronts": ["Lebanon ground presence, 10-day ceasefire announced April 16 holding at state level", "West Bank consolidation continuing unaffected", "Partial Gaza deployment", "Southern Syria footprint"],
-    "lebanon_ceasefire": "Announced April 16, Israeli violations reported within hours per Lebanese military, Hezbollah rejected wholesale, Netanyahu confirmed no force withdrawal",
-    "west_bank": "Consolidation continuing. Smotrich April 9 expansion speech remains governing political framework.",
-    "hezbollah": "Activation window widened by open-ended ceasefire. Formal rejection of Lebanon talks on record."
+    "israel_lebanon": "Three-week ceasefire extended April 25. Mutual violations active. Hezbollah drone killed Israeli soldier today. Israeli strikes killed 14 Lebanese civilians in Nabatieh. Both sides claiming defensive response.",
+    "west_bank": "Consolidation continuing. Israeli forces 10km inside Lebanon, some ministers advocating Litani River expansion.",
+    "hezbollah": "Active operations despite ceasefire extension. Formal rejection of negotiations on record.",
+    "us_embassy_push": "Aoun-Netanyahu meeting proposed with U.S. facilitation. Lebanon PM met U.S. Ambassador Friday."
   },
 
-  "delta_from_previous": "PIVOT confirmed. Thesis mechanism upgraded from static intransigence to active pressure cycling. IRGC emerged as independent public foreign policy voice. U.S. publicly acknowledged IRGC-civilian fracture. Indefinite ceasefire extension removes primary pressure mechanism. Blockade expanded to global scope. China multi-theater opportunism activated at Scarborough Shoal. India entered as active diplomatic complainant. T6 added. F6 added.",
+  "new_this_week": "T7 added: Lebanon ceasefire collapse triggering Iran-U.S. escalation. Pattern match refined from Korean armistice to Cod Wars sovereignty-claim-by-attrition variant. Mojtaba communication upgraded from ceremonial to strategic. Russia upgraded to active diplomatic architect. Maritime Freedom Construct added as new U.S. coalition-building variable.",
 
-  "next_session_instructions": "Fetch this file at session start. The critical 3-5 day ultimatum Trump issued April 22 will resolve by approximately April 25-27. That resolution is the single most important near-term decision point. Run delta comparison against that outcome before beginning Issue 003 synthesis. Check whether the 3-5 day deadline held or was extended again, and update the 30-day probability ranges accordingly. Monitor T3 Houthi activation, T6 China South China Sea, and F5 IRGC factional visibility as the three fastest-moving variables entering Week 2."
+  "delta_from_previous": "SUPPORTED. Thesis confirmed at Supreme Leader level via Mojtaba written declarations. Decoupling proposal makes structural incompatibility explicit. Russia active entry as diplomatic architect changes military resumption cost calculus. Lebanon deterioration adds independent escalation pathway. War Powers clock declared terminated by Trump. Pattern match refined.",
+
+  "next_session_instructions": "Fetch this file at session start. The Trump-Xi summit timing is the single most important near-term variable. Monitor whether China adjusts Iran posture before or after the summit. Track Lebanon ceasefire durability following today's mutual violations. Watch whether Mojtaba issues further written statements on specific negotiating positions. The decoupling proposal's fate in Washington, formal rejection or counter-proposal, will be the first signal to check in Week 3 daily updates."
 }
