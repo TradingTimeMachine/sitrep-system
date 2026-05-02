@@ -13,8 +13,8 @@
       "close": 0.74
     },
     "Currencies: EUR/USD": {
-      "date": "2026-04-30",
-      "close": 1.17286
+      "date": "2026-05-01",
+      "close": 1.17275
     },
     "Currencies: Japanese Yen": {
       "date": "2026-04-30",
@@ -105,8 +105,8 @@
       "close": 2003
     },
     "Metals: Silver": {
-      "date": "2026-04-30",
-      "close": 74.03
+      "date": "2026-05-01",
+      "close": 75.84
     },
     "Interest Rates: 3 Month SOFR": {
       "date": "2026-04-30",
@@ -1622,10 +1622,6 @@
     ],
     "Currencies: EUR/USD": [
       {
-        "date": "2025-11-02",
-        "close": 1.15269
-      },
-      {
         "date": "2025-11-03",
         "close": 1.1518
       },
@@ -2340,6 +2336,10 @@
       {
         "date": "2026-04-30",
         "close": 1.17286
+      },
+      {
+        "date": "2026-05-01",
+        "close": 1.17275
       }
     ],
     "Currencies: Japanese Yen": [
@@ -13686,6 +13686,10 @@
       {
         "date": "2026-04-30",
         "close": 74.03
+      },
+      {
+        "date": "2026-05-01",
+        "close": 75.84
       }
     ],
     "Interest Rates: 3 Month SOFR": [
@@ -17151,5 +17155,5 @@
       }
     ]
   },
-  "updated": "2026-05-02T02:37:17.632Z"
+  "updated": "2026-05-02T04:33:36.533Z"
 }
