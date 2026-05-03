@@ -70,7 +70,7 @@
     },
     "Grains and Soy: Corn": {
       "date": "2026-05-01",
-      "close": 479.5
+      "close": 480.25
     },
     "Grains and Soy: Kansas City Wheat": {
       "date": "2026-05-01",
@@ -82,7 +82,7 @@
     },
     "Grains and Soy: Soybeans": {
       "date": "2026-05-01",
-      "close": 1201.5
+      "close": 1203.25
     },
     "Grains and Soy: Soybeans Meal": {
       "date": "2026-05-01",
@@ -90,7 +90,7 @@
     },
     "Grains and Soy: Wheat": {
       "date": "2026-05-01",
-      "close": 636.5
+      "close": 637.75
     },
     "Metals: Gold": {
       "date": "2026-05-01",
@@ -110,7 +110,7 @@
     },
     "Interest Rates: 3 Month SOFR": {
       "date": "2026-05-01",
-      "close": 96.31
+      "close": 96.3
     },
     "Interest Rates: 5 Year T-Notes": {
       "date": "2026-05-01",
@@ -9239,7 +9239,7 @@
       },
       {
         "date": "2026-05-01",
-        "close": 479.5
+        "close": 480.25
       }
     ],
     "Grains and Soy: Kansas City Wheat": [
@@ -10721,7 +10721,7 @@
       },
       {
         "date": "2026-05-01",
-        "close": 1201.5
+        "close": 1203.25
       }
     ],
     "Grains and Soy: Soybeans Meal": [
@@ -11709,7 +11709,7 @@
       },
       {
         "date": "2026-05-01",
-        "close": 636.5
+        "close": 637.75
       }
     ],
     "Metals: Gold": [
@@ -14179,7 +14179,7 @@
       },
       {
         "date": "2026-05-01",
-        "close": 96.31
+        "close": 96.3
       }
     ],
     "Interest Rates: 5 Year T-Notes": [
@@ -17147,5 +17147,5 @@
       }
     ]
   },
-  "updated": "2026-05-03T06:33:46.383Z"
+  "updated": "2026-05-03T08:33:54.143Z"
 }
