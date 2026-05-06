@@ -49,8 +49,8 @@
       "close": 110.22
     },
     "Meats: Feeder Cattle": {
-      "date": "2026-05-04",
-      "close": 366.98
+      "date": "2026-05-05",
+      "close": 372.23
     },
     "Meats: Live Cattle": {
       "date": "2026-05-05",
@@ -69,8 +69,8 @@
       "close": 76.78
     },
     "Grains and Soy: Corn": {
-      "date": "2026-05-04",
-      "close": 485.75
+      "date": "2026-05-05",
+      "close": 479.75
     },
     "Grains and Soy: Kansas City Wheat": {
       "date": "2026-05-05",
@@ -81,8 +81,8 @@
       "close": 358
     },
     "Grains and Soy: Soybeans": {
-      "date": "2026-05-04",
-      "close": 1222.75
+      "date": "2026-05-05",
+      "close": 1210.25
     },
     "Grains and Soy: Soybeans Meal": {
       "date": "2026-05-05",
@@ -94,7 +94,7 @@
     },
     "Metals: Gold": {
       "date": "2026-05-05",
-      "close": 4557.9
+      "close": 4568.5
     },
     "Metals: Copper": {
       "date": "2026-05-05",
@@ -106,23 +106,23 @@
     },
     "Metals: Silver": {
       "date": "2026-05-05",
-      "close": 73.22
+      "close": 73.58
     },
     "Interest Rates: 3 Month SOFR": {
       "date": "2026-05-05",
       "close": 96.23
     },
     "Interest Rates: 5 Year T-Notes": {
-      "date": "2026-05-04",
-      "close": 107.52
+      "date": "2026-05-05",
+      "close": 107.58
     },
     "Interest Rates: 2 Year T-Notes": {
-      "date": "2026-05-04",
-      "close": 103.44
+      "date": "2026-05-05",
+      "close": 103.46
     },
     "Interest Rates: 10 Year T-Bond": {
-      "date": "2026-05-04",
-      "close": 103.44
+      "date": "2026-05-05",
+      "close": 103.46
     },
     "Interest Rates: 30 Year T-Bond": {
       "date": "2026-05-05",
@@ -6725,7 +6725,11 @@
       },
       {
         "date": "2026-05-04",
-        "close": 366.98
+        "close": 366.6
+      },
+      {
+        "date": "2026-05-05",
+        "close": 372.23
       }
     ],
     "Meats: Live Cattle": [
@@ -8179,7 +8183,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 16.94
+        "close": 17.21
       },
       {
         "date": "2026-05-05",
@@ -9160,6 +9164,10 @@
       {
         "date": "2026-05-04",
         "close": 485.75
+      },
+      {
+        "date": "2026-05-05",
+        "close": 479.75
       }
     ],
     "Grains and Soy: Kansas City Wheat": [
@@ -10626,6 +10634,10 @@
       {
         "date": "2026-05-04",
         "close": 1222.75
+      },
+      {
+        "date": "2026-05-05",
+        "close": 1210.25
       }
     ],
     "Grains and Soy: Soybeans Meal": [
@@ -11597,7 +11609,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 641.25
+        "close": 641
       },
       {
         "date": "2026-05-05",
@@ -12091,7 +12103,7 @@
       },
       {
         "date": "2026-05-05",
-        "close": 4557.9
+        "close": 4568.5
       }
     ],
     "Metals: Copper": [
@@ -13561,7 +13573,7 @@
       },
       {
         "date": "2026-05-05",
-        "close": 73.22
+        "close": 73.58
       }
     ],
     "Interest Rates: 3 Month SOFR": [
@@ -14538,6 +14550,10 @@
       {
         "date": "2026-05-04",
         "close": 107.52
+      },
+      {
+        "date": "2026-05-05",
+        "close": 107.58
       }
     ],
     "Interest Rates: 2 Year T-Notes": [
@@ -15023,7 +15039,11 @@
       },
       {
         "date": "2026-05-04",
-        "close": 103.44
+        "close": 103.42
+      },
+      {
+        "date": "2026-05-05",
+        "close": 103.46
       }
     ],
     "Interest Rates: 10 Year T-Bond": [
@@ -15509,7 +15529,11 @@
       },
       {
         "date": "2026-05-04",
-        "close": 103.44
+        "close": 103.42
+      },
+      {
+        "date": "2026-05-05",
+        "close": 103.46
       }
     ],
     "Interest Rates: 30 Year T-Bond": [
@@ -15995,7 +16019,7 @@
       },
       {
         "date": "2026-05-04",
-        "close": 112.28
+        "close": 112.16
       },
       {
         "date": "2026-05-05",
@@ -16983,5 +17007,5 @@
       }
     ]
   },
-  "updated": "2026-05-06T06:33:56.067Z"
+  "updated": "2026-05-06T08:34:03.922Z"
 }
