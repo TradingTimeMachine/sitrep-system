@@ -1,179 +1,18 @@
-{
-  "archive_meta": {
-    "description": "Longitudinal memory archive — every weekly memory record accumulated here. Never overwritten, only appended. This is the analytical history of the intelligence model.",
-    "first_entry": "2026-04-15",
-    "total_issues": 1
-  },
+## INTELLIGENCE BRIEF — ISSUE 003
+*For publication and distribution.*
 
-  "records": [
-    {
-      "issue": "001",
-      "date": "2026-04-15",
-      "core_thesis": "Iran's IRGC has captured the state; Mojtaba is a figurehead; constitutional command authority is inoperative; the US is negotiating with an entity that cannot make binding commitments",
-      "30_day_forecast": "Proxy escalation 60-70%; direct resumption 40-50%; Houthi activation primary vector",
-      "90_day_scenarios": "Managed escalation 45%; partial resolution 30%; Iranian internal collapse 25%",
-      "pattern_match": "Escalation ladder forming — Korean War stalemate model",
-      "falsification_conditions_set": 5,
-      "falsification_conditions_triggered": 0,
-      "triggers_watched": 5,
-      "triggers_fired": 0,
-      "key_uncertainty": "Mojtaba independent agency; IRGC internal coherence",
-      "confidence_primary": "High on IRGC consolidation and Russian windfall incentive",
-      "outcome_tracking": "PENDING — check Issue 002"
-    }
-  ]
-}
-{
-  "meta": {
-    "issue": "001",
-    "date": "2026-04-15",
-    "weekday": "Wednesday",
-    "region": "Middle East",
-    "cycle_day": 1,
-    "next_sitrep": "2026-04-22"
-  },
+---
 
-  "core_thesis": "Iran's IRGC has captured the state following Khamenei's assassination. Mojtaba Khamenei is a figurehead installed under IRGC pressure who has not appeared publicly since his 9 March appointment. The constitutional mechanism requiring Supreme Leader confirmation of SNSC decisions is structurally inoperative. The United States is conducting blockade operations and peace negotiations simultaneously against an entity that cannot constitutionally authorize a deal and has every military incentive not to. The ceasefire is a reorganization interval, not a peace-building interval.",
+The ceasefire between the United States and Iran is holding. That fact, reported daily as a diplomatic achievement, conceals the more important analytical reality: it is holding not because the two sides are converging on an agreement but because they are locked in a structural incompatibility that neither side can resolve on its current terms. Mojtaba Khamenei's written statement this week declaring nuclear and missile capabilities "national assets" that Iran will protect, combined with his framing of a Persian Gulf "without America" as Iran's strategic end state, removed the last ambiguity about whether a deal that satisfies U.S. minimum requirements is achievable through the current diplomatic architecture. It is not.
 
-  "thesis_continuity": "BASELINE - first issue, no prior thesis to compare",
+The decoupling proposal Tehran delivered to Washington via Pakistan offers Hormuz reopening in exchange for blockade relief, with nuclear constraints deferred to a future negotiation. It is being assessed in Western media as Iran showing flexibility. The Triad model reads it differently. A proposal that exchanges the one thing the U.S. needs most, Hormuz reopening, for the removal of all economic pressure mechanisms while explicitly excluding the original cause of the war is not a concession. It is a statement of Iran's actual minimum acceptable outcome: reconstituted military capability, removed economic pressure, permanent Hormuz management authority, and no binding nuclear constraints. That Iran's civilian foreign minister can submit this proposal while Mojtaba simultaneously declares nuclear capabilities non-negotiable in a separate written statement is the dual-track thesis expressed in its most complete form. The civilian track signals flexibility. The Supreme Leader level hardlines the position. Washington is receiving both signals and correctly assessing them as incompatible, calling the Iranian leadership "very disjointed." It is not disjointed. It is running two tracks toward the same outcome.
 
-  "key_actors": {
-    "iran_leadership": "IRGC military council - Vahidi (IRGC commander), Zolghadr (SNSC Secretary), Rezai (military adviser to Mojtaba)",
-    "iran_figurehead": "Mojtaba Khamenei - not seen publicly since 9 March appointment",
-    "us_posture": "Naval blockade of Iranian ports active since 13 April; mine clearance operations underway; Vance left Islamabad talks with final and best offer",
-    "key_mediator": "Pakistan - sole active mediator with access to all parties; working Lebanon and Yemen tracks simultaneously",
-    "china_posture": "Condemning blockade publicly; allowing Chinese-flagged vessels preferential Hormuz passage; Xi met Lavrov 15 April",
-    "russia_posture": "Strategic beneficiary - up to $151B additional 2026 revenues; perverse incentive to prolong conflict",
-    "gcc_posture": "Hardening - actively demanding nuclear, missile, Hormuz, and proxy concessions from Tehran; Qatar seeking reparations"
-  },
+Russia's active entry into the diplomatic architecture this week changes the cost calculus for military resumption in a way that was not present at baseline. Putin's 90-minute call with Trump endorsed the ceasefire extension while explicitly warning against military action. The Araghchi-Putin meeting the previous day included Russia's defense minister simultaneously meeting Iran's deputy defense minister. Russia is now providing Iran diplomatic cover at the foreign minister level and military coordination at the defense minister level simultaneously, mirroring the dual-track structure it observed Iran using and adopting it for its own purposes. Russia's structural interest is not peace. It is prolonged ceasefire: every week Hormuz stays closed is another week of windfall energy revenue, another week of reduced U.S. strategic bandwidth for Ukraine, and another week of Russian diplomatic relevance. Putin has found a way to be indispensable to both sides of a conflict in which he has no formal role, and he is using that position to manage the ceasefire's duration without facilitating its resolution.
 
-  "forecasts": {
-    "30_day": {
-      "most_likely": "Ceasefire expires without renewal; IRGC-authorized proxy escalation rather than direct strikes",
-      "proxy_escalation_probability": "60-70%",
-      "direct_resumption_probability": "40-50%",
-      "primary_vector": "Houthi activation or Iraqi militia attacks on US bases"
-    },
-    "60_day": {
-      "most_likely": "If proxy escalation triggers US kinetic response, second round faces partially reconstituted Iranian missile capability. China back-channel possible as import shortfall becomes acute.",
-      "inflection_point": "China-brokered Iran-Gulf back-channel bypassing Washington"
-    },
-    "90_day": {
-      "scenario_1": {"label": "Negotiated partial resolution", "probability": "30%"},
-      "scenario_2": {"label": "Managed escalation - most likely", "probability": "45%"},
-      "scenario_3": {"label": "Structural Iranian internal collapse", "probability": "25%", "note": "Lowest probability, highest consequence spread"}
-    }
-  },
+The cumulative cost of the stalemate is now irreversible on any short timeline. The U.K. Royal Navy reported this week that shipping traffic in Hormuz has dropped more than 90% since the war began. Half a billion barrels of supply disruption have accumulated. Twenty thousand seafarers are stranded on vessels in the waterway. Sweden has warned of an operational jet fuel shortage. U.S. gas prices average $4.30 per gallon. The IMF has warned of global growth impacts even if the ceasefire holds. The economic damage is no longer a pressure lever that can be released quickly by a deal announcement. It will take months to unwind even if an agreement is reached tomorrow. This creates a perverse dynamic: the longer the stalemate holds, the less incentive either side has to make concessions to resolve it quickly, because the economic costs are already banked regardless of what happens next.
 
-  "trigger_events_watched": [
-    {
-      "id": "T1",
-      "event": "Mojtaba Khamenei public appearance",
-      "status": "NOT FIRED",
-      "significance": "Presence signals controllable figurehead; absence signals leadership vacuum deeper than acknowledged"
-    },
-    {
-      "id": "T2",
-      "event": "Attack on Saudi Aramco Abqaiq facility",
-      "status": "NOT FIRED",
-      "significance": "Signals IRGC chose escalation over negotiation; historic oil price shock"
-    },
-    {
-      "id": "T3",
-      "event": "Houthi attack on Bab el-Mandeb shipping",
-      "status": "NOT FIRED",
-      "significance": "Dual-chokepoint scenario - most severe global supply disruption outcome"
-    },
-    {
-      "id": "T4",
-      "event": "Chinese-flagged vessel incident with US Navy during blockade",
-      "status": "NOT FIRED",
-      "significance": "Forces Beijing off diplomatic fence into active opposition"
-    },
-    {
-      "id": "T5",
-      "event": "Knesset West Bank annexation vote",
-      "status": "NOT FIRED",
-      "significance": "Fractures Arab League acquiescence to Israel's Iran operation"
-    }
-  ],
+The Lebanon track deteriorated today in a way that introduces an independent escalation pathway. A Hezbollah drone strike killed an Israeli soldier in southern Lebanon. Israeli strikes killed at least 14 Lebanese civilians in the Nabatieh district. Both sides cited the other's ceasefire violations. The original Iran-U.S. ceasefire was explicitly linked to the Lebanon track in its early weeks, with Iran pausing Hormuz traffic in response to Israeli strikes in Lebanon. That linkage was never formally severed. If the Lebanon ceasefire collapses and Iran invokes that precedent, the diplomatic track on Hormuz faces immediate pressure from a Levant dynamic that neither Washington nor Tehran directly controls.
 
-  "falsification_conditions": [
-    {
-      "id": "F1",
-      "condition": "Mojtaba Khamenei appears publicly and demonstrates independent authority, bypassing IRGC commanders on a material decision",
-      "status": "NOT TRIGGERED",
-      "implication": "IRGC-capture thesis requires revision"
-    },
-    {
-      "id": "F2",
-      "condition": "Iran accepts phased Hormuz reopening without preconditions on nuclear program",
-      "status": "NOT TRIGGERED",
-      "implication": "IRGC hardliner control thesis weakened; negotiated resolution scenario probability increases"
-    },
-    {
-      "id": "F3",
-      "condition": "China exercises direct public pressure on Tehran - moves beyond condemning blockade to active engagement on Iranian concessions",
-      "status": "NOT TRIGGERED",
-      "implication": "China leverage thesis activating; resolution timeline potentially accelerating"
-    },
-    {
-      "id": "F4",
-      "condition": "GCC state opens bilateral back-channel with Tehran producing partial agreement outside US framework",
-      "status": "NOT TRIGGERED",
-      "implication": "US-led coalition pressure fracturing; regional diplomatic realignment underway"
-    },
-    {
-      "id": "F5",
-      "condition": "Internal IRGC factional conflict becomes publicly visible",
-      "status": "NOT TRIGGERED",
-      "implication": "Unified hardliner thesis requires revision; window for moderate faction may be opening"
-    }
-  ],
+What the next phase looks like depends on which of three variables moves first. If the Trump-Xi summit produces a Chinese adjustment of its Iran posture, either direct pressure on Tehran or withdrawal of preferential passage support, the economic pressure on Iran intensifies materially and the IRGC's endurance calculation changes. If Lebanon collapses and Iran invokes the ceasefire linkage, the diplomatic track resets to its most dangerous configuration. If neither of those occurs and the stalemate extends through May, Iran's reconstitution advances, the Hormuz permission regime hardens further into permanent administrative practice, and the cost of eventual military resumption rises with each passing week. The IRGC understands this arithmetic. It is the only actor in the system whose preferred outcome improves with the passage of time.
 
-  "key_uncertainties": [
-    "Whether Mojtaba Khamenei has any independent clerical authority beyond IRGC backing",
-    "Whether IRGC command structure is unified or factionally contested beneath surface",
-    "Whether Iran's mine problem in Hormuz is genuine or manufactured as compliance excuse",
-    "Whether China will convert economic pressure into diplomatic leverage on Iran and at what threshold"
-  ],
-
-  "pattern_match": {
-    "label": "Escalation ladder forming",
-    "analog": "Korean War 1951 stalemate - not clean resolution model",
-    "key_difference": "Korea had institutional negotiating structures on both sides; Iran currently does not"
-  },
-
-  "confidence_levels": {
-    "high": ["IRGC consolidation thesis", "Russian windfall incentive structure", "Hormuz mine problem as structural veto"],
-    "medium": ["30-day escalation probability ranges", "China pressure timeline"],
-    "low": ["Mojtaba independent agency", "IRGC internal coherence", "90-day scenario probabilities"]
-  },
-
-  "hormuz_status": {
-    "condition": "Functionally closed",
-    "tankers_waiting": 230,
-    "daily_disruption_bbl": "approximately 10 million",
-    "iea_reserve_release": "400 million barrels - largest in history",
-    "us_blockade": "Active since 13 April",
-    "bypass_capacity": "Saudi East-West Pipeline approximately 5M bbl/day partial bypass"
-  },
-
-  "global_inputs_summary": {
-    "russia": "Urals crude $116/barrel on 2 April - nearly double budget assumption. $45B-$151B additional 2026 revenues. 90% of crude exports to China and India. Perverse incentive to prolong conflict.",
-    "china": "38% of normal Hormuz flow. Half of seaborne oil supply. Pre-loaded reserves buying time but March imports already falling. Preferential passage arrangement with Iran. Xi-Lavrov meeting 15 April.",
-    "pakistan": "Brokered 8 April ceasefire. Islamabad talks collapsed 12 April. Working Lebanon and Yemen tracks. Indispensable but limited.",
-    "europe": "ECB warning stagflation and recession in Germany and Italy. G20 inflation projected 4%. US missile stocks overstretched affecting Ukraine aid."
-  },
-
-  "levant_baseline": {
-    "israel_fronts": ["Lebanon ground invasion (5 divisions)", "West Bank operations", "Partial Gaza deployment", "Southern Syria footprint"],
-    "lebanon_talks": "First direct Israel-Lebanon diplomatic talks in decades began 15 April; Hezbollah rejected wholesale",
-    "west_bank": "Settler attack injuries: 105/month in 2026 vs 30/month in 2024. 1,697 displaced. Systematic consolidation underway.",
-    "smotrich_speech": "9 April - explicit articulation of territorial expansion into Lebanon, West Bank, Syria buffer zones"
-  },
-
-  "delta_from_previous": "N/A - Issue 001, baseline established",
-
-  "next_session_instructions": "Fetch this file at session start. Run delta comparison against new signals before beginning Issue 002 synthesis. Check each trigger event status and each falsification condition against developments from the past week. Note what changed, what held, what was wrong and why. Feed delta report into Triad synthesis prompt."
-}
+Produced by TradingTimeMachine Intelligence Division. AI-assisted open source analysis. Triad Analytical Framework.
