@@ -14,7 +14,7 @@
     },
     "Currencies: EUR/USD": {
       "date": "2026-05-05",
-      "close": 1.171555
+      "close": 1.17153
     },
     "Currencies: Japanese Yen": {
       "date": "2026-05-05",
@@ -2319,11 +2319,11 @@
       },
       {
         "date": "2026-05-04",
-        "close": 1.16916
+        "close": 1.16912
       },
       {
         "date": "2026-05-05",
-        "close": 1.171555
+        "close": 1.17153
       }
     ],
     "Currencies: Japanese Yen": [
@@ -17011,5 +17011,5 @@
       }
     ]
   },
-  "updated": "2026-05-07T00:34:08.418Z"
+  "updated": "2026-05-07T02:34:18.214Z"
 }
