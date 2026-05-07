@@ -126,7 +126,7 @@
     },
     "Interest Rates: 30 Year T-Bond": {
       "date": "2026-05-06",
-      "close": 113.72
+      "close": 113.75
     },
     "Softs and Fibers: Rice": {
       "date": "2026-05-06",
@@ -16027,7 +16027,7 @@
       },
       {
         "date": "2026-05-06",
-        "close": 113.72
+        "close": 113.75
       }
     ],
     "Softs and Fibers: Rice": [
@@ -17011,5 +17011,5 @@
       }
     ]
   },
-  "updated": "2026-05-07T14:37:56.245Z"
+  "updated": "2026-05-07T16:33:51.942Z"
 }
