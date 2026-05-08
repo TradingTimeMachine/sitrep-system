@@ -14,7 +14,7 @@
     },
     "Currencies: EUR/USD": {
       "date": "2026-05-06",
-      "close": 1.174715
+      "close": 1.17467
     },
     "Currencies: Japanese Yen": {
       "date": "2026-05-06",
@@ -126,7 +126,7 @@
     },
     "Interest Rates: 30 Year T-Bond": {
       "date": "2026-05-06",
-      "close": 113.75
+      "close": 113.72
     },
     "Softs and Fibers: Rice": {
       "date": "2026-05-06",
@@ -2327,7 +2327,7 @@
       },
       {
         "date": "2026-05-06",
-        "close": 1.174715
+        "close": 1.17467
       }
     ],
     "Currencies: Japanese Yen": [
@@ -16027,7 +16027,7 @@
       },
       {
         "date": "2026-05-06",
-        "close": 113.75
+        "close": 113.72
       }
     ],
     "Softs and Fibers: Rice": [
@@ -17015,5 +17015,5 @@
       }
     ]
   },
-  "updated": "2026-05-08T00:33:39.371Z"
+  "updated": "2026-05-08T02:33:39.988Z"
 }
