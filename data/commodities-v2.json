@@ -13,8 +13,8 @@
       "close": 0.73
     },
     "Currencies: EUR/USD": {
-      "date": "2026-05-06",
-      "close": 1.17467
+      "date": "2026-05-07",
+      "close": 1.173045
     },
     "Currencies: Japanese Yen": {
       "date": "2026-05-06",
@@ -45,8 +45,8 @@
       "close": 3.47
     },
     "Energies: Brent Crude": {
-      "date": "2026-05-06",
-      "close": 101.27
+      "date": "2026-05-07",
+      "close": 102.33
     },
     "Meats: Feeder Cattle": {
       "date": "2026-05-06",
@@ -93,8 +93,8 @@
       "close": 617.75
     },
     "Metals: Gold": {
-      "date": "2026-05-06",
-      "close": 4694.3
+      "date": "2026-05-07",
+      "close": 4703.1
     },
     "Metals: Copper": {
       "date": "2026-05-06",
@@ -105,8 +105,8 @@
       "close": 2062.6
     },
     "Metals: Silver": {
-      "date": "2026-05-06",
-      "close": 77.3
+      "date": "2026-05-07",
+      "close": 79.25
     },
     "Interest Rates: 3 Month SOFR": {
       "date": "2026-05-06",
@@ -126,7 +126,7 @@
     },
     "Interest Rates: 30 Year T-Bond": {
       "date": "2026-05-06",
-      "close": 113.72
+      "close": 113.75
     },
     "Softs and Fibers: Rice": {
       "date": "2026-05-06",
@@ -1610,10 +1610,6 @@
     ],
     "Currencies: EUR/USD": [
       {
-        "date": "2025-11-08",
-        "close": 1.1568
-      },
-      {
         "date": "2025-11-09",
         "close": 1.15429
       },
@@ -2328,6 +2324,10 @@
       {
         "date": "2026-05-06",
         "close": 1.17467
+      },
+      {
+        "date": "2026-05-07",
+        "close": 1.173045
       }
     ],
     "Currencies: Japanese Yen": [
@@ -6244,6 +6244,10 @@
       {
         "date": "2026-05-06",
         "close": 101.27
+      },
+      {
+        "date": "2026-05-07",
+        "close": 102.33
       }
     ],
     "Meats: Feeder Cattle": [
@@ -12108,6 +12112,10 @@
       {
         "date": "2026-05-06",
         "close": 4694.3
+      },
+      {
+        "date": "2026-05-07",
+        "close": 4703.1
       }
     ],
     "Metals: Copper": [
@@ -13578,6 +13586,10 @@
       {
         "date": "2026-05-06",
         "close": 77.3
+      },
+      {
+        "date": "2026-05-07",
+        "close": 79.25
       }
     ],
     "Interest Rates: 3 Month SOFR": [
@@ -16027,7 +16039,7 @@
       },
       {
         "date": "2026-05-06",
-        "close": 113.72
+        "close": 113.75
       }
     ],
     "Softs and Fibers: Rice": [
@@ -17015,5 +17027,5 @@
       }
     ]
   },
-  "updated": "2026-05-08T02:33:39.988Z"
+  "updated": "2026-05-08T04:34:08.321Z"
 }
