@@ -46,7 +46,7 @@
     },
     "Energies: Brent Crude": {
       "date": "2026-05-08",
-      "close": 100.49
+      "close": 101.29
     },
     "Meats: Feeder Cattle": {
       "date": "2026-05-08",
@@ -74,11 +74,11 @@
     },
     "Grains and Soy: Kansas City Wheat": {
       "date": "2026-05-08",
-      "close": 677.25
+      "close": 675.75
     },
     "Grains and Soy: Oats": {
       "date": "2026-05-08",
-      "close": 350.5
+      "close": 348
     },
     "Grains and Soy: Soybeans": {
       "date": "2026-05-08",
@@ -90,7 +90,7 @@
     },
     "Grains and Soy: Wheat": {
       "date": "2026-05-08",
-      "close": 620
+      "close": 619
     },
     "Metals: Gold": {
       "date": "2026-05-08",
@@ -6287,7 +6287,7 @@
       },
       {
         "date": "2026-05-08",
-        "close": 100.49
+        "close": 101.29
       }
     ],
     "Meats: Feeder Cattle": [
@@ -9733,7 +9733,7 @@
       },
       {
         "date": "2026-05-08",
-        "close": 677.25
+        "close": 675.75
       }
     ],
     "Grains and Soy: Oats": [
@@ -10227,7 +10227,7 @@
       },
       {
         "date": "2026-05-08",
-        "close": 350.5
+        "close": 348
       }
     ],
     "Grains and Soy: Soybeans": [
@@ -11709,7 +11709,7 @@
       },
       {
         "date": "2026-05-08",
-        "close": 620
+        "close": 619
       }
     ],
     "Metals: Gold": [
@@ -17139,5 +17139,5 @@
       }
     ]
   },
-  "updated": "2026-05-10T06:34:02.294Z"
+  "updated": "2026-05-10T08:33:57.321Z"
 }
