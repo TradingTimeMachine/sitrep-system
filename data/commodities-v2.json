@@ -77,8 +77,8 @@
       "close": 731.25
     },
     "Grains and Soy: Oats": {
-      "date": "2026-05-11",
-      "close": 354.5
+      "date": "2026-05-12",
+      "close": 362.75
     },
     "Grains and Soy: Soybeans": {
       "date": "2026-05-12",
@@ -10140,6 +10140,10 @@
       {
         "date": "2026-05-11",
         "close": 354.5
+      },
+      {
+        "date": "2026-05-12",
+        "close": 362.75
       }
     ],
     "Grains and Soy: Soybeans": [
@@ -16999,5 +17003,5 @@
       }
     ]
   },
-  "updated": "2026-05-13T08:33:57.999Z"
+  "updated": "2026-05-13T10:33:38.053Z"
 }
