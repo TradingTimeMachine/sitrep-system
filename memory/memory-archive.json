@@ -16,3 +16,129 @@ The Lebanon track deteriorated today in a way that introduces an independent esc
 What the next phase looks like depends on which of three variables moves first. If the Trump-Xi summit produces a Chinese adjustment of its Iran posture, either direct pressure on Tehran or withdrawal of preferential passage support, the economic pressure on Iran intensifies materially and the IRGC's endurance calculation changes. If Lebanon collapses and Iran invokes the ceasefire linkage, the diplomatic track resets to its most dangerous configuration. If neither of those occurs and the stalemate extends through May, Iran's reconstitution advances, the Hormuz permission regime hardens further into permanent administrative practice, and the cost of eventual military resumption rises with each passing week. The IRGC understands this arithmetic. It is the only actor in the system whose preferred outcome improves with the passage of time.
 
 Produced by TradingTimeMachine Intelligence Division. AI-assisted open source analysis. Triad Analytical Framework.
+
+{
+  "meta": {
+    "issue": "004",
+    "date": "2026-05-06",
+    "weekday": "Wednesday",
+    "region": "Middle East",
+    "cycle_day": 1,
+    "next_sitrep": "2026-05-13"
+  },
+
+  "core_thesis": "China has moved from passive beneficiary to active mediator, positioning the Trump-Xi summit on May 14-15 as the primary resolution mechanism for the Hormuz crisis. The IRGC-civilian dual-track thesis remains structurally correct: the IRGC still controls Iranian state decision-making and no civilian commitment can be made binding without IRGC authorization. But China's activation introduces a new pathway to a tactical resolution that bypasses the structural problem. A Hormuz-for-sanctions-relief deal brokered at the Trump-Xi summit would represent exactly the decoupling outcome Iran has sought, validating the IRGC's strategic approach throughout the ceasefire period.",
+
+  "thesis_continuity": "PIVOT from Issue 003 — structural diagnosis confirmed, but mechanism has shifted from bilateral diplomatic stalemate to triangular China-mediated summit diplomacy. The IRGC dual-track thesis holds. The mode of expression has pivoted from competing proposals via Pakistan to competing positions at the Trump-Xi summit via Beijing.",
+
+  "thesis_timeframe": "2 to 4 weeks, driven entirely by Trump-Xi summit outcome on May 14-15. End conditions: summit produces Hormuz deal (tactical resolution), summit fails and U.S. resumes strikes (managed escalation), or Lebanon collapse triggers Hormuz escalation before summit (tactical disruption).",
+
+  "tactical_vs_structural_note": "Project Freedom launch-and-pause is tactical: same pattern as prior deadline retreats. Araghchi Beijing visit is tactical on the surface but the China activation beneath it is structural. Rubio's Epic Fury declaration is tactical reframing of objectives. The IRGC's Monday operations (attacking U.S. vessels and UAE infrastructure during diplomatic activation) is tactical pressure calibration within unchanged structural IRGC control. China's Ministry of Commerce order countering U.S. sanctions is structural: it represents a governmental decision to formally contest U.S. economic pressure on Chinese companies.",
+
+  "pace_assessment": "faster_than_anticipated on diplomatic activation. China moved to active mediator status faster than the Issue 003 60-day forecast anticipated. The Trump-Xi summit has compressed what was assessed as a 60-day inflection point into a 10-day decision window. The economic timeline is also compressing faster than forecast: physical shortages now projected within weeks rather than months.",
+
+  "key_actors": {
+    "iran_civilian_track": "Araghchi — highest-level activation since war began, Beijing visit at China's invitation, signaled Hormuz 'can be resolved promptly', operating within IRGC-defined red lines per Fars News confirmation",
+    "iran_irgc": "Operational authority unchanged. Monday attacks on U.S. vessels and UAE infrastructure simultaneous with civilian diplomatic activation — deliberate dual-track pressure calibration",
+    "iran_supreme_leader": "Mojtaba — no public appearance, no new written statements this week. Notably absent from Beijing diplomatic framework: Araghchi briefed Wang Yi without Mojtaba's public endorsement of specific parameters",
+    "china": "Active mediator. Wang Yi invited Araghchi at Beijing's initiative. Called for Hormuz reopening 'as soon as possible.' Endorsed Iran's nuclear rights. Ministry of Commerce ordered companies to disregard U.S. sanctions. Positioning for Trump-Xi summit May 14-15.",
+    "us_posture": "Rubio declared Epic Fury over. Project Freedom launched Monday, paused Tuesday. Blockade continues. Trump-Xi summit is primary diplomatic horizon. Rubio called on China to press Araghchi on Hormuz.",
+    "russia_posture": "Active diplomatic architect role partially displaced by China's higher-profile activation. Structural interest in prolonged ceasefire partially contrary to China's summit mediation goal. Watching summit dynamics carefully.",
+    "pakistan_posture": "Credited with securing Project Freedom pause. Transmission mechanism role confirmed. Cannot bridge structural incompatibility but indispensable as operational communications channel.",
+    "gcc_posture": "UAE directly attacked Monday — 15 missiles, 4 drones intercepted, oil facility fire. UAE publicly attributing to Iran through denial rather than formal accusation. GCC-U.S. response gap widening.",
+    "europe_posture": "Macron called Pezeshkian directly, proposed France-UK multinational Hormuz mission. Physical shortage warnings now operational level. Japan PM citing enormous Asia-Pacific impact."
+  },
+
+  "forecasts": {
+    "30_day": {
+      "primary_variable": "Trump-Xi summit May 14-15",
+      "scenario_1": {"label": "Summit Hormuz deal", "probability": "30-35%", "type": "tactical resolution — defers nuclear question"},
+      "scenario_2": {"label": "Summit talks fail on Iran, ceasefire continues degrading", "probability": "40-45%", "type": "frozen conflict extension"},
+      "scenario_3": {"label": "Post-summit U.S. escalation", "probability": "20-25%", "type": "managed escalation trigger"}
+    },
+    "60_day": {
+      "most_likely": "Conditional on summit outcome. If deal: nuclear negotiation from weakened U.S. position. If no deal: escalating economic pressure, increasing ceasefire collapse probability.",
+      "inflection_point": "Trump-Xi summit outcome and Lebanon ceasefire durability"
+    },
+    "90_day": {
+      "scenario_1": {"label": "Tactical Resolution via Summit Deal", "probability": "35%", "type": "tactical — defers nuclear, IRGC reconstitution advanced"},
+      "scenario_2": {"label": "Managed Escalation", "probability": "30%", "type": "tactical — second ceasefire at higher Iranian capability baseline"},
+      "scenario_3": {"label": "Structural Deterioration, Frozen Conflict", "probability": "25%", "type": "structural — indefinite maritime harassment new normal"},
+      "scenario_4": {"label": "Comprehensive Negotiated Framework", "probability": "10%", "type": "structural resolution — requires IRGC authorization of binding nuclear constraints"}
+    }
+  },
+
+  "trigger_events_watched": [
+    {"id": "T1", "event": "Mojtaba public appearance", "status": "NOT FIRED", "significance": "Notably absent from Beijing diplomatic framework. Araghchi briefed Wang Yi without public Supreme Leader endorsement of specific parameters."},
+    {"id": "T2", "event": "Attack on Saudi Aramco Abqaiq", "status": "NOT FIRED", "significance": "UAE attack Monday came close to GCC energy infrastructure. IRGC deliberately stayed below Abqaiq threshold. Risk elevated."},
+    {"id": "T3", "event": "Houthi attack on Bab el-Mandeb", "status": "APPROACHING, elevated", "significance": "IRGC Monday attacks signal to Houthis that escalation during diplomacy is acceptable. Timeframe revised to 1-3 weeks."},
+    {"id": "T4", "event": "Chinese-flagged vessel incident with U.S. Navy", "status": "PARTIAL, elevated", "significance": "China MofCom order countering U.S. sanctions gives Chinese-flagged vessels explicit government backing. Risk elevated materially."},
+    {"id": "T5", "event": "Knesset West Bank annexation vote", "status": "NOT FIRED", "significance": "Summit period diplomatic focus continues to provide cover."},
+    {"id": "T6", "event": "China South China Sea escalation", "status": "APPROACHING, temporarily suppressed", "significance": "Summit positioning requires stable bilateral with Washington. Suppressed until after May 14-15."},
+    {"id": "T7", "event": "Lebanon ceasefire collapse triggering Iran-U.S. escalation", "status": "APPROACHING, active", "significance": "Mutual violations continuing. Could produce triggering event before summit."},
+    {"id": "T8", "event": "Trump-Xi summit produces Hormuz deal bypassing nuclear constraints", "status": "APPROACHING", "significance": "NEW. Scenario-defining event. Would validate IRGC strategic approach throughout ceasefire. Probability 30-35%."}
+  ],
+
+  "falsification_conditions": [
+    {"id": "F1", "condition": "Mojtaba demonstrates independent authority bypassing IRGC commanders", "status": "NOT TRIGGERED", "condition_type": "structural", "implication": "Moving further from triggering. Araghchi's Beijing visit conducted without Mojtaba public endorsement."},
+    {"id": "F2", "condition": "Iran accepts phased Hormuz reopening without nuclear preconditions", "status": "APPROACHING", "condition_type": "tactical", "implication": "Upgraded from PARTIAL. Araghchi's 'can be resolved promptly' signal is strongest civilian track indicator yet. IRGC operational commitment unknown."},
+    {"id": "F3", "condition": "China exercises direct public pressure on Tehran for concessions", "status": "APPROACHING, significantly elevated", "condition_type": "structural", "implication": "Wang Yi called for Hormuz reopening 'as soon as possible.' China invited Araghchi at its own initiative. Closest Beijing has come to active concession-seeking. Probability adjustment: significant upward within 2 weeks."},
+    {"id": "F4", "condition": "GCC bilateral back-channel with Tehran produces partial agreement", "status": "NOT TRIGGERED", "condition_type": "structural", "implication": "UAE attack Monday moved this further from triggering."},
+    {"id": "F5", "condition": "Internal IRGC factional conflict becomes publicly visible", "status": "APPROACHING, elevated", "condition_type": "structural", "implication": "Gap between IRGC Monday military operations and civilian track Beijing signaling on same day raises coordination question. Monitoring whether this gap is deliberate dual-track or genuine divergence."},
+    {"id": "F6", "condition": "U.S. redesigns negotiating approach to engage IRGC directly", "status": "NOT TRIGGERED", "condition_type": "tactical", "implication": "Summit creates pathway for China-mediated U.S.-IRGC channel that has not previously existed."}
+  ],
+
+  "key_uncertainties": [
+    "Whether China will use economic leverage over Tehran coercively at the summit or merely claim credit for a deal Iran is already ready to make",
+    "Whether Trump will accept a Hormuz-for-sanctions-relief deal that defers nuclear constraints at the summit level after rejecting the same deal via Pakistan mediation",
+    "Whether Lebanon ceasefire collapse produces a triggering event before the Trump-Xi summit on May 14-15",
+    "Whether the IRGC Monday attacks during diplomatic activation represent coordinated pressure calibration or a genuine divergence between military and civilian IRGC-authorized tracks",
+    "Whether Russia will attempt to undermine China's mediation role at the summit given its structural interest in prolonged ceasefire"
+  ],
+
+  "pattern_match": {
+    "label": "2015 JCPOA negotiation structure under military duress — compressed timeline",
+    "analog": "Iran nuclear deal negotiation 2013-2015, but compressed into weeks and operating after military exchange",
+    "key_similarity": "U.S.-Iran impasse on nuclear constraints with China providing diplomatic cover. Civilian Iranian diplomatic track operating with IRGC-defined red lines. Major power summit as breakthrough mechanism.",
+    "key_difference": "2015 produced constraints and monitoring. Current trajectory toward deal without constraints — materially worse nuclear outcome from U.S. perspective.",
+    "trajectory": "Tracking toward tactical resolution analog of 2015 deal but with fewer constraints. Pattern moving toward historical resolution variant but on worse terms."
+  },
+
+  "confidence_levels": {
+    "high": ["IRGC dual-track thesis", "China activation as structural shift in diplomatic architecture", "Trump-Xi summit as 10-day decision window", "IRGC Monday operations as deliberate pressure calibration"],
+    "medium": ["Whether China will apply coercive leverage vs. credit-claiming mediation", "Summit outcome probability ranges", "Lebanon escalation timeline"],
+    "low": ["Whether Trump accepts decoupling at summit level after rejecting via Pakistan", "90-day scenario probabilities", "F5 divergence versus coordination"]
+  },
+
+  "hormuz_status": {
+    "condition": "Dual blockade continuing — Project Freedom paused after 36-hour operation",
+    "project_freedom_status": "PAUSED — Pakistan request, 'great progress' cited, blockade remains",
+    "shipping_drop": "90%+ since February 28",
+    "cumulative_disruption_bbl": "Exceeding 500 million barrels",
+    "seafarers_stranded": "approximately 20,000",
+    "brent_crude": "Above $105/barrel",
+    "us_gas_price": "$4.30/gallon average",
+    "physical_shortage_warning": "Chevron CEO — Asia within weeks, Europe to follow, U.S. last",
+    "bypass_capacity": "Saudi East-West Pipeline approximately 5M bbl/day"
+  },
+
+  "global_inputs_summary": {
+    "china": "Active mediator. Invited Araghchi to Beijing at own initiative. Wang Yi called for Hormuz reopening 'as soon as possible.' MofCom ordered companies to disregard U.S. sanctions. Positioning for Trump-Xi summit May 14-15.",
+    "russia": "Active diplomatic architect role partially displaced by China's summit positioning. Structural interest in prolonged ceasefire partially contrary to China's mediation goal.",
+    "pakistan": "Credited with securing Project Freedom pause. Transmission mechanism role confirmed.",
+    "india": "No new developments this week.",
+    "europe": "Macron direct call to Pezeshkian. France-UK multinational Hormuz mission proposed. Physical shortage warnings now operational."
+  },
+
+  "levant_baseline": {
+    "israel_lebanon": "Three-week extension fraying. Mutual violations active. Hezbollah cell dismantled in Syria.",
+    "west_bank": "Consolidation continuing under diplomatic cover of Iran crisis.",
+    "hezbollah": "Active despite ceasefire extension. Syria infiltration attempt disrupted."
+  },
+
+  "new_this_week": "T8 added: Trump-Xi summit produces Hormuz deal bypassing nuclear constraints. Pattern match shifted from Cod Wars to 2015 JCPOA negotiation analog. China upgraded to active mediator. F2 upgraded to APPROACHING. F3 significantly elevated. Rubio declared Epic Fury over. Project Freedom launched and paused in 36 hours.",
+
+  "delta_from_previous": "PIVOT. Mechanism shifted from bilateral stalemate to triangular China-mediated summit diplomacy. China activated as mediator. F3 approaching trigger. Rubio objective reframing. Project Freedom fifth deadline-retreat iteration. UAE direct attack. Economic timeline compression accelerating.",
+
+  "next_session_instructions": "Fetch this file at session start. The Trump-Xi summit on May 14-15 is the single most important event in the system. All daily updates between now and Wednesday May 13 should track summit preparation signals. Key questions: Is China applying real pressure on Iran or credit-claiming? Is Trump prepared to accept a Hormuz deal without nuclear constraints? Does Lebanon collapse before the summit? Does the IRGC conduct any operation that would undermine summit momentum? Wednesday May 13 SITREP should run immediately before the summit and serve as the pre-summit intelligence baseline."
+}
