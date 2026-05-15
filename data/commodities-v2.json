@@ -13,8 +13,8 @@
       "close": 0.73
     },
     "Currencies: EUR/USD": {
-      "date": "2026-05-13",
-      "close": 1.17158
+      "date": "2026-05-14",
+      "close": 1.16621
     },
     "Currencies: Japanese Yen": {
       "date": "2026-05-13",
@@ -25,24 +25,24 @@
       "close": 1.28
     },
     "Energies: WTI Crude": {
-      "date": "2026-05-13",
-      "close": 81.67
+      "date": "2026-05-14",
+      "close": 81.58
     },
     "Energies: NY Harbor Heating Oil": {
-      "date": "2026-05-13",
-      "close": 3.81
+      "date": "2026-05-14",
+      "close": 3.79
     },
     "Energies: Unleaded Gas": {
-      "date": "2026-05-13",
-      "close": 3.61
+      "date": "2026-05-14",
+      "close": 3.48
     },
     "Energies: Natural Gas": {
       "date": "2026-05-13",
       "close": 3.06
     },
     "Energies: RBOB Gasoline": {
-      "date": "2026-05-13",
-      "close": 3.61
+      "date": "2026-05-14",
+      "close": 3.48
     },
     "Energies: Brent Crude": {
       "date": "2026-05-13",
@@ -93,20 +93,20 @@
       "close": 674.75
     },
     "Metals: Gold": {
-      "date": "2026-05-13",
-      "close": 4706.7
+      "date": "2026-05-14",
+      "close": 4663
     },
     "Metals: Copper": {
-      "date": "2026-05-13",
-      "close": 6.68
+      "date": "2026-05-14",
+      "close": 6.58
     },
     "Metals: Platinum": {
       "date": "2026-05-13",
       "close": 2167.6
     },
     "Metals: Silver": {
-      "date": "2026-05-13",
-      "close": 89.37
+      "date": "2026-05-14",
+      "close": 84.12
     },
     "Interest Rates: 3 Month SOFR": {
       "date": "2026-05-13",
@@ -1606,10 +1606,6 @@
     ],
     "Currencies: EUR/USD": [
       {
-        "date": "2025-11-15",
-        "close": 1.1622
-      },
-      {
         "date": "2025-11-16",
         "close": 1.16141
       },
@@ -2324,6 +2320,10 @@
       {
         "date": "2026-05-13",
         "close": 1.17158
+      },
+      {
+        "date": "2026-05-14",
+        "close": 1.16621
       }
     ],
     "Currencies: Japanese Yen": [
@@ -3790,6 +3790,10 @@
       {
         "date": "2026-05-13",
         "close": 81.67
+      },
+      {
+        "date": "2026-05-14",
+        "close": 81.58
       }
     ],
     "Energies: NY Harbor Heating Oil": [
@@ -4280,6 +4284,10 @@
       {
         "date": "2026-05-13",
         "close": 3.81
+      },
+      {
+        "date": "2026-05-14",
+        "close": 3.79
       }
     ],
     "Energies: Unleaded Gas": [
@@ -4770,6 +4778,10 @@
       {
         "date": "2026-05-13",
         "close": 3.61
+      },
+      {
+        "date": "2026-05-14",
+        "close": 3.48
       }
     ],
     "Energies: Natural Gas": [
@@ -5750,6 +5762,10 @@
       {
         "date": "2026-05-13",
         "close": 3.61
+      },
+      {
+        "date": "2026-05-14",
+        "close": 3.48
       }
     ],
     "Energies: Brent Crude": [
@@ -12104,6 +12120,10 @@
       {
         "date": "2026-05-13",
         "close": 4706.7
+      },
+      {
+        "date": "2026-05-14",
+        "close": 4663
       }
     ],
     "Metals: Copper": [
@@ -12594,6 +12614,10 @@
       {
         "date": "2026-05-13",
         "close": 6.68
+      },
+      {
+        "date": "2026-05-14",
+        "close": 6.58
       }
     ],
     "Metals: Platinum": [
@@ -13574,6 +13598,10 @@
       {
         "date": "2026-05-13",
         "close": 89.37
+      },
+      {
+        "date": "2026-05-14",
+        "close": 84.12
       }
     ],
     "Interest Rates: 3 Month SOFR": [
@@ -17003,5 +17031,5 @@
       }
     ]
   },
-  "updated": "2026-05-15T02:34:21.207Z"
+  "updated": "2026-05-15T04:35:29.852Z"
 }
