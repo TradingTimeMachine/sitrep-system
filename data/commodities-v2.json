@@ -37,8 +37,8 @@
       "close": 3.56
     },
     "Energies: Natural Gas": {
-      "date": "2026-05-14",
-      "close": 3.09
+      "date": "2026-05-15",
+      "close": 3.12
     },
     "Energies: RBOB Gasoline": {
       "date": "2026-05-15",
@@ -73,20 +73,20 @@
       "close": 455.25
     },
     "Grains and Soy: Kansas City Wheat": {
-      "date": "2026-05-14",
-      "close": 705.25
+      "date": "2026-05-15",
+      "close": 688.5
     },
     "Grains and Soy: Oats": {
-      "date": "2026-05-14",
-      "close": 363.75
+      "date": "2026-05-15",
+      "close": 362.75
     },
     "Grains and Soy: Soybeans": {
       "date": "2026-05-15",
       "close": 1177.25
     },
     "Grains and Soy: Soybeans Meal": {
-      "date": "2026-05-14",
-      "close": 332.5
+      "date": "2026-05-15",
+      "close": 334.1
     },
     "Grains and Soy: Wheat": {
       "date": "2026-05-15",
@@ -106,15 +106,15 @@
     },
     "Metals: Silver": {
       "date": "2026-05-15",
-      "close": 76.3
+      "close": 77.55
     },
     "Interest Rates: 3 Month SOFR": {
       "date": "2026-05-15",
       "close": 96.15
     },
     "Interest Rates: 5 Year T-Notes": {
-      "date": "2026-05-14",
-      "close": 107.38
+      "date": "2026-05-15",
+      "close": 106.81
     },
     "Interest Rates: 2 Year T-Notes": {
       "date": "2026-05-15",
@@ -5336,6 +5336,10 @@
       {
         "date": "2026-05-14",
         "close": 3.09
+      },
+      {
+        "date": "2026-05-15",
+        "close": 3.12
       }
     ],
     "Energies: RBOB Gasoline": [
@@ -8303,7 +8307,7 @@
       },
       {
         "date": "2026-05-14",
-        "close": 17.16
+        "close": 17.14
       },
       {
         "date": "2026-05-15",
@@ -8801,7 +8805,7 @@
       },
       {
         "date": "2026-05-14",
-        "close": 73.85
+        "close": 73.66
       },
       {
         "date": "2026-05-15",
@@ -9299,7 +9303,7 @@
       },
       {
         "date": "2026-05-14",
-        "close": 467.75
+        "close": 467.5
       },
       {
         "date": "2026-05-15",
@@ -9798,6 +9802,10 @@
       {
         "date": "2026-05-14",
         "close": 705.25
+      },
+      {
+        "date": "2026-05-15",
+        "close": 688.5
       }
     ],
     "Grains and Soy: Oats": [
@@ -10291,7 +10299,11 @@
       },
       {
         "date": "2026-05-14",
-        "close": 363.75
+        "close": 361.75
+      },
+      {
+        "date": "2026-05-15",
+        "close": 362.75
       }
     ],
     "Grains and Soy: Soybeans": [
@@ -11284,6 +11296,10 @@
       {
         "date": "2026-05-14",
         "close": 332.5
+      },
+      {
+        "date": "2026-05-15",
+        "close": 334.1
       }
     ],
     "Grains and Soy: Wheat": [
@@ -13773,7 +13789,7 @@
       },
       {
         "date": "2026-05-15",
-        "close": 76.3
+        "close": 77.55
       }
     ],
     "Interest Rates: 3 Month SOFR": [
@@ -14766,6 +14782,10 @@
       {
         "date": "2026-05-14",
         "close": 107.38
+      },
+      {
+        "date": "2026-05-15",
+        "close": 106.81
       }
     ],
     "Interest Rates: 2 Year T-Notes": [
@@ -17255,5 +17275,5 @@
       }
     ]
   },
-  "updated": "2026-05-16T06:34:33.489Z"
+  "updated": "2026-05-16T08:34:08.545Z"
 }
