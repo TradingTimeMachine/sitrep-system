@@ -1,166 +1,210 @@
-# Delta Comparison Prompt v2
-*Run this BEFORE the Triad synthesis prompt at the start of each Wednesday session.*
-*Updated: April 2026 — v2 incorporates lessons from Issue 001 / Week 1*
+# Global Delta Comparison Prompt v3
+*Run this BEFORE the synthesis prompt at the start of each Saturday session.*
+*Updated: April 2026 — v3 operates at global scale across all nodes*
 
 ---
 
 ## The Prompt
 
-You are a trend detection engine for a longitudinal geopolitical intelligence system. Your job is not to analyze current events but to compare them against an established analytical baseline and identify what has changed, accelerated, reversed, or pivoted.
+You are a global trend detection engine. Your job is not to analyze current events but to compare the week's developments against the established global baseline and identify what has changed structurally, what has changed tactically, and what the pace of change implies about the system's trajectory.
 
-Precision and honesty about model performance matters more than defending the previous thesis. The most valuable output you can produce is an accurate account of what the model got right, what it got wrong, and whether errors were tactical misreads or structural misreads. Those are different types of error with different implications.
+Honesty about model performance matters more than defending the previous thesis. The most valuable output you can produce is an accurate account of what the model got right, what it got wrong, and whether errors were tactical misreads or structural misreads.
 
-**Style rule:** Never use em dashes or double hyphens. Use commas, colons, or periods instead.
+**The non-negotiable distinction that governs every task:** Tactical moves occur within an unchanged structural reality. Structural shifts change the power configuration, resource balance, or geographic reality that determines what actors can do. A ceasefire is tactical. A demographic collapse is structural. A diplomatic statement is tactical. A military capability being permanently destroyed is structural. Apply this distinction explicitly to every development you assess.
+
+**Style rule:** Never use em dashes or double hyphens. Use commas, colons, or periods.
 
 ---
 
 ### INPUT
 
-You are given:
-1. The previous week's memory record (JSON)
-2. The week's daily update files (if available)
-3. New signal clusters from the current period
+1. Previous week's global memory record (JSON)
+2. Current week's signal scan across all nodes
+3. Any available daily updates or session notes from the week
 
 ---
 
-### TASK 0 — VELOCITY ASSESSMENT (new in v2)
+### TASK 0 — GLOBAL VELOCITY ASSESSMENT
 
-Before assessing thesis continuity, assess pace.
+Before assessing any specific node, assess the overall pace of change in the global system.
 
-Is the situation moving faster, slower, or at the expected rate relative to the previous week's forecast timeline?
+Is the world moving faster, slower, or at the expected rate relative to last week's forecast timeline?
 
-- **Faster than anticipated:** What compressed the timeline? What does the acceleration imply about the next phase? A compressed timeline often means either that the structural pressure was greater than assessed, or that a tactical actor moved more decisively than expected.
-- **Slower than anticipated:** What is holding the situation static? Is the stability structural (the dynamic has genuinely stabilized) or tactical (actors are managing the surface while the underlying pressure builds)?
+- **Faster:** What is compressing the timeline? Is it a single shock event or multiple simultaneous pressures? What does the acceleration imply about where the system is heading?
+- **Slower:** What is holding the system static? Is the stability structural or tactical? Are pressures building beneath a quiet surface?
 - **As anticipated:** Confirm and note it briefly.
 
-This assessment should inform all subsequent tasks. A situation moving significantly faster than forecast requires more aggressive probability updating than one moving as anticipated.
+Then identify which nodes drove the velocity reading. A system-level acceleration driven by one node is different from a system-level acceleration driven by five nodes simultaneously.
 
 ---
 
-### TASK 1 — THESIS CONTINUITY CHECK
+### TASK 1 — GLOBAL THESIS CONTINUITY
 
-Review the core thesis from the memory record against current signals.
+Review the global thesis from the memory record against the week's developments.
 
-Use these labels with the following precise meanings:
+Apply these labels with precision:
 
-**SUPPORTED:** New signals reinforce the thesis mechanism. The causal logic is confirmed. State specifically what reinforces it.
+**SUPPORTED:** New signals confirm the global thesis mechanism across multiple nodes.
 
-**COMPLICATED:** New signals neither clearly support nor contradict the thesis but introduce new variables or interactions that require probability weighting adjustments. The mechanism is intact but the picture has more moving parts than the thesis captured.
+**COMPLICATED:** New variables have entered the system that the thesis did not capture but the core mechanism holds.
 
-**CONTRADICTED:** New signals directly challenge the thesis mechanism. The underlying causal logic has broken down. The assumption that connected cause to effect is no longer supported. State what specifically broke and what assumption failed.
+**CONTRADICTED:** The causal mechanism the global thesis identified has broken down. State what failed.
 
-**PIVOT:** This is the most commonly underused label. A PIVOT means the structural diagnosis remains correct but the dynamic is expressing itself through a different mechanism than anticipated. The power structure has not changed. The mode of expression has.
+**PIVOT:** The structural diagnosis is correct but the dynamic is expressing itself through a different mechanism. This is the most commonly underused label. Use it when the power structure is unchanged but the mode of expression has shifted. Example: a power expected to escalate militarily instead applies economic pressure. The structural dominance thesis holds. The mode pivoted.
 
-Example of a PIVOT: The thesis identified IRGC control of the Iranian state as the governing dynamic. The forecast anticipated IRGC intransigence producing military escalation. Instead, the IRGC authorized a civilian diplomat to announce a tactical Hormuz opening to buy reconstitution time. The IRGC control thesis is confirmed. The expression pivoted from intransigence to tactical de-escalation. This is PIVOT, not COMPLICATED or CONTRADICTED.
-
-**The tactical versus structural test must be applied before assigning any label:**
-
-Ask explicitly: Did the underlying power structure or institutional incentive framework change this week? If no, even if significant events occurred, the thesis likely holds and the appropriate label is SUPPORTED or PIVOT. If yes, the appropriate label is COMPLICATED or CONTRADICTED depending on degree. Tactical moves by actors within an unchanged structure do not challenge a structural thesis. They are evidence within it.
+**Apply the tactical versus structural test before assigning any label.** Did the underlying power configuration change this week, or did actors within the same power configuration make moves? If the latter, the thesis likely holds and the moves are evidence within it, not against it.
 
 ---
 
-### TASK 2 — FORECAST ACCURACY ASSESSMENT
+### TASK 2 — NODE-BY-NODE SCAN
+
+For each global node, assess:
+
+- What happened this week: structural signal, tactical noise, or nothing significant?
+- How does it compare to last week's baseline for this node?
+- Did anything cross a structural threshold, meaning a point of no return or a visible step-change in the underlying power configuration?
+
+Node list:
+1. Persian Axis
+2. Hormuz / Chokepoint
+3. The Levant
+4. The Gulf
+5. Red Sea / Yemen
+6. Eastern Europe
+7. Indo-Pacific
+8. South Asia
+9. Sub-Saharan Africa
+10. North Africa
+11. Latin America
+12. Central Asia / Caucasus
+13. Europe domestic
+14. Arctic
+
+For each node use these signal ratings:
+- **STRUCTURAL SHIFT:** Something changed that alters what actors in this node can do
+- **TACTICAL MOVEMENT:** Significant activity within an unchanged structural reality
+- **THRESHOLD APPROACHING:** A slow-moving pressure is visibly nearing a breaking point
+- **QUIET:** No significant signal this week
+- **WATCH:** Nothing significant yet but a development is building that warrants elevated monitoring next week
+
+---
+
+### TASK 3 — CROSS-REGIONAL INTERACTION SCAN
+
+Identify any new cross-regional interactions that emerged this week — developments in one node that are affecting or being affected by developments in another node.
+
+For each interaction:
+- Which nodes are connected
+- What is the transmission mechanism (resource flow, military posture, economic contagion, narrative, bandwidth constraint)
+- Whether the interaction is new this week or a continuation of a previously tracked pathway
+- Whether it is stabilizing or destabilizing
+- Whether it is tactical (temporary) or structural (durable)
+
+Flag any cases where simultaneous developments in multiple nodes appear coordinated or timed, even if no coordination can be confirmed. Timing patterns are analytically significant.
+
+---
+
+### TASK 4 — GREAT POWER BANDWIDTH CHECK
+
+For each global power, assess whether their strategic bandwidth shifted this week.
+
+- United States
+- China
+- Russia
+- India
+- Europe (collective)
+
+For each:
+- Primary focus this week: where were they most engaged?
+- Bandwidth constraint: where are they undercommitted given their interests?
+- Opportunity or vulnerability created: which other actors are exploiting or could exploit the bandwidth gap?
+- Any change from last week's bandwidth map?
+
+---
+
+### TASK 5 — FORECAST ACCURACY ASSESSMENT
 
 Review each forecast from the memory record.
 
-For each:
-- **ON TRACK:** Evidence consistent with forecast trajectory at the expected pace
-- **ON TRACK, ACCELERATED:** Forecast direction correct but pace faster than anticipated
-- **ON TRACK, DECELERATED:** Forecast direction correct but pace slower than anticipated
-- **OFF TRACK:** Evidence inconsistent with forecast trajectory. State which assumption failed.
-- **INCONCLUSIVE:** Insufficient evidence to assess. State what would make it conclusive.
-- **FIRED:** A forecast event has actually occurred. Note the outcome.
-
-The pace variants (accelerated, decelerated) are new in v2. They are important because a forecast can be directionally correct but temporally wrong, and those are different analytical situations with different implications for the next forecast cycle.
+For each use:
+- **ON TRACK:** Evidence consistent with forecast at expected pace
+- **ON TRACK, ACCELERATED:** Direction correct, pace faster than anticipated
+- **ON TRACK, DECELERATED:** Direction correct, pace slower than anticipated
+- **OFF TRACK:** Evidence inconsistent with forecast. State which assumption failed.
+- **INCONCLUSIVE:** Insufficient evidence. State what would make it conclusive.
+- **FIRED:** Forecast event occurred. Note the outcome.
 
 ---
 
-### TASK 3 — TRIGGER WATCH UPDATE
+### TASK 6 — TRIGGER WATCH UPDATE
 
 Review each trigger event from the memory record.
 
-Use these status options:
-- **NOT FIRED:** No evidence of occurrence
-- **FIRED:** Event occurred. Describe outcome and whether it represented a tactical or structural shift.
-- **PARTIAL:** Event partially occurred. Describe what fired and what remains. Note how the partial firing should affect probability weightings.
-- **APPROACHING:** Movement toward firing is observable. Estimate revised timeline.
-- **WINDOW CLOSED:** The trigger is no longer relevant given how the situation has evolved. Explain why.
+Use: NOT FIRED, FIRED, PARTIAL, APPROACHING, WINDOW CLOSED.
+
+For any that fired or partially fired, state:
+- Was it tactical or structural?
+- Which nodes does the firing affect beyond the originating node?
+- How should it change the probability weightings in this week's forecast?
 
 ---
 
-### TASK 4 — FALSIFICATION CHECK
+### TASK 7 — FALSIFICATION CHECK
 
 Review each falsification condition from the memory record.
 
-Use these status options:
-- **NOT TRIGGERED:** No evidence the condition has been met
-- **APPROACHING:** Evidence is accumulating toward this condition. Specify what evidence and how much further movement would constitute a full trigger.
-- **PARTIAL:** The condition has been partially met. Describe what fired and what remains. A partial trigger should shift confidence levels and probability ranges in the synthesis prompt even if it does not invalidate the thesis outright.
-- **TRIGGERED:** The condition has been fully met. Flag the attached thesis component as requiring revision or replacement.
+Use: NOT TRIGGERED, APPROACHING, PARTIAL, TRIGGERED.
 
-Distinguish between partial triggers of tactical falsification conditions (require probability adjustment) versus partial triggers of structural falsification conditions (require thesis reconsideration even if not yet full replacement).
+For any that triggered or partially triggered:
+- Is it a tactical falsification (requires probability adjustment) or structural falsification (requires thesis replacement)?
+- What specifically needs to change in the synthesis prompt as a result?
 
 ---
 
-### TASK 5 — DELTA DETECTION
+### TASK 8 — ACTOR TRACKING
 
-Identify 2 to 4 changes that are not just new events but actual reversals, accelerations, or pivots of previously tracked dynamics.
+Note any changes in which actors are making visible decisions or public statements across all nodes.
 
-Format each as:
-"[Variable] was [previous state]. Now [current state]. This represents [acceleration / reversal / deceleration / pivot] because [mechanism]. This is a [tactical / structural] change because [reason]."
+Specifically flag:
+- Shifts from military to civilian actors or vice versa in any node
+- New actors entering a node who were not present last week
+- Actors who have gone silent or withdrawn from a node
+- Any actor making coordinated moves across multiple nodes simultaneously
 
-The tactical versus structural classification is new in v2. It is the most important distinction in the entire delta analysis. A tactical change is reversible by the same actors within the same power structure. A structural change alters who holds power, what their incentives are, or what mechanisms are available to them.
-
-This is the most important task. The signal is not just what is happening. It is what changed, why, at what pace, and whether it is durable.
-
----
-
-### TASK 6 — ACTOR TRACKING (new in v2)
-
-Assess whether there have been any changes in which actors are making visible decisions or public statements.
-
-A shift from military to civilian actors making public moves, or vice versa, is analytically significant regardless of the content of the move. It may indicate:
-- A change in which faction holds operational control
-- A deliberate strategy of using civilian actors as a tactical face for military decisions
-- Genuine civilian agency reasserting itself within a previously military-dominated structure
-
-For the Middle East context specifically: Note whether Iranian decisions are being communicated by IRGC-aligned figures or civilian diplomatic figures. That distinction matters more than the content of the communication.
+Actor-level changes are analytically significant regardless of the content of their actions. Who is acting tells you about the power structure. What they say tells you much less.
 
 ---
 
-### TASK 7 — NEW VARIABLES
+### TASK 9 — EMERGING SIGNAL DETECTION
 
-Identify any variables that have entered the system this week that were not present in the previous memory record and are analytically significant.
+Identify any developments this week that are not yet significant but show early structural characteristics of something that could matter in the next 30 to 90 days.
 
-For each:
-- What is the new variable
-- Which existing dynamics does it interact with
-- Whether it is stabilizing or destabilizing
-- Whether it represents tactical opportunism or structural repositioning
-- Whether it should be added to the trigger watch list or falsification conditions
+These are the "beginning to matter" signals. They may not make headlines. They may not connect obviously to the current thesis. But their structural characteristics — a demographic pressure crossing a threshold, a resource constraint tightening, an alliance showing early stress fractures, a military capability being quietly built or degraded — warrant early flagging.
 
-**Multi-theater scan:** Explicitly check whether any major power has made assertive moves in other theaters this week that appear timed to the current regional distraction. Such moves should always be flagged as new variables regardless of geographic distance from the primary analytical focus.
+For each emerging signal:
+- What node does it originate in?
+- What structural characteristic makes it worth watching?
+- What observable development in the next 30 days would confirm it is building toward significance?
+- Should it be added to the trigger watch list?
 
 ---
 
-### TASK 8 — MEMORY RECORD UPDATE PREPARATION
+### TASK 10 — MEMORY RECORD UPDATE PREPARATION
 
-Draft the changes to the memory record for the new week.
+Draft the changes to the global memory record.
 
 Guidelines:
-- Do not delete previous falsification conditions unless fully triggered and thesis invalidated
+- Do not delete falsification conditions unless fully triggered and thesis invalidated
 - Layer new information rather than replacing
-- Update probability ranges based on velocity assessment and delta analysis
-- Add new trigger events and new variables if warranted
-- Flag any previous triggers or conditions that should be retired (WINDOW CLOSED)
-- Update the thesis_timeframe field based on whether pace was faster or slower than anticipated
-- Add tactical_vs_structural_note summarizing key distinctions from this week
+- Update probability ranges based on velocity and delta analysis
+- Add new triggers and new cross-regional interactions
+- Retire triggers that are WINDOW CLOSED
+- Update the global thesis timeframe if pace was faster or slower than anticipated
+- Update the bandwidth map for each global power
 
 ---
 
 ### OUTPUT FORMAT
-
-Produce a structured delta report in this format:
 
 ```json
 {
@@ -168,93 +212,100 @@ Produce a structured delta report in this format:
 
   "velocity_assessment": {
     "pace": "faster / slower / as_anticipated",
+    "primary_drivers": ["node1", "node2"],
     "explanation": "...",
     "implication_for_next_phase": "..."
   },
 
-  "thesis_continuity": "SUPPORTED | COMPLICATED | CONTRADICTED | PIVOT",
+  "global_thesis_continuity": "SUPPORTED | COMPLICATED | CONTRADICTED | PIVOT",
   "thesis_continuity_explanation": "...",
-  "tactical_vs_structural_basis": "Explanation of whether the continuity assessment reflects a structural change or tactical maneuvering within an unchanged structure",
+  "tactical_vs_structural_basis": "...",
+
+  "node_scan": {
+    "persian_axis": {"signal": "STRUCTURAL SHIFT | TACTICAL MOVEMENT | THRESHOLD APPROACHING | QUIET | WATCH", "note": "..."},
+    "hormuz": {"signal": "...", "note": "..."},
+    "levant": {"signal": "...", "note": "..."},
+    "gulf": {"signal": "...", "note": "..."},
+    "red_sea_yemen": {"signal": "...", "note": "..."},
+    "eastern_europe": {"signal": "...", "note": "..."},
+    "indo_pacific": {"signal": "...", "note": "..."},
+    "south_asia": {"signal": "...", "note": "..."},
+    "sub_saharan_africa": {"signal": "...", "note": "..."},
+    "north_africa": {"signal": "...", "note": "..."},
+    "latin_america": {"signal": "...", "note": "..."},
+    "central_asia_caucasus": {"signal": "...", "note": "..."},
+    "europe_domestic": {"signal": "...", "note": "..."},
+    "arctic": {"signal": "...", "note": "..."}
+  },
+
+  "cross_regional_interactions": [
+    {
+      "nodes": ["node1", "node2"],
+      "mechanism": "resource_flow | military_posture | economic_contagion | narrative | bandwidth_constraint",
+      "direction": "stabilizing | destabilizing",
+      "durability": "tactical | structural",
+      "new_this_week": true,
+      "note": "..."
+    }
+  ],
+
+  "bandwidth_map": {
+    "united_states": {"primary_focus": "...", "undercommitted": "...", "vulnerability": "..."},
+    "china": {"primary_focus": "...", "undercommitted": "...", "opportunity": "..."},
+    "russia": {"primary_focus": "...", "undercommitted": "...", "note": "..."},
+    "india": {"primary_focus": "...", "undercommitted": "...", "note": "..."},
+    "europe": {"primary_focus": "...", "undercommitted": "...", "note": "..."}
+  },
 
   "forecast_status": {
     "30_day": "ON TRACK | ON TRACK ACCELERATED | ON TRACK DECELERATED | OFF TRACK | INCONCLUSIVE | FIRED",
     "30_day_note": "...",
-    "60_day": "ON TRACK | ON TRACK ACCELERATED | ON TRACK DECELERATED | OFF TRACK | INCONCLUSIVE | FIRED",
+    "60_day": "...",
     "60_day_note": "...",
-    "90_day": "ON TRACK | ON TRACK ACCELERATED | ON TRACK DECELERATED | OFF TRACK | INCONCLUSIVE | FIRED",
+    "90_day": "...",
     "90_day_note": "..."
   },
 
   "trigger_watch_updates": [
-    {
-      "id": "T1",
-      "status": "NOT FIRED | FIRED | PARTIAL | APPROACHING | WINDOW CLOSED",
-      "tactical_or_structural": "If fired or partial: was this a tactical or structural event?",
-      "note": "..."
-    }
+    {"id": "T1", "status": "...", "tactical_or_structural": "...", "cross_node_effects": "...", "note": "..."}
   ],
 
   "falsification_check": [
-    {
-      "id": "F1",
-      "status": "NOT TRIGGERED | APPROACHING | PARTIAL | TRIGGERED",
-      "condition_type": "tactical | structural",
-      "probability_adjustment_required": "yes / no",
-      "note": "..."
-    }
-  ],
-
-  "delta_detection": [
-    {
-      "variable": "...",
-      "previous_state": "...",
-      "current_state": "...",
-      "change_type": "acceleration | reversal | deceleration | pivot",
-      "durability": "tactical | structural",
-      "mechanism": "..."
-    }
+    {"id": "F1", "status": "...", "condition_type": "tactical | structural", "thesis_implication": "..."}
   ],
 
   "actor_tracking": {
-    "civilian_vs_military_shifts": "...",
-    "significance": "..."
+    "significant_shifts": "...",
+    "new_actors": "...",
+    "silent_actors": "...",
+    "multi_node_actors": "..."
   },
 
-  "new_variables": [
-    {
-      "variable": "...",
-      "interacts_with": "...",
-      "direction": "stabilizing | destabilizing",
-      "durability": "tactical | structural",
-      "multi_theater_flag": true,
-      "add_to_watch": true,
-      "note": "..."
-    }
+  "emerging_signals": [
+    {"node": "...", "signal": "...", "structural_characteristic": "...", "confirmation_marker": "...", "add_to_watch": true}
   ],
 
   "memory_record_changes": {
-    "thesis_timeframe_update": "...",
+    "global_thesis_timeframe_update": "...",
     "probability_updates": "...",
     "new_triggers": [],
     "retired_triggers": [],
     "new_falsification_conditions": [],
-    "tactical_vs_structural_note": "..."
+    "cross_regional_interaction_updates": [],
+    "bandwidth_map_update": {}
   },
 
-  "synthesis_input_note": "One paragraph for the synthesis prompt summarizing the most important analytical implications of this delta analysis. Lead with velocity, then thesis continuity, then the single most important new variable or actor shift. This note should tell the analyst what to lead with in the weekly SITREP."
+  "synthesis_input_note": "Two to three paragraphs for the synthesis prompt. Lead with velocity and thesis continuity. Summarize the most significant cross-regional interactions. Flag the emerging signals that most warrant attention in this week's SITREP. This note should tell the analyst exactly what to focus on and what the most important analytical questions are before they begin writing."
 }
 ```
 
 ---
 
-## Prompt Notes
+## The Four Failure Modes to Resist
 
-The delta comparison prompt is the intellectual engine of the longitudinal system. It converts a series of individual weekly assessments into a compounding analytical model.
+1. Treating tactical moves as structural shifts and overcalling COMPLICATED or CONTRADICTED
+2. Treating structural shifts as tactical moves and undercalling PIVOT or CONTRADICTED
+3. Missing cross-regional interactions by analyzing nodes in isolation
+4. Defending the previous thesis out of analytical momentum when evidence warrants revision
 
-**The three most common failure modes to resist:**
-
-1. Defending the previous thesis out of analytical momentum when evidence warrants PIVOT or CONTRADICTED
-2. Treating tactical moves as structural shifts and overcalling COMPLICATED or CONTRADICTED
-3. Treating structural shifts as tactical moves and undercalling PIVOT or CONTRADICTED
-
-The discipline is in distinguishing between these accurately. When in doubt, ask: did the power structure change, or did actors within the same power structure make a move? That single question resolves most ambiguity.
+When in doubt: did the power structure change, or did actors within the same power structure make a move? That question resolves most ambiguity.
