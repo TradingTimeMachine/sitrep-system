@@ -1,128 +1,193 @@
 {
   "meta": {
-    "issue": "005",
-    "date": "2026-05-13",
+    "issue": "001",
+    "date": "2026-04-15",
     "weekday": "Wednesday",
-    "region": "Middle East",
-    "cycle_day": 1,
-    "next_sitrep": "2026-05-20"
+    "region": "Middle East — transitioning to Global from Issue 002",
+    "cadence": "Weekly Saturday publication from Issue 002 onward",
+    "next_sitrep": "2026-04-26"
   },
 
-  "core_thesis": "The structural incompatibility between Iran's minimum acceptable outcome, formal Hormuz sovereignty recognition and war reparations with nuclear constraints deferred, and the U.S. minimum requirement of nuclear constraints as a precondition, has been publicly stated by both sides in formal diplomatic language. The Trump-Xi summit has been downgraded by the White House itself to a relationship management event before its first substantive session. The IRGC dual-track thesis remains structurally intact: Iran submitted its maximalist formal position through the civilian foreign ministry while simultaneously expanding IRGC paramilitary operations to Kuwait. The ceasefire holds because both sides are waiting for the summit to determine whether a third-party architecture can bridge what bilateral diplomacy cannot.",
+  "global_thesis": "Iran's IRGC has captured the state following Khamenei's assassination. Mojtaba Khamenei is a figurehead installed under IRGC pressure who has not appeared publicly since his 9 March appointment. The constitutional mechanism requiring Supreme Leader confirmation of SNSC decisions is structurally inoperative. The United States is conducting blockade operations and peace negotiations simultaneously against an entity that cannot constitutionally authorize a deal and has every military incentive not to. The ceasefire is a reorganization interval, not a peace-building interval. At the global level, the Iran war has created a bandwidth constraint on US strategic attention that Russia and China are actively exploiting — Russia through energy windfall funding of the Ukraine campaign, China through assertive moves in the South China Sea timed to coincide with maximum US distraction.",
 
-  "thesis_continuity": "SUPPORTED from Issue 004 — structural diagnosis confirmed. Iran's formal counterproposal hardened to sovereignty demands, confirming the IRGC's actual minimum is de jure Hormuz control, not merely de facto operational control. Uranium reversal confirmed civilian-track-without-IRGC-authorization dynamic at highest resolution yet.",
+  "global_thesis_timeframe": "The IRGC-capture dynamic is expected to persist for 4 to 8 weeks minimum. The ceasefire expires April 21. Whether it extends or collapses determines the immediate trajectory. The US bandwidth constraint thesis operates on a 90-day horizon tied to the Iran war duration.",
 
-  "thesis_timeframe": "2 weeks to resolution in one direction or another, driven by summit outcome. End conditions: summit produces private Chinese commitment to adjust Iran financial support (scenario 2, 20-25%); thin deliverables lead to IRGC validation and post-summit U.S. escalation (scenario 3, 20-25%); or thin deliverables extend frozen conflict (scenario 1, 50-55%).",
+  "thesis_continuity": "PIVOT — as of April 18. The IRGC-capture thesis holds structurally. The expression pivoted from intransigence to tactical de-escalation, with Iran opening Hormuz on Friday April 18 and the IRGC closing it again within 24 hours. The civilian-military split in Iranian decision-making is now visible and confirmed.",
 
-  "tactical_vs_structural_note": "Iran's sovereignty recognition demand is structural: it is a permanent legal status claim, not a tactical negotiating position. The uranium reversal is tactical evidence of a structural reality: the IRGC controls what can be committed. The GCC kinetic expansion pattern, UAE then Kuwait, is tactical escalation within a structural IRGC regional dominance claim. The Houthi restraint is a tactical reserve decision within a structural Iran-Houthi coordination framework that is looser than previously assessed.",
-
-  "pace_assessment": "as_anticipated on diplomatic track, faster_than_anticipated on Iranian position hardening. The formal counterproposal demanding sovereignty recognition represents a harder Iranian position than the Issue 004 forecast anticipated. The summit expectation downgrade by the White House was faster than the 30-35% deal probability in Issue 004 suggested.",
-
-  "key_actors": {
-    "iran_civilian_track": "Araghchi — submitted formal counterproposal demanding Hormuz sovereignty and war reparations. Made verbal uranium removal commitment then withdrew it before documentation. Attending BRICS Delhi simultaneously with Trump-Xi summit.",
-    "iran_irgc": "IRGC military council — expanded kinetic operations to UAE (May 4) and Kuwait (May 12). Declined to activate Houthi Red Sea campaign as of this writing. Established $2M per vessel transit toll revenue stream. Withdrew uranium removal commitment before documentation.",
-    "iran_supreme_leader": "Mojtaba — no written statements during summit period. Absent from summit-related diplomatic signaling.",
-    "china": "Summit Day 1. Holding leverage. Private banking restrictions on sanctioned refiners. Public defiance on sanctions. Xi has cards Trump needs. Taiwan-for-Iran trade-off risk present.",
-    "us_posture": "Trump arrived Beijing with low expectations on Iran. White House downgraded summit Iran deliverables publicly. Split administration camps on escalation vs diplomacy. Gas at $4.54/gallon domestic pressure.",
-    "russia_posture": "Structural interest in summit failure on Iran. Watching from outside. No new active moves.",
-    "pakistan_posture": "Transmission mechanism. Qatar emerging as parallel Gulf mediation actor.",
-    "qatar_posture": "NEW ACTIVE ACTOR. PM met Rubio, Witkoff, Vance in Miami last weekend. Parallel mediation track alongside Pakistan. Unique position as both reparations claimant and mediator.",
-    "gcc_posture": "UAE absorbed two attacks without formal attribution. Kuwait formally attributed paramilitary infiltration. GCC approaching formal military alignment decision point.",
-    "houthi_posture": "Strategic restraint. No commercial Red Sea attacks in 2026. Declined IRGC request in late March. Calculating independently. IRGC holding card in reserve."
-  },
-
-  "forecasts": {
-    "30_day": {
-      "primary_variable": "Summit outcome — thin deliverables vs private Chinese commitment vs post-summit escalation",
-      "scenario_1": {"label": "Thin deliverables, continued stalemate", "probability": "50-55%"},
-      "scenario_2": {"label": "Private Chinese commitment to adjust Iran financial support", "probability": "20-25%"},
-      "scenario_3": {"label": "Post-summit U.S. escalation", "probability": "20-25%"}
+  "cross_regional_interactions": [
+    {
+      "nodes": ["persian_axis", "eastern_europe"],
+      "mechanism": "bandwidth_constraint",
+      "description": "Russia's energy windfall from Hormuz disruption is directly funding the Ukraine campaign. Every week the Iran war continues is a week of additional Russian fiscal relief. Russia has structural incentive to see the conflict extend.",
+      "direction": "destabilizing",
+      "durability": "structural"
     },
-    "60_day": {
-      "most_likely": "Conditional on summit outcome. If thin deliverables: physical shortages hit Western markets, domestic U.S. pressure intensifies. If Chinese private commitment: IRGC endurance calculation changes within 30-45 days. If escalation: second round at higher Iranian capability baseline.",
-      "inflection_point": "Private Chinese financial commitment observable within 2-4 weeks of summit"
+    {
+      "nodes": ["hormuz", "indo_pacific"],
+      "mechanism": "bandwidth_constraint",
+      "description": "China deployed floating barrier to Scarborough Shoal April 10-11 while US attention was maximally focused on Hormuz. Multi-theater assertiveness timed to US distraction. Pattern to watch going forward.",
+      "direction": "destabilizing",
+      "durability": "tactical_for_now"
     },
-    "90_day": {
-      "scenario_1": {"label": "Structural Deterioration, Frozen Conflict", "probability": "35%", "type": "structural — IRGC permission regime permanent"},
-      "scenario_2": {"label": "Tactical Resolution via Chinese-Mediated Decoupling", "probability": "30%", "type": "tactical — nuclear deferred, IRGC wins strategic argument"},
-      "scenario_3": {"label": "Managed Escalation", "probability": "25%", "type": "tactical — second ceasefire at higher Iranian capability"},
-      "scenario_4": {"label": "Comprehensive Negotiated Framework", "probability": "10%", "type": "structural resolution — requires IRGC authorization of nuclear constraints"}
+    {
+      "nodes": ["hormuz", "south_asia"],
+      "mechanism": "resource_flow",
+      "description": "India summoned Iranian ambassador after two Indian-flagged vessels attacked in strait April 18. India's studied neutrality is under pressure. New Delhi cannot maintain non-alignment if Iranian forces are attacking Indian ships.",
+      "direction": "destabilizing",
+      "durability": "developing"
+    },
+    {
+      "nodes": ["persian_axis", "red_sea_yemen"],
+      "mechanism": "military_posture",
+      "description": "Houthi activation contingent on Iran war escalation. If ceasefire collapses, dual-chokepoint scenario becomes live — Hormuz and Bab el-Mandeb simultaneously. Most severe global supply disruption outcome.",
+      "direction": "destabilizing",
+      "durability": "conditional"
+    }
+  ],
+
+  "bandwidth_map": {
+    "united_states": {
+      "primary_focus": "Iran war — ceasefire management, blockade enforcement, second-round talks",
+      "undercommitted": "Ukraine (missile stock depletion noted by EU), South China Sea, Korean Peninsula",
+      "vulnerability": "Multi-theater overextension — Iran war consuming strategic reserves at rate that creates vulnerability elsewhere"
+    },
+    "china": {
+      "primary_focus": "Energy supply security — 38% of Hormuz flow is China-bound",
+      "undercommitted": "Active diplomatic engagement on Iran resolution",
+      "opportunity": "Advancing South China Sea position while US bandwidth constrained — Scarborough Shoal April 10-11"
+    },
+    "russia": {
+      "primary_focus": "Ukraine war — energized by oil windfall",
+      "undercommitted": "Middle East direct engagement",
+      "opportunity": "Every week of Iran war = additional fiscal relief. Structural incentive to prolong."
+    },
+    "india": {
+      "primary_focus": "Strategic autonomy — avoiding alignment with either US or Iran",
+      "undercommitted": "Active engagement on Hormuz resolution",
+      "vulnerability": "Energy exposure and now direct vessel attacks forcing a position India does not want to take"
+    },
+    "europe": {
+      "primary_focus": "Energy security, inflation management",
+      "undercommitted": "Active Middle East diplomacy",
+      "vulnerability": "ECB warning stagflation and recession in Germany and Italy. G20 inflation projected 4%."
     }
   },
 
+  "node_baselines": {
+    "persian_axis": {
+      "status": "CRITICAL",
+      "structural_situation": "IRGC-captured state. Mojtaba figurehead unseen since 9 March. Three IRGC veterans hold operational power. Constitutional command structure inoperative.",
+      "tactical_vs_structural": "IRGC reconstituting missile capability during ceasefire window — structural. Araghchi diplomatic gestures — tactical, overridden by IRGC within hours.",
+      "key_watch": "Mojtaba public appearance; IRGC internal factional signals; missile base clearance pace"
+    },
+    "hormuz": {
+      "status": "CRITICAL",
+      "structural_situation": "Functionally closed. 230 loaded tankers waiting. US naval blockade active since April 13. Iran declared open April 18, IRGC closed again within 24 hours. Mine problem unresolved.",
+      "tactical_vs_structural": "Open-close cycling is tactical leverage management. Mine problem may be structural constraint — Iran may genuinely lack full reopening capability.",
+      "key_watch": "Ceasefire expiry April 21; any tanker transiting under US escort; IRGC tanker attacks"
+    },
+    "levant": {
+      "status": "CRITICAL",
+      "structural_situation": "Israel conducting active ground invasion of Lebanon (5 divisions). 10-day ceasefire announced April 17. Hezbollah rejected it. French UNIFIL soldier killed April 18, likely Hezbollah. West Bank systematic consolidation accelerating under cover of larger war.",
+      "tactical_vs_structural": "Lebanon ceasefire tactical and fragile. West Bank consolidation structural — physical facts being created.",
+      "key_watch": "Lebanon ceasefire durability; West Bank annexation legislative moves; IDF post-war planning"
+    },
+    "gulf": {
+      "status": "ELEVATED",
+      "structural_situation": "GCC hardening from passive to active concession demands. Saudi-UAE divergence beneath unified surface. Qatar seeking reparations.",
+      "key_watch": "Any GCC bilateral back-channel with Tehran; Saudi-UAE Yemen competition resurfacing"
+    },
+    "red_sea_yemen": {
+      "status": "ELEVATED",
+      "structural_situation": "Houthis not resumed commercial shipping attacks but warned Bab el-Mandeb activation contingent on escalation resumption. Yemen structurally fractured — Houthi north, Saudi-UAE competition in south.",
+      "key_watch": "Houthi activation signal from Tehran; Pakistan Yemen mediation progress"
+    },
+    "eastern_europe": {
+      "status": "ELEVATED",
+      "structural_situation": "Russia energized by oil windfall funding Ukraine campaign. US missile stock depletion constraining Ukraine aid. EU defence commissioner flagged overstretched US stocks.",
+      "key_watch": "Ukraine frontline changes; Russian offensive timing given fiscal relief; US aid package debates"
+    },
+    "indo_pacific": {
+      "status": "WATCH",
+      "structural_situation": "China advanced Scarborough Shoal position April 10-11 during maximum US distraction. Pattern of opportunistic advancement during US bandwidth constraints confirmed.",
+      "key_watch": "Further Chinese maritime moves; Taiwan Strait activity; US Indo-Pacific asset deployment changes"
+    },
+    "south_asia": {
+      "status": "WATCH",
+      "structural_situation": "Pakistan emerged as sole active mediator in Iran crisis. India forced off studied neutrality by IRGC attacks on Indian vessels. India summoned Iranian ambassador April 18.",
+      "key_watch": "India-Iran diplomatic trajectory; Pakistan mediation capacity limits; India energy supply alternatives"
+    },
+    "sub_saharan_africa": {"status": "QUIET", "note": "No significant structural signal this week. Food security pressures building in Sahel — FEWS NET watch."},
+    "north_africa": {"status": "QUIET", "note": "Libya and Sudan ongoing but no threshold crossings this week."},
+    "latin_america": {"status": "QUIET", "note": "No significant structural signal this week."},
+    "central_asia_caucasus": {"status": "QUIET", "note": "No significant structural signal this week."},
+    "europe_domestic": {"status": "WATCH", "note": "Inflationary pressure from energy shock building. ECB stagflation warning. Political consequences building in Germany and Italy."},
+    "arctic": {"status": "QUIET", "note": "No significant structural signal this week."}
+  },
+
   "trigger_events_watched": [
-    {"id": "T1", "event": "Mojtaba public appearance", "status": "NOT FIRED", "significance": "No statements during summit period. Absence from summit diplomatic signaling analytically meaningful."},
-    {"id": "T2", "event": "Attack on Saudi Aramco Abqaiq", "status": "NOT FIRED", "significance": "GCC escalation pattern approaching threshold. IRGC keeping below Abqaiq threshold deliberately during summit."},
-    {"id": "T3", "event": "Houthi attack on Bab el-Mandeb shipping", "status": "APPROACHING, revised", "significance": "No commercial vessel struck in 2026. Houthis declined IRGC request in March. Strategic reserve not deployment. Revised timeline 3-5 weeks post-summit."},
-    {"id": "T4", "event": "Chinese-flagged vessel incident with U.S. Navy", "status": "PARTIAL, temporarily suppressed", "significance": "Summit suppression through May 15. Risk resumes at full level after."},
-    {"id": "T5", "event": "Knesset West Bank annexation vote", "status": "NOT FIRED", "significance": "Summit cover continues."},
-    {"id": "T6", "event": "China South China Sea escalation", "status": "APPROACHING, suppressed through May 15", "significance": "Suppression ends immediately if summit fails on Taiwan concessions."},
-    {"id": "T7", "event": "Lebanon ceasefire collapse triggering Iran-U.S. escalation", "status": "APPROACHING, active but temporarily suppressed", "significance": "Summit political pressure temporarily suppressing. Suppression ends when summit concludes."},
-    {"id": "T8", "event": "Summit produces Hormuz deal bypassing nuclear constraints", "status": "APPROACHING, probability revised to 15-20%", "significance": "White House expectation management reduced public deal probability. Private Chinese commitment more likely than public announcement."}
+    {"id": "T1", "event": "Mojtaba Khamenei public appearance", "status": "NOT FIRED", "nodes_affected": ["persian_axis"], "significance": "Presence signals controllable figurehead; absence signals leadership vacuum deeper than acknowledged"},
+    {"id": "T2", "event": "Attack on Saudi Aramco Abqaiq facility", "status": "NOT FIRED", "nodes_affected": ["persian_axis", "gulf", "hormuz"], "significance": "Signals IRGC chose escalation; historic oil price shock"},
+    {"id": "T3", "event": "Houthi attack on Bab el-Mandeb shipping", "status": "NOT FIRED — ELEVATED RISK", "nodes_affected": ["red_sea_yemen", "hormuz", "global_energy"], "significance": "Dual-chokepoint scenario — most severe global supply disruption"},
+    {"id": "T4", "event": "Chinese-flagged vessel incident with US Navy during blockade", "status": "APPROACHING", "nodes_affected": ["hormuz", "indo_pacific", "persian_axis"], "significance": "Forces Beijing off diplomatic fence into active opposition"},
+    {"id": "T5", "event": "Knesset West Bank annexation vote", "status": "NOT FIRED", "nodes_affected": ["levant", "gulf"], "significance": "Fractures Arab League acquiescence to Israel operations"},
+    {"id": "T6", "event": "Ceasefire expiry without extension April 21", "status": "APPROACHING — 3 DAYS", "nodes_affected": ["persian_axis", "hormuz", "levant", "red_sea_yemen"], "significance": "Determines whether conflict resumes; binary decision point for entire system"},
+    {"id": "T7", "event": "China makes further assertive move in South China Sea during Iran crisis", "status": "PARTIAL — Scarborough Shoal April 10-11", "nodes_affected": ["indo_pacific", "persian_axis"], "significance": "Confirms pattern of multi-theater opportunism during US distraction"}
   ],
 
   "falsification_conditions": [
-    {"id": "F1", "condition": "Mojtaba demonstrates independent authority bypassing IRGC", "status": "NOT TRIGGERED", "condition_type": "structural", "implication": "Moving further from triggering. Absent from summit period signaling."},
-    {"id": "F2", "condition": "Iran accepts phased Hormuz reopening without nuclear preconditions", "status": "NOT TRIGGERED, reversed", "condition_type": "tactical", "implication": "Formal counterproposal demanded sovereignty recognition, moving away from F2. Reversed from APPROACHING."},
-    {"id": "F3", "condition": "China exercises direct public pressure on Tehran for concessions", "status": "APPROACHING, revised down", "condition_type": "structural", "implication": "Private banking restrictions suggest quiet pressure on Chinese financial system but not on Tehran directly. Post-summit private commitment remains possible."},
-    {"id": "F4", "condition": "GCC bilateral back-channel with Tehran produces partial agreement", "status": "NOT TRIGGERED", "condition_type": "structural", "implication": "UAE and Kuwait attacks moved this further from triggering. Qatar mediation within U.S. framework, not outside it."},
-    {"id": "F5", "condition": "Internal IRGC factional conflict becomes publicly visible", "status": "APPROACHING, elevated", "condition_type": "structural", "implication": "Uranium reversal and counterproposal hardening simultaneous with Araghchi Beijing flexibility are dual-track's most public contradiction yet."},
-    {"id": "F6", "condition": "U.S. redesigns approach to engage IRGC directly", "status": "NOT TRIGGERED", "condition_type": "tactical", "implication": "Summit engages China as pressure mechanism on civilian track, not IRGC directly."}
+    {"id": "F1", "condition": "Mojtaba Khamenei appears publicly and demonstrates independent authority bypassing IRGC on a material decision", "status": "NOT TRIGGERED", "condition_type": "structural", "implication": "IRGC-capture thesis requires revision"},
+    {"id": "F2", "condition": "Iran accepts phased Hormuz reopening without preconditions on nuclear program", "status": "PARTIAL — Araghchi announced opening April 18, IRGC overrode within hours", "condition_type": "structural", "implication": "Partial trigger confirms civilian-military split; full trigger would weaken IRGC control thesis"},
+    {"id": "F3", "condition": "China exercises direct public pressure on Tehran beyond condemning the blockade", "status": "NOT TRIGGERED", "condition_type": "structural", "implication": "China leverage activating; resolution timeline potentially accelerating"},
+    {"id": "F4", "condition": "GCC state opens bilateral back-channel with Tehran producing partial agreement outside US framework", "status": "NOT TRIGGERED", "condition_type": "structural", "implication": "US-led coalition pressure fracturing"},
+    {"id": "F5", "condition": "Internal IRGC factional conflict becomes publicly visible", "status": "NOT TRIGGERED", "condition_type": "structural", "implication": "Unified hardliner thesis requires revision"},
+    {"id": "F6", "condition": "Russia publicly calls for Iran ceasefire extension or resolution — breaking its silence", "status": "NOT TRIGGERED", "condition_type": "structural", "implication": "Russian windfall incentive thesis challenged; Moscow calculating differently"},
+    {"id": "F7", "condition": "US withdraws carrier group from Gulf reducing visible deterrence posture", "status": "NOT TRIGGERED", "condition_type": "structural", "implication": "US bandwidth constraint reaching operational limit; de-escalation by necessity"}
   ],
 
-  "key_uncertainties": [
-    "Whether China makes private financial commitment to adjust Iran support following summit, observable within 2-4 weeks",
-    "Whether Taiwan-for-Iran implicit trade-off occurs at summit without public acknowledgment",
-    "Whether GCC states make formal military alignment decisions following summit conclusion",
-    "Whether Houthi activation threshold is reached post-summit if IRGC issues directive",
-    "Whether T6 South China Sea suppression ends immediately following summit if no Taiwan concessions"
-  ],
+  "forecasts": {
+    "30_day": {
+      "most_likely": "Ceasefire expires or extends by days under Pakistani pressure. IRGC-authorized proxy escalation rather than direct strikes if expired. Hormuz remains functionally closed regardless of diplomatic language.",
+      "direct_resumption_probability": "55-65% — elevated from 40-50% after April 18 IRGC tanker attacks",
+      "proxy_escalation_probability": "60-70%",
+      "primary_vector": "Houthi activation or Iraqi militia attacks on US bases",
+      "velocity_note": "Situation moving faster than Issue 001 anticipated — ceasefire collapse probability rose significantly in 72 hours"
+    },
+    "60_day": {
+      "most_likely": "If direct strikes resume, second round faces partially reconstituted Iranian missile capability. China's import shortfall becomes acute as reserves thin. Possible inflection: China-brokered back-channel Iran-Gulf bypassing Washington.",
+      "key_risk": "IRGC missile reconstitution during ceasefire producing more capable adversary in second round"
+    },
+    "90_day": {
+      "scenario_1": {"label": "Negotiated partial resolution", "probability": "25%", "note": "Reduced from 30% after IRGC tanker attacks"},
+      "scenario_2": {"label": "Managed escalation — most likely", "probability": "50%", "note": "Increased from 45%"},
+      "scenario_3": {"label": "Structural Iranian internal collapse", "probability": "25%", "note": "Unchanged"}
+    }
+  },
 
   "pattern_match": {
-    "label": "Lausanne-to-JCPOA gap period analog without convergence",
-    "analog": "April-July 2015 JCPOA final negotiation period, but without the eventual deal acceptance",
-    "key_similarity": "Civilian negotiators operating with IRGC-defined red lines. Major power summit as breakthrough mechanism. U.S.-Iran impasse on nuclear constraints with China providing diplomatic cover.",
-    "key_difference": "2015 produced constraints and monitoring. Current trajectory toward deal without constraints, terms materially worse for U.S. objectives. IRGC demanding sovereignty rights not just operational control.",
-    "trajectory": "Diverging from 2015 resolution analog. Tracking toward no-deal frozen conflict unless Chinese private pressure mechanism activates within 2-4 weeks."
+    "label": "Escalation ladder forming — tactical pause before next phase",
+    "analog": "Korean War 1951 stalemate with important differences — Iran lacks institutional negotiating structure Korea had",
+    "trajectory_assessment": "Tracking toward managed escalation rather than resolution. IRGC tanker attacks suggest hardliners are testing ceasefire limits ahead of April 21 expiry."
   },
 
   "confidence_levels": {
-    "high": ["IRGC dual-track thesis", "Structural incompatibility of sovereignty demand and U.S. nuclear requirement", "Uranium reversal as civilian-without-IRGC-authorization confirmation", "IRGC financial incentive in Hormuz toll revenue"],
-    "medium": ["Summit 30-day scenario probabilities", "Whether China private commitment is made or in progress", "GCC alignment decision timeline"],
-    "low": ["Whether Houthi restraint continues post-summit", "90-day scenario probabilities", "Taiwan-for-Iran implicit trade-off detection"]
+    "high": ["IRGC consolidation thesis", "Russian windfall incentive structure", "China opportunistic South China Sea advancement", "Civilian-military split in Iranian decision-making now confirmed"],
+    "medium": ["30-day escalation probability ranges", "China pressure timeline", "India forced off neutrality trajectory"],
+    "low": ["Mojtaba independent agency", "IRGC internal coherence", "90-day scenario probabilities"]
   },
 
-  "hormuz_status": {
-    "condition": "Dual blockade continuing — IRGC permission regime with $2M per vessel toll, U.S. Navy blockading Iranian ports",
-    "project_freedom_status": "PAUSED — may resume post-summit",
-    "shipping_drop": "90%+ since February 28",
-    "cumulative_disruption_bbl": "Exceeding 500 million barrels",
-    "seafarers_stranded": "approximately 20,000",
-    "brent_crude": "Above $105/barrel",
-    "us_gas_price": "$4.54/gallon average",
-    "normalization_timeline": "Saudi Aramco CEO: into 2027 even if deal reached soon",
-    "bypass_capacity": "Saudi East-West Pipeline approximately 5M bbl/day"
-  },
+  "key_uncertainties": [
+    "Whether Mojtaba has any independent clerical authority beyond IRGC backing",
+    "Whether IRGC command structure is unified or factionally contested",
+    "Whether Iran's mine problem is genuine constraint or manufactured leverage",
+    "Whether China will convert economic pressure into diplomatic leverage and at what threshold",
+    "Whether ceasefire expires April 21 or extends under Pakistani pressure"
+  ],
 
-  "global_inputs_summary": {
-    "china": "Summit Day 1. Holding leverage. Private banking restrictions on sanctioned refiners. Public defiance on sanctions. Taiwan-for-Iran trade-off risk.",
-    "russia": "Structural interest in summit failure. Watching from outside. No new moves.",
-    "pakistan": "Transmission mechanism. Qatar emerging as parallel actor.",
-    "qatar": "NEW ACTIVE MEDIATION ACTOR. PM met senior U.S. officials. Parallel track alongside Pakistan.",
-    "india": "No new developments.",
-    "europe": "Physical shortages now operational level. Southeast Asia bearing heaviest burden."
-  },
+  "emerging_signals": [
+    {"node": "south_asia", "signal": "India forced off neutrality by IRGC vessel attacks", "structural_characteristic": "India cannot maintain non-alignment if Iranian forces attack Indian ships — forces a position that constrains future Indian-Iranian relations", "confirmation_marker": "India imposes any sanction or restriction on Iran in next 30 days"},
+    {"node": "europe_domestic", "signal": "ECB stagflation warning — energy shock transmitting into European political instability", "structural_characteristic": "Inflation plus recession in Germany and Italy creates political conditions for leadership challenges", "confirmation_marker": "Ruling coalition approval ratings in Germany or Italy fall below 30%"}
+  ],
 
-  "levant_baseline": {
-    "israel_lebanon": "Mutual violations active. Summit temporarily suppressing formal collapse declaration.",
-    "west_bank": "Consolidation continuing under complete diplomatic inattention.",
-    "hezbollah": "Active despite ceasefire extension. Syria cell dismantled.",
-    "houthi": "Strategic restraint. No Red Sea commercial attacks in 2026. IRGC holding card in reserve."
-  },
-
-  "new_this_week": "Qatar added as active mediation actor. IRGC $2M per vessel Hormuz toll revenue stream identified as structural financial incentive to perpetuate closure. Houthi restraint refined: strategic reserve not incapacity, declined IRGC March request. F2 reversed from APPROACHING to NOT TRIGGERED. T3 timeline revised to 3-5 weeks post-summit. Taiwan-for-Iran implicit trade-off risk identified as new summit variable.",
-
-  "delta_from_previous": "SUPPORTED. Iran formal counterproposal hardened to sovereignty demands, confirming IRGC actual minimum. Uranium reversal confirmed civilian-without-IRGC-authorization at highest resolution. Summit expectations downgraded by White House before first session. GCC kinetic expansion to Kuwait. Houthi restraint refined as strategic reserve. IRGC toll revenue stream identified.",
-
-  "next_session_instructions": "Fetch this file at session start. The Trump-Xi summit concludes May 15. The single most important signal to check at session start is: what did the summit produce on Iran? Was there a joint statement on Hormuz navigation? Did China make any commitment regarding Iranian oil purchases or financial support? Did Trump accept any formulation of Iranian Hormuz management rights? These questions determine whether the ceasefire enters its most unstable phase or whether a new pressure mechanism has been introduced. Also check: did the Lebanon ceasefire formally collapse in the 48 hours after the summit concluded? Did any GCC state make a formal military alignment announcement? Wednesday May 20 SITREP is the post-summit assessment issue and the most analytically significant since Issue 001."
+  "next_session_instructions": "This is the last Middle East-focused memory record. Issue 002 runs as the first global SITREP on Saturday April 26. Fetch this memory record, run the global delta comparison prompt against the full week of signals across all nodes, then produce the global synthesis using the v3 triad synthesis prompt. The Middle East thread carries forward with full delta comparison. All other nodes initialize with baseline assessments. The global thesis should address the Iran war as the primary current dynamic while identifying the cross-regional interactions — Russia windfall, China opportunism, India neutrality pressure — as the connective tissue of the first global SITREP."
 }
