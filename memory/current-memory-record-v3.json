@@ -1,9 +1,9 @@
 {
   "meta": {
-    "issue": "002-baseline",
-    "date": "2026-05-17",
+    "issue": "003",
+    "date": "2026-05-18",
     "architecture_version": "v3",
-    "note": "This is the v3 architecture baseline record. Node activation levels established as of 17 May 2026. All prior activation arrays show [null, null, null] because this is the first v3 record. From Issue 003 onward, prior_activations will accumulate.",
+    "note": "First live v3 run. Test session. Baseline node activations now have one week of prior data. Full prior_activations arrays will populate from Issue 004 onward.",
     "next_sitrep": "2026-05-24",
     "cadence": "Saturday weekly global SITREP"
   },
@@ -11,524 +11,86 @@
   "network_state": {
 
     "nodes": [
-
-      {
-        "node": "iran-hormuz",
-        "baseline_activation": 9,
-        "baseline_note": "Baseline set at acute crisis. War began 28 February 2026. Strait functionally closed since then. Ceasefire in effect since 8 April but violated repeatedly. This is the highest-activation node in the network at baseline.",
-        "current_activation": 9,
-        "direction": "stable",
-        "velocity": "flat",
-        "prior_activations": [null, null, null],
-        "dominant_signal": "Ceasefire holding at surface while both parties formally deferred the uranium question. US shifted from military objectives to MoU framework. IRGC dual-track: civilian diplomatic face plus continued military pressure on Gulf states.",
-        "threshold_crossed": false,
-        "threshold_note": null
-      },
-
-      {
-        "node": "ukraine-russia",
-        "baseline_activation": 7,
-        "baseline_note": "Baseline set at high activation. War in year four. Front lines largely static. Russian slow advance in Donbas. Ceasefire attempts failing. Peace negotiations stalled.",
-        "current_activation": 7,
-        "direction": "stable",
-        "velocity": "flat",
-        "prior_activations": [null, null, null],
-        "dominant_signal": "Trump brokered 3-day Victory Day ceasefire May 9-11 that both sides quickly violated. Putin fixated on Donbas, rejecting front-line freeze proposals. Rubio declared negotiations stagnated. Russia conducting deadliest civilian strikes of 2026 in days before ceasefire.",
-        "threshold_crossed": false,
-        "threshold_note": null
-      },
-
-      {
-        "node": "israel-levant",
-        "baseline_activation": 7,
-        "baseline_note": "Baseline set at high activation. Israel fighting on multiple fronts. Lebanon ceasefire in place but fragile. West Bank consolidation ongoing. Syria footprint maintained.",
-        "current_activation": 7,
-        "direction": "stable",
-        "velocity": "flat",
-        "prior_activations": [null, null, null],
-        "dominant_signal": "Israel-Lebanon third round Washington talks concluded May 14-15 with 45-day ceasefire extension. Hezbollah excluded from talks, continuing limited strikes. West Bank structural consolidation ongoing. Lebanon diplomatic track advancing faster than any prior analog.",
-        "threshold_crossed": false,
-        "threshold_note": null
-      },
-
-      {
-        "node": "yemen-red-sea",
-        "baseline_activation": 5,
-        "baseline_note": "Baseline set at elevated. Houthis in strategic pause. Red Sea shipping attacks suspended since ceasefire. Bab el-Mandeb closure threatened but not executed. Capability fully intact.",
-        "current_activation": 5,
-        "direction": "stable",
-        "velocity": "flat",
-        "prior_activations": [null, null, null],
-        "dominant_signal": "Houthis maintaining strategic patience. First missile attack on Israel fired 28 March. No Bab el-Mandeb shipping attacks during ceasefire. Iran holding Houthi activation in reserve as escalation lever. Lebanon 45-day extension removes most immediate activation trigger.",
-        "threshold_crossed": false,
-        "threshold_note": null
-      },
-
-      {
-        "node": "sudan-horn",
-        "baseline_activation": 7,
-        "baseline_note": "Baseline set at high activation. Sudan civil war entering year four. SAF vs RSF. World's largest displacement crisis. Genocide findings. Spillover into Chad, Ethiopia tensions, Horn of Africa Red Sea access competition.",
-        "current_activation": 7,
-        "direction": "stable",
-        "velocity": "flat",
-        "prior_activations": [null, null, null],
-        "dominant_signal": "Sudan civil war continues with drone strikes on civilian infrastructure, markets, hospitals. Chad border closure after RSF drone killed 17 at funeral. SAF accusing Ethiopia and UAE of involvement in Khartoum airport drone raid May 4. Sudan military building up forces near Ethiopian border. 33 million facing famine.",
-        "threshold_crossed": false,
-        "threshold_note": null
-      },
-
-      {
-        "node": "sahel-west-africa",
-        "baseline_activation": 7,
-        "baseline_note": "Baseline set at high activation. JNIM-FLA coordinated attacks on Bamako and four Malian cities April 25 killed Defense Minister Camara. Russia Africa Corps model failing. AES junta belt losing territorial control. JNIM expanding south toward coastal states.",
-        "current_activation": 8,
-        "direction": "rising",
-        "velocity": "moderate",
-        "prior_activations": [null, null, null],
-        "dominant_signal": "JNIM-FLA coordinated April 25 attack on Bamako and multiple Malian cities was strategic threshold event. Mali close to state collapse per multiple analytical assessments. Niger cancelled all May 1 parades nationwide for security, first such cancellation in AES era. Burkina Faso under State of War alert. JNIM corridor expanding south to Togo, Benin, Ghana. Russia Africa Corps model publicly failing.",
-        "threshold_crossed": true,
-        "threshold_note": "Crossed from high-activation to near-acute. The April 25 coordinated multi-city attack represents a structural escalation. JNIM demonstrated capacity to threaten the capital simultaneously with regional cities. This is not tactical raiding. It is siege strategy targeting state collapse."
-      },
-
-      {
-        "node": "china-taiwan-indopacific",
-        "baseline_activation": 6,
-        "baseline_note": "Baseline set at elevated. PLA conducting sustained ADIZ incursions, South China Sea expansion, Philippines flashpoints. ADIZ incursion rate fell from 300 per month in 2025 to 169 in April 2026, possibly indicating strategy shift rather than de-escalation. Taiwan passed 780B NTD special defense budget.",
-        "current_activation": 6,
-        "direction": "stable",
-        "velocity": "flat",
-        "prior_activations": [null, null, null],
-        "dominant_signal": "PLA ADIZ incursions declining but PLA Southern Theater Command conducting major South China Sea and West Pacific deployments in response to Balikatan exercises. China coast guard operating aggressively at Sandy Cay near Subi Reef. Taiwan defense budget passed but excludes T-Dome missile defense and joint US-Taiwan manufacturing. Trump declined Taiwan $14B arms sale at Xi summit.",
-        "threshold_crossed": false,
-        "threshold_note": null
-      },
-
-      {
-        "node": "china-domestic",
-        "baseline_activation": 5,
-        "baseline_note": "Baseline set at elevated. China under structural economic stress from property sector, youth unemployment, and now energy supply disruption from Hormuz closure. Import shortfall from Hormuz causing reserve drawdown. Xi consolidation ongoing.",
-        "current_activation": 5,
-        "direction": "stable",
-        "velocity": "flat",
-        "prior_activations": [null, null, null],
-        "dominant_signal": "Hormuz closure cutting China's normal seaborne oil supply by half. Pre-loaded reserves buying time but March imports already falling. Xi-Trump summit focused heavily on trade normalization. China committed to buy 200 Boeing aircraft and agricultural products. Energy import stress creating internal pressure toward Hormuz resolution.",
-        "threshold_crossed": false,
-        "threshold_note": null
-      },
-
-      {
-        "node": "russia-domestic",
-        "baseline_activation": 5,
-        "baseline_note": "Baseline set at elevated. War economy running. Urals crude near $116/barrel generating massive windfall. Elite cohesion maintained on surface. Mobilization sustainable at current pace. Perverse incentive to prolong Iran crisis.",
-        "current_activation": 5,
-        "direction": "stable",
-        "velocity": "flat",
-        "prior_activations": [null, null, null],
-        "dominant_signal": "Russia maximum structural beneficiary of Iran crisis. Windfall oil revenues funding Ukraine war. Araghchi floating Russia as uranium custody solution at BRICS, which would insert Moscow into any Iran deal architecture. Putin rejecting front-line freeze proposals in Ukraine. Africa Corps model failing in Mali.",
-        "threshold_crossed": false,
-        "threshold_note": null
-      },
-
-      {
-        "node": "us-domestic",
-        "baseline_activation": 6,
-        "baseline_note": "Baseline set at elevated. Trump managing two simultaneous war theaters plus trade confrontation with China. Congressional constraints active. Missile stocks stretched. Domestic gas price concern. Internal debate between resumed-military and deal factions on Iran.",
-        "current_activation": 6,
-        "direction": "stable",
-        "velocity": "flat",
-        "prior_activations": [null, null, null],
-        "dominant_signal": "Trump managing Iran ceasefire, Ukraine peace push, and Xi summit simultaneously with stretched bandwidth. Gas prices pushing toward $5/gallon. Trump proposed suspending federal gas tax. Internal faction debate on Iran between resumed-military and MoU camps. Ukraine negotiations declared stagnated by Rubio. Taiwan arms sale delayed at Beijing summit.",
-        "threshold_crossed": false,
-        "threshold_note": null
-      },
-
-      {
-        "node": "global-energy",
-        "baseline_activation": 8,
-        "baseline_note": "Baseline set at high activation. Hormuz closure since February 28 disrupting approximately 10 million barrels per day. IEA 400 million barrel reserve release. Brent crude in $100-120 range. Saudi East-West Pipeline partially bypassing at 5M bbl/day. Dual-chokepoint risk from Yemen remains latent.",
-        "current_activation": 8,
-        "direction": "stable",
-        "velocity": "flat",
-        "prior_activations": [null, null, null],
-        "dominant_signal": "Hormuz functionally closed, 230 ships stranded. US blockade of Iranian ports active since April 13. Project Freedom failed in under 48 hours. Three Chinese tankers allowed through pre-summit as goodwill gesture. MoU framework discussions not yet including specific Hormuz reopening mechanism. Energy shock structural and accumulating.",
-        "threshold_crossed": false,
-        "threshold_note": null
-      },
-
-      {
-        "node": "global-financial",
-        "baseline_activation": 6,
-        "baseline_note": "Baseline set at elevated. Energy shock feeding global inflation. Europe in stagflation. US facing inflationary pressure from tariffs plus energy. Dollar under sustained depreciation pressure. Sovereign debt globally elevated. Fed posture constrained.",
-        "current_activation": 6,
-        "direction": "stable",
-        "velocity": "flat",
-        "prior_activations": [null, null, null],
-        "dominant_signal": "Energy shock driving global inflation above pre-war trajectory. ECB warning stagflation in Germany and Italy. Global South food and energy cost shock structural. 42 percent of all global sovereign debt maturing by 2027 at higher rate reset. Dollar diversification accelerating. China-US trade normalization at summit providing partial relief signal.",
-        "threshold_crossed": false,
-        "threshold_note": null
-      },
-
-      {
-        "node": "global-trade",
-        "baseline_activation": 6,
-        "baseline_note": "Baseline set at elevated. Hormuz closure adding to existing tariff-driven supply chain fragmentation. Cape of Good Hope rerouting increasing shipping costs. US tariff regime active. China-US trade normalization partial signal at summit.",
-        "current_activation": 6,
-        "direction": "stable",
-        "velocity": "flat",
-        "prior_activations": [null, null, null],
-        "dominant_signal": "Shipping rerouted around Cape adding weeks and cost to Asia-Europe trade. Hormuz closure compounding tariff-driven fragmentation. Trump-Xi summit produced agricultural and Boeing purchase commitments offering partial normalization signal. USMCA review due July 1 2026 adding uncertainty.",
-        "threshold_crossed": false,
-        "threshold_note": null
-      },
-
-      {
-        "node": "nuclear-proliferation",
-        "baseline_activation": 7,
-        "baseline_note": "Baseline set at high activation. Iran nuclear question at center of active war. DPRK arsenal near tipping point for overwhelming US missile defenses. Saudi Arabia nuclear threshold signaling active. Iran enriched uranium formally deferred in negotiations.",
-        "current_activation": 7,
-        "direction": "stable",
-        "velocity": "flat",
-        "prior_activations": [null, null, null],
-        "dominant_signal": "Iran enriched uranium issue formally deferred by both parties per Araghchi BRICS statement May 15. DPRK arsenal nearing capacity to overwhelm US ground-based missile defenses. DPRK commissioning first naval destroyer June 2026. IAEA reported serious DPRK nuclear advances in April. North Korea deploying new Seoul-range artillery. Saudi nuclear threshold signaling continues as Iran deal framework excludes enrichment prohibition.",
-        "threshold_crossed": false,
-        "threshold_note": null
-      },
-
-      {
-        "node": "south-asia",
-        "baseline_activation": 4,
-        "baseline_note": "Baseline set at low-elevated. Pakistan active as Iran mediator but role diminishing. India emerging as potential facilitator via BRICS circuit. India-Pakistan tensions stable at background level. Afghanistan spillover managed.",
-        "current_activation": 4,
-        "direction": "rising",
-        "velocity": "slow",
-        "prior_activations": [null, null, null],
-        "dominant_signal": "Pakistan mediation role diminishing as diplomatic center of gravity shifts to Beijing and BRICS. India hosting BRICS Foreign Ministers meeting May 15 with Araghchi, Saudi, and Egyptian FMs attending. Araghchi praised India's potential facilitation role. India-Pakistan baseline tensions stable but Pakistan strategic bandwidth stretched by simultaneous Iran-US mediation and Pakistan-Saudi defense agreement obligations.",
-        "threshold_crossed": false,
-        "threshold_note": null
-      },
-
-      {
-        "node": "turkey-eastern-med",
-        "baseline_activation": 4,
-        "baseline_note": "Baseline set at low-elevated. Turkey managing NATO coherence tensions. Erdogan positioning between US and Russia. Energy transit leverage active. Libya connection maintained.",
-        "current_activation": 4,
-        "direction": "stable",
-        "velocity": "flat",
-        "prior_activations": [null, null, null],
-        "dominant_signal": "Turkey maintaining strategic ambiguity between NATO obligations and Russia energy relationship. Erdogan not moving significantly on Iran crisis. Turkey's position as energy transit hub for Europe increases its leverage as European energy stress grows. No major developments this week.",
-        "threshold_crossed": false,
-        "threshold_note": null
-      },
-
-      {
-        "node": "gcc-gulf",
-        "baseline_activation": 7,
-        "baseline_note": "Baseline set at high activation. GCC states attacked by Iran throughout conflict. UAE secret strikes on Iran revealed. Saudi-Iran 2023 detente permanently shattered. GCC hardening structurally. Kuwait now a direct attack victim.",
-        "current_activation": 7,
-        "direction": "stable",
-        "velocity": "flat",
-        "prior_activations": [null, null, null],
-        "dominant_signal": "UAE secret offensive strikes against Iran confirmed by WSJ and multiple outlets. UAE Fujairah oil infrastructure struck May 4, first Iranian attack on UAE since ceasefire. Kuwait Bubiyan Island IRGC infiltration attempt May 1. GCC hardening is structural and durable. Qatar LNG tanker allowed through Hormuz as Iranian goodwill gesture. Saudi-Iran phone contact between FMs producing only standard diplomatic language.",
-        "threshold_crossed": false,
-        "threshold_note": null
-      },
-
-      {
-        "node": "latin-america",
-        "baseline_activation": 3,
-        "baseline_note": "Baseline set at low. Venezuela managed instability. Migration pressure on US bandwidth. Chinese infrastructure penetration ongoing. No acute crisis.",
-        "current_activation": 3,
-        "direction": "stable",
-        "velocity": "flat",
-        "prior_activations": [null, null, null],
-        "dominant_signal": "Latin America quiet relative to global baseline. Energy price shock feeding into regional inflation. USMCA review July 1 creating Mexico-US trade uncertainty. Chinese infrastructure investment continuing. No threshold events.",
-        "threshold_crossed": false,
-        "threshold_note": null
-      }
-
+      { "node": "iran-hormuz", "baseline_activation": 9, "current_activation": 9, "direction": "stable", "velocity": "flat", "prior_activations": [null, null, 9], "dominant_signal": "Ceasefire on life support. Trump rejected Iran counterproposal as totally unacceptable. Uranium disposal formally deferred by both parties. Both blockades active. No Hormuz reopening mechanism in MoU discussions.", "threshold_crossed": false },
+      { "node": "ukraine-russia", "baseline_activation": 7, "current_activation": 7, "direction": "rising", "velocity": "slow", "prior_activations": [null, null, 7], "dominant_signal": "Putin Victory Day framing shift: war coming to an end, willing to meet Zelensky in third country after deal finalized. Three-day ceasefire May 9-11 violated within hours. Rubio declared US mediation stagnated.", "threshold_crossed": false },
+      { "node": "israel-levant", "baseline_activation": 7, "current_activation": 7, "direction": "stable", "velocity": "flat", "prior_activations": [null, null, 7], "dominant_signal": "45-day Lebanon ceasefire extension agreed May 15. Pentagon security track established May 29. Hezbollah drone strike during talks. Hezbollah excluded, continuing limited operations.", "threshold_crossed": false },
+      { "node": "yemen-red-sea", "baseline_activation": 5, "current_activation": 5, "direction": "stable", "velocity": "flat", "prior_activations": [null, null, 5], "dominant_signal": "Strategic silence maintained. No Bab el-Mandeb activation. Lebanon extension removes most immediate trigger. Capability fully intact, held in reserve by Tehran.", "threshold_crossed": false },
+      { "node": "sudan-horn", "baseline_activation": 7, "current_activation": 7, "direction": "stable", "velocity": "flat", "prior_activations": [null, null, 7], "dominant_signal": "SAF returned to Khartoum administratively. Chad border closure after RSF drone killed 17. SAF deploying near Ethiopian border after accusing UAE of Khartoum airport drone involvement. Year four with no resolution.", "threshold_crossed": false },
+      { "node": "sahel-west-africa", "baseline_activation": 8, "current_activation": 9, "direction": "rising", "velocity": "moderate", "prior_activations": [null, null, 8], "dominant_signal": "JNIM declared full Bamako blockade. Defense Minister Camara killed. Kidal lost to FLA. Africa Corps publicly failing. JNIM following HTS-Syria governance transition playbook. Niger cancelled all May 1 parades. Burkina Faso State of War alert.", "threshold_crossed": true, "threshold_note": "Crossed from high-activation (8) to acute-crisis (9). Structural threshold event. Mali state collapse is the central scenario within 30-60 days." },
+      { "node": "china-taiwan-indopacific", "baseline_activation": 6, "current_activation": 6, "direction": "stable", "velocity": "flat", "prior_activations": [null, null, 6], "dominant_signal": "Taiwan $14B arms sale delayed at Xi-Trump summit. PLA ADIZ incursions declining. South China Sea activity continuing. Taiwan deterrence architecture quietly eroding via Iran-bandwidth linkage.", "threshold_crossed": false },
+      { "node": "china-domestic", "baseline_activation": 5, "current_activation": 5, "direction": "stable", "velocity": "flat", "prior_activations": [null, null, 5], "dominant_signal": "Trade normalization at summit providing partial relief. Hormuz energy stress continuing. Xi consolidation stable.", "threshold_crossed": false },
+      { "node": "russia-domestic", "baseline_activation": 5, "current_activation": 6, "direction": "rising", "velocity": "slow", "prior_activations": [null, null, 5], "dominant_signal": "Africa Corps failure in Mali publicly visible. JNIM called on Russia to stand down. Putin Victory Day framing shift toward war-end. Araghchi floated Russia as uranium custody solution at BRICS. Oil windfall continuing but strategic model under pressure.", "threshold_crossed": false },
+      { "node": "us-domestic", "baseline_activation": 6, "current_activation": 6, "direction": "stable", "velocity": "flat", "prior_activations": [null, null, 6], "dominant_signal": "Bandwidth exhaustion across Iran, Ukraine, China, gas prices. Marines deploying to Middle East. Taiwan arms sale delayed. Rubio declared Ukraine stagnated. Gas tax suspension proposed.", "threshold_crossed": false },
+      { "node": "global-energy", "baseline_activation": 8, "current_activation": 8, "direction": "stable", "velocity": "flat", "prior_activations": [null, null, 8], "dominant_signal": "Hormuz week 11. Brent $108-116 range. IEA reserves drawing down. No reopening mechanism in MoU discussions. Dual-chokepoint risk latent.", "threshold_crossed": false },
+      { "node": "global-financial", "baseline_activation": 6, "current_activation": 6, "direction": "stable", "velocity": "flat", "prior_activations": [null, null, 6], "dominant_signal": "Energy inflation structural and accumulating. Europe stagflation persisting. Dollar depreciation continuing. China-US normalization partially stabilizing. Sovereign debt stress elevated.", "threshold_crossed": false },
+      { "node": "global-trade", "baseline_activation": 6, "current_activation": 6, "direction": "stable", "velocity": "flat", "prior_activations": [null, null, 6], "dominant_signal": "Cape rerouting continuing. China-US normalization partial signal. USMCA review July 1 adding uncertainty.", "threshold_crossed": false },
+      { "node": "nuclear-proliferation", "baseline_activation": 7, "current_activation": 7, "direction": "rising", "velocity": "slow", "prior_activations": [null, null, 7], "dominant_signal": "Iran uranium disposal formally deferred in MoU. DPRK arsenal approaching missile defense saturation threshold. Saudi nuclear threshold signaling intensifying. DPRK first naval destroyer commissioning June 2026.", "threshold_crossed": false },
+      { "node": "south-asia", "baseline_activation": 4, "current_activation": 4, "direction": "stable", "velocity": "flat", "prior_activations": [null, null, 4], "dominant_signal": "Pakistan mediation role structurally ending. India emerging as new facilitation node via BRICS circuit. Araghchi praised India at BRICS FM meeting May 15.", "threshold_crossed": false },
+      { "node": "turkey-eastern-med", "baseline_activation": 4, "current_activation": 4, "direction": "stable", "velocity": "flat", "prior_activations": [null, null, 4], "dominant_signal": "Strategic silence on energy transit leverage. Unusual given European energy stress. No significant moves.", "threshold_crossed": false },
+      { "node": "gcc-gulf", "baseline_activation": 7, "current_activation": 7, "direction": "stable", "velocity": "flat", "prior_activations": [null, null, 7], "dominant_signal": "UAE secret offensive strikes confirmed. SAF accusation of UAE in Khartoum airport raid creates new Sudan-GCC connection. Post-ceasefire violations ongoing. GCC hardening structural.", "threshold_crossed": false },
+      { "node": "latin-america", "baseline_activation": 3, "current_activation": 3, "direction": "stable", "velocity": "flat", "prior_activations": [null, null, 3], "dominant_signal": "Region absorbing shocks passively. USMCA review July 1 watch item.", "threshold_crossed": false }
     ],
 
-    "connection_registry": [
-
-      {
-        "node_a": "iran-hormuz",
-        "node_b": "global-energy",
-        "weight": 9,
-        "connection_type": "direct-causal",
-        "direction": "bidirectional",
-        "fired_this_week": true,
-        "weight_change": "unchanged",
-        "propagation_note": "Hormuz closure directly drives global energy disruption of approximately 10 million barrels per day. Energy price feeds back into Iranian negotiating leverage: higher prices give Iran more economic runway to hold out.",
-        "established": "2026-05-17",
-        "last_fired": "2026-05-17"
-      },
-
-      {
-        "node_a": "iran-hormuz",
-        "node_b": "china-domestic",
-        "weight": 8,
-        "connection_type": "direct-causal",
-        "direction": "a-to-b",
-        "fired_this_week": true,
-        "weight_change": "unchanged",
-        "propagation_note": "Hormuz closure cuts China's seaborne oil supply by approximately half. China pre-loaded reserves buying time. Energy import stress creating internal pressure on Xi to seek Hormuz resolution without appearing to capitulate to US framing.",
-        "established": "2026-05-17",
-        "last_fired": "2026-05-17"
-      },
-
-      {
-        "node_a": "iran-hormuz",
-        "node_b": "global-financial",
-        "weight": 7,
-        "connection_type": "indirect-structural",
-        "direction": "a-to-b",
-        "fired_this_week": true,
-        "weight_change": "unchanged",
-        "propagation_note": "Energy shock feeds inflation across global economy. Higher inflation constrains central bank rate cut cycles. Elevated rates stress sovereign debt refinancing as 42 percent of global sovereign debt matures by 2027.",
-        "established": "2026-05-17",
-        "last_fired": "2026-05-17"
-      },
-
-      {
-        "node_a": "iran-hormuz",
-        "node_b": "gcc-gulf",
-        "weight": 8,
-        "connection_type": "direct-causal",
-        "direction": "bidirectional",
-        "fired_this_week": true,
-        "weight_change": "unchanged",
-        "propagation_note": "Iran strikes on GCC infrastructure during ceasefire, UAE secret offensive operations against Iran, Kuwait Bubiyan infiltration. GCC states are active belligerents in the conflict even when classified as defensive actors.",
-        "established": "2026-05-17",
-        "last_fired": "2026-05-17"
-      },
-
-      {
-        "node_a": "iran-hormuz",
-        "node_b": "yemen-red-sea",
-        "weight": 7,
-        "connection_type": "indirect-structural",
-        "direction": "a-to-b",
-        "fired_this_week": false,
-        "weight_change": "unchanged",
-        "propagation_note": "Iran controls Houthi activation timing. Houthi Bab el-Mandeb capability held in strategic reserve by Tehran. If Iran MoU framework collapses, Houthi activation is primary escalation lever. Connection is structural but currently in strategic silence mode.",
-        "established": "2026-05-17",
-        "last_fired": "2026-05-17"
-      },
-
-      {
-        "node_a": "iran-hormuz",
-        "node_b": "nuclear-proliferation",
-        "weight": 9,
-        "connection_type": "direct-causal",
-        "direction": "bidirectional",
-        "fired_this_week": true,
-        "weight_change": "unchanged",
-        "propagation_note": "Iran nuclear question is the stated cause of the war. Uranium disposal formally deferred in MoU framework discussions. Connection bidirectional because nuclear program status affects negotiating leverage, which affects conflict duration, which affects proliferation cascade risk in Saudi Arabia and region.",
-        "established": "2026-05-17",
-        "last_fired": "2026-05-17"
-      },
-
-      {
-        "node_a": "china-taiwan-indopacific",
-        "node_b": "iran-hormuz",
-        "weight": 5,
-        "connection_type": "indirect-structural",
-        "direction": "bidirectional",
-        "fired_this_week": true,
-        "weight_change": "increased",
-        "propagation_note": "Trump-Xi summit revealed structural linkage: China's willingness to pressure Iran on Hormuz is capped by US Taiwan concessions. Trump declined $14B Taiwan arms sale at summit. Every unit of China pressure on Iran costs something in Taiwan deterrence architecture. Connection weight increased from 4 to 5 based on this week's summit evidence.",
-        "established": "2026-05-17",
-        "last_fired": "2026-05-17"
-      },
-
-      {
-        "node_a": "us-domestic",
-        "node_b": "iran-hormuz",
-        "weight": 7,
-        "connection_type": "indirect-structural",
-        "direction": "bidirectional",
-        "fired_this_week": true,
-        "weight_change": "unchanged",
-        "propagation_note": "US domestic political pressure (gas prices, deal narrative need) shapes negotiating posture on Iran. Iran reads US domestic constraints and calibrates accordingly. US missile stock limitations constrain resumed combat option.",
-        "established": "2026-05-17",
-        "last_fired": "2026-05-17"
-      },
-
-      {
-        "node_a": "us-domestic",
-        "node_b": "ukraine-russia",
-        "weight": 6,
-        "connection_type": "competitive",
-        "direction": "bidirectional",
-        "fired_this_week": true,
-        "weight_change": "unchanged",
-        "propagation_note": "US bandwidth competition between Iran and Ukraine theaters. Resources, political attention, and missile stocks are shared across both theaters. Rubio declared Ukraine negotiations stagnated while Iran MoU pursuit continued. US cannot fully commit to either theater simultaneously.",
-        "established": "2026-05-17",
-        "last_fired": "2026-05-17"
-      },
-
-      {
-        "node_a": "russia-domestic",
-        "node_b": "global-energy",
-        "weight": 8,
-        "connection_type": "direct-causal",
-        "direction": "b-to-a",
-        "fired_this_week": true,
-        "weight_change": "unchanged",
-        "propagation_note": "High global energy prices are primary driver of Russian war economy health. Urals crude near $116/barrel generating $45B to $151B additional 2026 revenues. Russia has structural incentive to prolong Hormuz crisis.",
-        "established": "2026-05-17",
-        "last_fired": "2026-05-17"
-      },
-
-      {
-        "node_a": "russia-domestic",
-        "node_b": "ukraine-russia",
-        "weight": 9,
-        "connection_type": "direct-causal",
-        "direction": "a-to-b",
-        "fired_this_week": true,
-        "weight_change": "unchanged",
-        "propagation_note": "Russian oil windfall directly funds war in Ukraine. Higher Hormuz-driven energy prices mean more Russian revenue means more sustainable war footing. Putin rejecting front-line freeze because financial position is strong.",
-        "established": "2026-05-17",
-        "last_fired": "2026-05-17"
-      },
-
-      {
-        "node_a": "sahel-west-africa",
-        "node_b": "global-financial",
-        "weight": 3,
-        "connection_type": "indirect-structural",
-        "direction": "a-to-b",
-        "fired_this_week": false,
-        "weight_change": "unchanged",
-        "propagation_note": "Sahel state collapse and JNIM territorial expansion threaten Chinese and Western extractive investment in the region. Not yet firing at significant level but structural linkage exists via commodity supply chains and development finance exposure.",
-        "established": "2026-05-17",
-        "last_fired": null
-      },
-
-      {
-        "node_a": "sudan-horn",
-        "node_b": "gcc-gulf",
-        "weight": 4,
-        "connection_type": "indirect-structural",
-        "direction": "bidirectional",
-        "fired_this_week": true,
-        "weight_change": "unchanged",
-        "propagation_note": "Saudi Arabia and UAE are competing for Red Sea access and influence in Sudan. UAE accused of supporting RSF. Saudi Arabia funding SAF-aligned factions. Sudan's Red Sea coast and Port Sudan are strategic assets in Gulf power competition. SAF accusing UAE of involvement in Khartoum airport drone strike.",
-        "established": "2026-05-17",
-        "last_fired": "2026-05-17"
-      },
-
-      {
-        "node_a": "global-energy",
-        "node_b": "global-financial",
-        "weight": 7,
-        "connection_type": "direct-causal",
-        "direction": "a-to-b",
-        "fired_this_week": true,
-        "weight_change": "unchanged",
-        "propagation_note": "Energy price shock feeding global inflation directly constrains central bank policy space. Elevated rates stress sovereign debt. Energy import cost increases current account deficits in net importers. Financial stress from energy is structural while Hormuz closure continues.",
-        "established": "2026-05-17",
-        "last_fired": "2026-05-17"
-      },
-
-      {
-        "node_a": "nuclear-proliferation",
-        "node_b": "china-taiwan-indopacific",
-        "weight": 4,
-        "connection_type": "indirect-structural",
-        "direction": "unknown",
-        "fired_this_week": false,
-        "weight_change": "unchanged",
-        "propagation_note": "DPRK nuclear expansion and Iran nuclear deferral both signal to Beijing that US nuclear umbrella commitments are weakening. This potentially lowers deterrence threshold for Chinese calculations on Taiwan. Not firing this week but structural linkage warrants tracking.",
-        "established": "2026-05-17",
-        "last_fired": null
-      }
-
+    "connection_registry_changes_this_week": [
+      { "connection": "china-taiwan-indopacific to iran-hormuz", "change": "weight increased from 5 to 6", "basis": "Taiwan arms sale delay confirmed structural linkage at summit level" },
+      { "connection": "sudan-horn to gcc-gulf", "change": "weight increased from 4 to 5", "basis": "SAF accusation of UAE involvement in Khartoum airport drone raid" },
+      { "connection": "sahel-west-africa to russia-domestic", "change": "NEW CONNECTION established weight 5", "basis": "Africa Corps failure in Mali directly damaging Russia Africa strategy, JNIM calling on Russia to stand down" }
     ],
 
     "network_summary": {
-      "highest_activation_nodes": ["iran-hormuz", "global-energy", "sahel-west-africa", "ukraine-russia", "israel-levant", "nuclear-proliferation", "sudan-horn", "gcc-gulf"],
+      "highest_activation_nodes": ["iran-hormuz", "sahel-west-africa", "global-energy", "ukraine-russia", "israel-levant", "nuclear-proliferation", "sudan-horn", "gcc-gulf"],
       "threshold_crossings_this_week": ["sahel-west-africa"],
-      "new_connections_identified": [],
-      "dominant_signal_cluster": {
-        "nodes": ["iran-hormuz", "global-energy", "china-domestic", "gcc-gulf", "nuclear-proliferation", "us-domestic"],
-        "cluster_description": "The Iran-Hormuz cluster is the dominant co-activation group, connecting energy disruption to great power competition to nuclear proliferation to US bandwidth constraints.",
-        "propagation_pathway": "iran-hormuz drives global-energy drives china-domestic and global-financial. iran-hormuz drives gcc-gulf through direct military contact. iran-hormuz drives nuclear-proliferation through the war's stated purpose. us-domestic and iran-hormuz in bidirectional constraint relationship."
-      },
-      "silent_nodes_of_note": ["latin-america", "turkey-eastern-med", "south-asia"],
-      "silent_node_significance": "South Asia silence is notable: Pakistan's mediation role is diminishing precisely when the Iran crisis most needs a functioning back-channel. Turkey's silence is notable because European energy stress should be raising Erdogan's leverage but he is not visibly activating it. Latin America silence means the region is absorbing energy shock passively rather than generating diplomatic response."
+      "new_connections_identified": ["sahel-west-africa to russia-domestic"],
+      "macro_pattern": "Simultaneous bandwidth exhaustion producing network deterioration in unattended nodes",
+      "dominant_signal_cluster": "Iran-energy-nuclear-Taiwan cluster remains primary. New cluster: Russia-Mali failure plus Ukraine framing shift firing simultaneously."
     }
-
   },
 
   "analytical_layer": {
-    "macro_thesis": "The governing dynamic as of 17 May 2026 is a global stress convergence in which three simultaneous high-activation clusters, the Iran-Hormuz war, the Ukraine-Russia attrition conflict, and the Sahel state collapse belt, are co-activating the global energy, financial, and trade nodes in a way that no single actor has the bandwidth or incentive to resolve. The US is bandwidth-constrained across Iran, Ukraine, and the China relationship simultaneously. Russia has perverse incentive to prolong both active conflicts. China is using US distraction to extract Taiwan concessions while avoiding actual commitment on Hormuz. The macro pattern is systemic stress fracture: multiple simultaneous pressures reaching threshold in a network where the actors capable of resolution are structurally prevented from delivering it.",
-    "thesis_timeframe": "Expected to persist for at least 60 to 90 days given the structural constraints on all capable actors. Would begin to transform if: US resolves Iran MoU and frees bandwidth for Ukraine push, or China converts summit language into actual Tehran pressure at a Taiwan cost Washington is willing to pay, or one of the three high-activation clusters de-escalates structurally rather than tactically.",
-    "thesis_continuity": "BASELINE",
-    "pace_assessment": "BASELINE. No prior week to compare against in v3 architecture.",
-    "pattern_label": "Systemic stress fracture",
-    "pattern_analog": "Not a clean single-theater analog. The combination of simultaneous hot wars, energy chokepoint closure, nuclear proliferation acceleration, and great power bandwidth competition has partial precedent in 1973-1974 (oil embargo plus Vietnam drawdown plus Soviet competition) but the current multi-theater simultaneity is more acute.",
-    "falsification_conditions": [
-      {
-        "id": "F1",
-        "condition": "China delivers specific actionable pressure on Tehran beyond diplomatic language, directly linked to a US Taiwan concession",
-        "condition_type": "structural",
-        "status": "APPROACHING",
-        "note": "Trump-Xi summit moved toward threshold but did not cross it."
-      },
-      {
-        "id": "F2",
-        "condition": "US and Iran sign an MoU framework that includes a specific Hormuz reopening mechanism with verified compliance steps",
-        "condition_type": "structural",
-        "status": "NOT TRIGGERED",
-        "note": "Uranium deferred. Hormuz governance question structurally unresolved."
-      },
-      {
-        "id": "F3",
-        "condition": "Russia accepts role as Iranian enriched uranium custodian and formally deposits material, removing the nuclear deadlock from the Hormuz negotiating track",
-        "condition_type": "structural",
-        "status": "NOT TRIGGERED",
-        "note": "Araghchi floated at BRICS. No Russian formal response yet."
-      },
-      {
-        "id": "F4",
-        "condition": "JNIM-FLA forces reach Bamako and the Mali junta government collapses or is forced to negotiate",
-        "condition_type": "structural",
-        "status": "APPROACHING",
-        "note": "April 25 multi-city attack demonstrated capacity. State collapse analysts say it is now close."
-      },
-      {
-        "id": "F5",
-        "condition": "Houthi attack on Bab el-Mandeb creates dual-chokepoint scenario alongside Hormuz",
-        "condition_type": "structural",
-        "status": "NOT TRIGGERED",
-        "note": "Strategic silence maintained. Lebanon 45-day extension reduces near-term trigger probability."
-      },
-      {
-        "id": "F6",
-        "condition": "DPRK conducts seventh nuclear test, forcing it to the top of the US foreign policy agenda and consuming remaining bandwidth",
-        "condition_type": "structural",
-        "status": "NOT TRIGGERED",
-        "note": "Arsenal expanding. Trump asked South Korean PM about Kim dialogue interest, signaling potential opening. No test imminent per current signals."
+    "macro_thesis": "The governing dynamic is structural paralysis produced by the connections between crises rather than the crises themselves. Every actor capable of resolving a dominant crisis is blocked by a different crisis in the network. The network deteriorates in nodes receiving no great power attention, most acutely the Sahel.",
+    "thesis_timeframe": "45 to 75 days unless Putin Ukraine framing shift proves structural or Iran MoU framework collapses forcing binary choice.",
+    "thesis_continuity": "NEW PATTERN (upgraded from baseline systemic stress fracture to more precise bandwidth exhaustion mechanism)",
+    "pace_assessment": "As anticipated on Iran. Faster than anticipated on Sahel. Ambiguous on Ukraine.",
+    "pattern_label": "Simultaneous bandwidth exhaustion producing network deterioration in unattended nodes",
+    "forecasts": {
+      "30_day_probability": "55% managed stalemate with MoU framework announcement lacking substance",
+      "60_day_inflection": "Mali junta collapse or JNIM governance offer (30%). Russia uranium custody proposal (25%).",
+      "90_day": {
+        "scenario_1": { "label": "Negotiated partial resolution on Iran (tactical)", "probability": "30%" },
+        "scenario_2": { "label": "Managed stalemate across all nodes", "probability": "40%", "most_likely": true },
+        "scenario_3": { "label": "Multi-point network fracture", "probability": "30%" }
       }
-    ]
+    },
+    "trigger_events": {
+      "T1": "NOT FIRED", "T2": "NOT FIRED", "T3": "NOT FIRED (strategic silence)",
+      "T4": "PARTIAL (quiet accommodation at summit)", "T5": "NOT FIRED",
+      "T6": "NOT FIRED (Hajj window activating ~May 25)",
+      "T7": "NOT FIRED (Russia uranium custody, 30-45 day window)",
+      "T8": "NOT FIRED (UAE secret strike acknowledgment)",
+      "T9": "APPROACHING (Mali junta collapse, 30-60 day window)",
+      "T10": "NEW: Putin concrete Ukraine proposal. NOT FIRED. APPROACHING if structural."
+    },
+    "falsification_conditions": {
+      "F1": "APPROACHING (China pressure on Tehran)", "F2": "NOT TRIGGERED",
+      "F3": "NOT TRIGGERED (Russia uranium custody)", "F4": "APPROACHING FAST (Mali junta)",
+      "F5": "NOT TRIGGERED", "F6": "NOT TRIGGERED",
+      "F7": "NEW: Putin concrete Ukraine proposal. NOT TRIGGERED."
+    }
   },
 
   "longitudinal_layer": {
     "baseline_date": "2026-05-17",
-    "baseline_note": "This is the founding v3 record. All longitudinal comparisons will reference this baseline. The baseline captures the world as it exists on May 17 2026: year one of the Iran war, year four of the Ukraine war, year three of the Sudan civil war, post-JNIM threshold event in Mali, post-Trump-Xi summit, pre-Hajj constraint window.",
-    "node_trend_summary": "BASELINE. Prior activation arrays will populate from Issue 003 onward.",
-    "pattern_evolution": "BASELINE. No prior v3 pattern to compare against.",
-    "connection_weight_changes": "BASELINE. Initial weights set from current signals. china-taiwan-indopacific to iran-hormuz connection weight set at 5 based on Trump-Xi summit Taiwan arms sale evidence, higher than the 4 that would have been assigned prior to the summit.",
-    "key_watch_items_for_issue_003": [
-      "Whether Hajj constraint window holds or is disrupted",
-      "Whether MoU framework is signed or collapses",
-      "Whether Russia formally responds to uranium custody idea",
-      "Whether May 29 Pentagon Lebanon security track produces concrete outputs",
-      "Whether JNIM makes further advances toward Bamako",
-      "Whether Houthi strategic silence continues through Lebanon ceasefire extension",
-      "Whether Trump Taiwan arms sale is formally delayed or cancelled"
+    "node_trend_summary": "One week of data. sahel-west-africa rising from 8 to 9, threshold crossed. russia-domestic rising from 5 to 6. All other nodes stable from baseline.",
+    "pattern_evolution": "Pattern upgraded from systemic stress fracture (baseline) to simultaneous bandwidth exhaustion (more precise causal mechanism identified). Sahel threshold crossing is the clearest evidence of network deterioration in unattended nodes.",
+    "connection_weight_changes": "Three changes this week: china-taiwan-indopacific to iran-hormuz increased from 5 to 6; sudan-horn to gcc-gulf increased from 4 to 5; sahel-west-africa to russia-domestic new connection at weight 5.",
+    "key_watch_items_for_issue_004": [
+      "Whether Putin framing shift produces concrete Ukraine proposal or proves tactical",
+      "Whether Mali junta opens JNIM negotiation or collapses",
+      "Whether Hajj constraint holds or is disrupted (~May 25 onward)",
+      "Whether Russia formally responds to uranium custody idea from Araghchi BRICS float",
+      "Whether India formally takes on facilitation role replacing Pakistan",
+      "Whether DPRK conducts provocations as US bandwidth remains stretched",
+      "Whether Turkey begins activating energy transit leverage as European summer energy demand rises"
     ]
   }
 }
