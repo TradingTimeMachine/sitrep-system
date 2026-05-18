@@ -62,8 +62,11 @@
       }
     },
     "trigger_events": {
-      "T1": "NOT FIRED", "T2": "NOT FIRED", "T3": "NOT FIRED (strategic silence)",
-      "T4": "PARTIAL (quiet accommodation at summit)", "T5": "NOT FIRED",
+      "T1": "NOT FIRED",
+      "T2": "NOT FIRED",
+      "T3": "NOT FIRED (strategic silence)",
+      "T4": "PARTIAL (quiet accommodation at summit)",
+      "T5": "NOT FIRED",
       "T6": "NOT FIRED (Hajj window activating ~May 25)",
       "T7": "NOT FIRED (Russia uranium custody, 30-45 day window)",
       "T8": "NOT FIRED (UAE secret strike acknowledgment)",
@@ -71,9 +74,12 @@
       "T10": "NEW: Putin concrete Ukraine proposal. NOT FIRED. APPROACHING if structural."
     },
     "falsification_conditions": {
-      "F1": "APPROACHING (China pressure on Tehran)", "F2": "NOT TRIGGERED",
-      "F3": "NOT TRIGGERED (Russia uranium custody)", "F4": "APPROACHING FAST (Mali junta)",
-      "F5": "NOT TRIGGERED", "F6": "NOT TRIGGERED",
+      "F1": "APPROACHING (China pressure on Tehran)",
+      "F2": "NOT TRIGGERED",
+      "F3": "NOT TRIGGERED (Russia uranium custody)",
+      "F4": "APPROACHING FAST (Mali junta)",
+      "F5": "NOT TRIGGERED",
+      "F6": "NOT TRIGGERED",
       "F7": "NEW: Putin concrete Ukraine proposal. NOT TRIGGERED."
     }
   },
