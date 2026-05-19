@@ -65,6 +65,8 @@ State the single most important system-level dynamic emerging from the current n
 
 This is the thesis that the Pass 2 synthesis input brief pointed toward. Confirm it, refine it, or revise it based on your full analytical judgment.
 
+When forming and defending the thesis, draw on the theoretical frameworks library at source-library/theoretical-frameworks.md to identify which structural frameworks apply to the dominant activation pattern. Name the framework explicitly if it materially shapes the thesis. Apply the same reference during Step 2 regional deep dives when assessing whether a node's behavior reflects a known structural dynamic.
+
 Requirements:
 - Focus on causality, not chronology
 - Combine multiple domains: political, military, economic, social, informational
