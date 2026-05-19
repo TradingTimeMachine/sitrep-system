@@ -3,6 +3,10 @@
 # Last updated: 2026-05-17
 # Source: Synthesized via NotebookLM across six primary texts
 # Purpose: Standing reference for Pass 2 connection mapping and Pass 3 synthesis
+#
+# Usage note: These frameworks identify structural constraints and historical patterns.
+# They are lenses, not scripts. Every application requires explicit red team challenge
+# against the adaptation capacity of the actor in question.
 
 ---
 
