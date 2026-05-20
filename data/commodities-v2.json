@@ -9,7 +9,7 @@
       "close": 1.34
     },
     "Currencies: Canadian Dollar": {
-      "date": "2026-05-18",
+      "date": "2026-05-19",
       "close": 0.73
     },
     "Currencies: EUR/USD": {
@@ -26,7 +26,7 @@
     },
     "Energies: WTI Crude": {
       "date": "2026-05-19",
-      "close": 104.3
+      "close": 104.31
     },
     "Energies: NY Harbor Heating Oil": {
       "date": "2026-05-19",
@@ -69,20 +69,20 @@
       "close": 75.37
     },
     "Grains and Soy: Corn": {
-      "date": "2026-05-18",
-      "close": 477
+      "date": "2026-05-19",
+      "close": 475.25
     },
     "Grains and Soy: Kansas City Wheat": {
-      "date": "2026-05-18",
-      "close": 703.75
+      "date": "2026-05-19",
+      "close": 704.25
     },
     "Grains and Soy: Oats": {
       "date": "2026-05-19",
       "close": 381
     },
     "Grains and Soy: Soybeans": {
-      "date": "2026-05-18",
-      "close": 1213
+      "date": "2026-05-19",
+      "close": 1210.25
     },
     "Grains and Soy: Soybeans Meal": {
       "date": "2026-05-19",
@@ -106,15 +106,15 @@
     },
     "Metals: Silver": {
       "date": "2026-05-19",
-      "close": 74.08
+      "close": 75.16
     },
     "Interest Rates: 3 Month SOFR": {
       "date": "2026-05-19",
       "close": 96.09
     },
     "Interest Rates: 5 Year T-Notes": {
-      "date": "2026-05-18",
-      "close": 106.73
+      "date": "2026-05-19",
+      "close": 106.53
     },
     "Interest Rates: 2 Year T-Notes": {
       "date": "2026-05-19",
@@ -125,8 +125,8 @@
       "close": 103.12
     },
     "Interest Rates: 30 Year T-Bond": {
-      "date": "2026-05-18",
-      "close": 110.75
+      "date": "2026-05-19",
+      "close": 109.75
     },
     "Softs and Fibers: Rice": {
       "date": "2026-05-19",
@@ -154,6 +154,10 @@
       {
         "date": "2025-11-26",
         "close": 0.65
+      },
+      {
+        "date": "2025-11-28",
+        "close": 0.66
       },
       {
         "date": "2025-12-01",
@@ -617,7 +621,7 @@
       },
       {
         "date": "2026-05-18",
-        "close": 0.72
+        "close": 0.71
       },
       {
         "date": "2026-05-19",
@@ -1597,6 +1601,10 @@
       },
       {
         "date": "2026-05-18",
+        "close": 0.73
+      },
+      {
+        "date": "2026-05-19",
         "close": 0.73
       }
     ],
@@ -3789,7 +3797,7 @@
       },
       {
         "date": "2026-05-19",
-        "close": 104.3
+        "close": 104.31
       }
     ],
     "Energies: NY Harbor Heating Oil": [
@@ -9152,6 +9160,10 @@
       {
         "date": "2026-05-18",
         "close": 477
+      },
+      {
+        "date": "2026-05-19",
+        "close": 475.25
       }
     ],
     "Grains and Soy: Kansas City Wheat": [
@@ -9638,6 +9650,10 @@
       {
         "date": "2026-05-18",
         "close": 703.75
+      },
+      {
+        "date": "2026-05-19",
+        "close": 704.25
       }
     ],
     "Grains and Soy: Oats": [
@@ -10123,7 +10139,7 @@
       },
       {
         "date": "2026-05-18",
-        "close": 372.75
+        "close": 373
       },
       {
         "date": "2026-05-19",
@@ -10614,6 +10630,10 @@
       {
         "date": "2026-05-18",
         "close": 1213
+      },
+      {
+        "date": "2026-05-19",
+        "close": 1210.25
       }
     ],
     "Grains and Soy: Soybeans Meal": [
@@ -11099,7 +11119,7 @@
       },
       {
         "date": "2026-05-18",
-        "close": 334.6
+        "close": 334.5
       },
       {
         "date": "2026-05-19",
@@ -13553,7 +13573,7 @@
       },
       {
         "date": "2026-05-19",
-        "close": 74.08
+        "close": 75.16
       }
     ],
     "Interest Rates: 3 Month SOFR": [
@@ -14530,6 +14550,10 @@
       {
         "date": "2026-05-18",
         "close": 106.73
+      },
+      {
+        "date": "2026-05-19",
+        "close": 106.53
       }
     ],
     "Interest Rates: 2 Year T-Notes": [
@@ -15995,7 +16019,11 @@
       },
       {
         "date": "2026-05-18",
-        "close": 110.75
+        "close": 110.38
+      },
+      {
+        "date": "2026-05-19",
+        "close": 109.75
       }
     ],
     "Softs and Fibers: Rice": [
@@ -16481,7 +16509,7 @@
       },
       {
         "date": "2026-05-18",
-        "close": 12.81
+        "close": 12.82
       },
       {
         "date": "2026-05-19",
@@ -16979,5 +17007,5 @@
       }
     ]
   },
-  "updated": "2026-05-20T06:33:42.497Z"
+  "updated": "2026-05-20T08:33:58.215Z"
 }
