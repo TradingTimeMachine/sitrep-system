@@ -21,7 +21,7 @@
       "close": 0.01
     },
     "Currencies: Swiss Franc": {
-      "date": "2026-05-19",
+      "date": "2026-05-20",
       "close": 1.27
     },
     "Energies: WTI Crude": {
@@ -49,12 +49,12 @@
       "close": 88.6
     },
     "Meats: Feeder Cattle": {
-      "date": "2026-05-19",
-      "close": 363.65
+      "date": "2026-05-20",
+      "close": 365.83
     },
     "Meats: Live Cattle": {
-      "date": "2026-05-19",
-      "close": 247.25
+      "date": "2026-05-20",
+      "close": 245.18
     },
     "Meats: Lean Hogs": {
       "date": "2026-05-20",
@@ -69,24 +69,24 @@
       "close": 74.67
     },
     "Grains and Soy: Corn": {
-      "date": "2026-05-19",
-      "close": 475.25
+      "date": "2026-05-20",
+      "close": 465.75
     },
     "Grains and Soy: Kansas City Wheat": {
       "date": "2026-05-20",
       "close": 698.5
     },
     "Grains and Soy: Oats": {
-      "date": "2026-05-19",
-      "close": 381
+      "date": "2026-05-20",
+      "close": 363.25
     },
     "Grains and Soy: Soybeans": {
       "date": "2026-05-20",
       "close": 1199.25
     },
     "Grains and Soy: Soybeans Meal": {
-      "date": "2026-05-19",
-      "close": 332.3
+      "date": "2026-05-20",
+      "close": 330.6
     },
     "Grains and Soy: Wheat": {
       "date": "2026-05-20",
@@ -98,7 +98,7 @@
     },
     "Metals: Copper": {
       "date": "2026-05-20",
-      "close": 6.32
+      "close": 6.33
     },
     "Metals: Platinum": {
       "date": "2026-05-20",
@@ -106,7 +106,7 @@
     },
     "Metals: Silver": {
       "date": "2026-05-20",
-      "close": 75.77
+      "close": 76.18
     },
     "Interest Rates: 3 Month SOFR": {
       "date": "2026-05-20",
@@ -117,12 +117,12 @@
       "close": 106.9
     },
     "Interest Rates: 2 Year T-Notes": {
-      "date": "2026-05-19",
-      "close": 103.12
+      "date": "2026-05-20",
+      "close": 103.24
     },
     "Interest Rates: 10 Year T-Bond": {
-      "date": "2026-05-19",
-      "close": 103.12
+      "date": "2026-05-20",
+      "close": 103.24
     },
     "Interest Rates: 30 Year T-Bond": {
       "date": "2026-05-20",
@@ -3299,6 +3299,10 @@
       },
       {
         "date": "2026-05-19",
+        "close": 1.27
+      },
+      {
+        "date": "2026-05-20",
         "close": 1.27
       }
     ],
@@ -6722,6 +6726,10 @@
       {
         "date": "2026-05-19",
         "close": 363.65
+      },
+      {
+        "date": "2026-05-20",
+        "close": 365.83
       }
     ],
     "Meats: Live Cattle": [
@@ -7208,6 +7216,10 @@
       {
         "date": "2026-05-19",
         "close": 247.25
+      },
+      {
+        "date": "2026-05-20",
+        "close": 245.18
       }
     ],
     "Meats: Lean Hogs": [
@@ -8682,6 +8694,10 @@
         "close": 445.25
       },
       {
+        "date": "2025-11-28",
+        "close": 447.75
+      },
+      {
         "date": "2025-12-01",
         "close": 445
       },
@@ -9148,6 +9164,10 @@
       {
         "date": "2026-05-19",
         "close": 475.25
+      },
+      {
+        "date": "2026-05-20",
+        "close": 465.75
       }
     ],
     "Grains and Soy: Kansas City Wheat": [
@@ -10119,7 +10139,11 @@
       },
       {
         "date": "2026-05-19",
-        "close": 381
+        "close": 380.5
+      },
+      {
+        "date": "2026-05-20",
+        "close": 363.25
       }
     ],
     "Grains and Soy: Soybeans": [
@@ -11096,6 +11120,10 @@
       {
         "date": "2026-05-19",
         "close": 332.3
+      },
+      {
+        "date": "2026-05-20",
+        "close": 330.6
       }
     ],
     "Grains and Soy: Wheat": [
@@ -12565,7 +12593,7 @@
       },
       {
         "date": "2026-05-20",
-        "close": 6.32
+        "close": 6.33
       }
     ],
     "Metals: Platinum": [
@@ -13545,7 +13573,7 @@
       },
       {
         "date": "2026-05-20",
-        "close": 75.77
+        "close": 76.18
       }
     ],
     "Interest Rates: 3 Month SOFR": [
@@ -15012,6 +15040,10 @@
       {
         "date": "2026-05-19",
         "close": 103.12
+      },
+      {
+        "date": "2026-05-20",
+        "close": 103.24
       }
     ],
     "Interest Rates: 10 Year T-Bond": [
@@ -15498,6 +15530,10 @@
       {
         "date": "2026-05-19",
         "close": 103.12
+      },
+      {
+        "date": "2026-05-20",
+        "close": 103.24
       }
     ],
     "Interest Rates: 30 Year T-Bond": [
@@ -16971,5 +17007,5 @@
       }
     ]
   },
-  "updated": "2026-05-21T06:33:35.625Z"
+  "updated": "2026-05-21T08:33:37.679Z"
 }
