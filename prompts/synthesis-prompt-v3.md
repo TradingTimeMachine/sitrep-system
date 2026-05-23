@@ -222,43 +222,38 @@ Assess trajectory: is the situation tracking toward or diverging from the histor
 
 ---
 
-## Step 9: Final Intelligence Brief
+## Step 9: Final Intelligence Brief: 
+Before writing, fetch and read the editorial style guide at:
+https://raw.githubusercontent.com/TradingTimeMachine/sitrep-system/refs/heads/main/source-library/editorial-style-guide.md
+Apply its standards throughout the brief. The analytical content from the preceding steps does not change. The voice does.
+Write a comprehensive intelligence brief of 2,800 to 3,500 words. Length is not padding -- it is the space required to treat the week's material with the depth and texture the register demands. A brief that runs shorter than 2,800 words has almost certainly cut texture that should have stayed.
+This is the weekly read. It should give the reader the sense of seeing the world whole, not just being briefed on individual fires.
+Acronym rule, enforced throughout the entire brief: Every acronym or initialised name receives its full name and a brief descriptor on first use, even if it has appeared in prior issues. Each brief must be readable as a standalone. For well-known acronyms (US, UK, UN, NATO, EU) no descriptor is needed. For all others, full name plus descriptor on first use, then abbreviation permitted. Examples of the standard:
 
-Write a comprehensive intelligence brief of 1,800 to 2,200 words. This is the weekly read. It should give the reader the sense of seeing the world whole, not just being briefed on individual fires.
-
-**Acronym rule, enforced throughout the entire brief:** Every acronym or initialised name receives its full name and a brief descriptor on first use, even if it has appeared in prior issues. Each brief must be readable as a standalone. For well-known acronyms (US, UK, UN, NATO, EU) no descriptor is needed. For all others, full name plus descriptor on first use, then abbreviation permitted. Examples of the standard:
-
-- First use: "the Islamic Revolutionary Guard Corps (IRGC), Iran's most powerful military and political institution"
-- First use: "Jama'at Nusrat al-Islam wal-Muslimin (JNIM), the al-Qaeda-affiliated insurgent coalition operating across Mali, Burkina Faso, and Niger"
-- First use: "the Azawad Liberation Front (FLA), the Tuareg separatist movement claiming northern Mali"
-- First use: "the Rapid Support Forces (RSF), the Sudanese paramilitary group led by General Hemedti"
-- First use: "the Alliance of Sahel States (AES), the mutual defense bloc formed by the military juntas of Mali, Burkina Faso, and Niger after their withdrawal from ECOWAS"
-- First use: "the Air Defense Identification Zone (ADIZ), the buffer airspace Taiwan monitors for incoming aircraft"
+First use: "the Islamic Revolutionary Guard Corps (IRGC), Iran's most powerful military and political institution"
+First use: "Jama'at Nusrat al-Islam wal-Muslimin (JNIM), the al-Qaeda-affiliated insurgent coalition operating across Mali, Burkina Faso, and Niger"
+First use: "the Azawad Liberation Front (FLA), the Tuareg separatist movement claiming northern Mali"
+First use: "the Rapid Support Forces (RSF), the Sudanese paramilitary group led by General Hemedti"
+First use: "the Alliance of Sahel States (AES), the mutual defense bloc formed by the military juntas of Mali, Burkina Faso, and Niger after their withdrawal from ECOWAS"
+First use: "the Air Defense Identification Zone (ADIZ), the buffer airspace Taiwan monitors for incoming aircraft"
 
 If in doubt, spell it out.
-
-**Structure of the brief:**
-
-Opening (200 to 300 words): Do not open with the conclusion. Open with what the network is showing this week. Let the reader feel the convergence of signals before being told what to call it. The thesis emerges from the opening, it is not stated in the first sentence.
-
-Global picture (300 to 400 words): What the network as a whole is doing this week. Work from the dominant co-activation clusters outward. Name the mechanism connecting the activated nodes. Distinguish structural dynamics from tactical developments explicitly. Include the delta from last week: what changed, what held, what surprised.
-
-Regional depth (600 to 800 words): Deep treatment of the top-tier activated nodes. Include texture on the human and economic dimensions, not just security mechanics. The people on the ground, the fuel shortages, the economic stress, the actors making visible decisions: this material makes the analysis land. Intelligence tradecraft stays intact. The writing does more work.
-
-Consequences (300 to 400 words): Second and third order consequences for actors and systems not in the top activation tier. Name the states, name the timelines, name what changes and when. The final paragraph must end with consequence, not with a restatement of the thesis. The reader should finish the brief knowing something specific about what comes next, not just that the situation is serious.
-
+Structure of the brief:
+Opening (200 to 300 words): Do not open with the conclusion. Open with what the world is showing this week. Let the reader feel the convergence of signals before being told what to call it. Ground the opening in something specific and physical before moving to the analytical frame. The thesis emerges from the opening, it is not stated in the first sentence.
+Global picture (400 to 500 words): What the world as a whole is doing this week. Work from the dominant co-activation clusters outward. Name the mechanism connecting the activated nodes. Distinguish structural dynamics from tactical developments explicitly. Include the delta from last week: what changed, what held, what surprised. Linger on the connections between theaters that daily news coverage treats as separate stories.
+Regional depth (900 to 1,200 words): Deep treatment of the top-tier activated nodes. This is where the Kaplan register matters most. Start each regional section with something concrete and specific -- the physical reality, the human detail, the specific decision a named actor made -- before moving to the analytical frame. Include texture on the human and economic dimensions, not just security mechanics. The people on the ground, the fuel shortages, the economic stress, the actors making visible decisions: this material makes the analysis land. Intelligence tradecraft stays intact. The writing does more work. Sections should not all have the same shape. Some lead with history. Some lead with a specific person or place. Some circle back to something introduced earlier.
+Consequences (400 to 500 words): Second and third order consequences for actors and systems not in the top activation tier. Name the states, name the timelines, name what changes and when. The final paragraph must end with consequence, not with a restatement of the thesis. The reader should finish the brief knowing something specific about what comes next, not just that the situation is serious.
 Falsification paragraph (100 to 150 words): Every brief ends with an explicit falsification paragraph before the final consequence sentence. This paragraph tells the reader directly: here is what this analysis is assuming, here is what would prove it wrong, and here is what we are watching for next week that would change the assessment. This is not a hedge. It is intellectual honesty that makes the product more credible, not less. A reader who knows what would falsify the thesis trusts the thesis more, not less.
-
 Example of the standard: "This assessment rests on the assumption that Putin's framing shift is tactical rather than structural. The evidence that would revise that judgment upward is a concrete Russian proposal with specific territorial parameters submitted through official channels, not rhetorical signals at a parade. The evidence that would revise it downward is a resumption of large-scale civilian strikes within two weeks of the framing shift. We are watching for both."
+Style:
 
-**Style:**
-- Analytical, not journalistic
-- Prose paragraphs only. No bullet points. No numbered lists.
-- Active voice, committed statements
-- No em dashes or double hyphens
-- No filler language
-- Every acronym spelled out on first use per the rule above
-- Never end with a restatement of the thesis. End with consequence.
+Read and apply the editorial style guide before writing. It governs voice, rhythm, banned constructions, and banned vocabulary. These are not suggestions.
+Prose paragraphs only. No bullet points. No numbered lists.
+Active voice, committed statements.
+No em dashes or double hyphens.
+No filler language.
+Every acronym spelled out on first use per the rule above.
+Never end with a restatement of the thesis. End with consequence.
 
 ---
 
