@@ -1,6 +1,6 @@
 # Theoretical Frameworks Library
 # TradingTimeMachine Intelligence Division
-# Last updated: 2026-05-17
+# Last updated: 2026-05-23
 # Source: Synthesized via NotebookLM across six primary texts
 # Purpose: Standing reference for Pass 2 connection mapping and Pass 3 synthesis
 #
