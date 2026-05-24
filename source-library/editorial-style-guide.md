@@ -1,18 +1,22 @@
 # Editorial Style Guide
 # TradingTimeMachine Intelligence Division
-# Last updated: 2026-05-22
+# Last updated: 2026-05-23
 # Purpose: Writing register and voice standards for the weekly SITREP final brief (Pass 3, Step 9)
 # Primary calibration: Robert Kaplan, *The Revenge of Geography*
+#
+# Usage note: These frameworks identify structural constraints and historical patterns.
+# They are lenses, not scripts. Every application requires explicit red team challenge
+# against the adaptation capacity of the actor in question.
 
 ---
 
 ## The Standard
 
-The weekly SITREP final brief is not a policy memo. It is not a think-tank assessment. It is not an AI-generated intelligence summary. It is a piece of writing that a sharp, curious, well-read person should be able to sit with on a Sunday morning and feel genuinely enriched by -- not just informed, but given a way of seeing the world they did not have before they started reading.
+The weekly SITREP final brief is not a policy memo. It is not a think-tank assessment. It is not an AI-generated intelligence summary. It is a piece of writing that a sharp, curious, well-read person should be able to sit with on a Sunday morning and feel genuinely enriched by, not just informed, but given a way of seeing the world they did not have before they started reading.
 
 The analysis is produced by a rigorous three-pass architecture. The final brief is where that analysis becomes prose. The intelligence does not change. The voice does.
 
-The calibration standard is Robert Kaplan's writing in *The Revenge of Geography*: grounded in physical reality, rhythmically varied, willing to leave things unresolved, free of the vocabulary that makes analytical writing sound like it was produced by a committee.
+The calibration standard is Robert Kaplan's writing in *The Revenge of Geography*: grounded in physical reality, rhythmically varied, willing to leave things unresolved, free of the vocabulary that makes analytical writing sound like it was produced by a committee. Kaplan uses em dashes heavily. We do not. The register is his. The punctuation marks are not.
 
 ---
 
@@ -20,7 +24,7 @@ The calibration standard is Robert Kaplan's writing in *The Revenge of Geography
 
 ### Ground the analysis in physical reality before political abstraction
 
-Kaplan almost never opens a regional section with a political observation. He opens with terrain -- elevation, soil, climate, the texture of a border crossing. The political reality emerges from the physical one.
+Kaplan almost never opens a regional section with a political observation. He opens with terrain, elevation, soil, climate, the texture of a border crossing. The political reality emerges from the physical one.
 
 In the SITREP context this means: when introducing a theater or region, start with something concrete and specific before moving to the analytical frame. Not "Iran's negotiating posture reflects internal IRGC constraints" but the physical and human reality of the Strait itself, or the specific detail that makes the political situation real and tangible.
 
@@ -36,13 +40,13 @@ Build the paragraph through accumulation. Let the weight of the detail do the wo
 
 ### Let macro conclusions emerge
 
-The large analytical point should arrive the way Kaplan arrives at his maxims -- not announced, not preceded by a signpost sentence, but emerging from the accumulated weight of what came before. The reader should feel they have arrived at the conclusion themselves, guided there by the prose.
+The large analytical point should arrive the way Kaplan arrives at his maxims: not announced, not preceded by a signpost sentence, but emerging from the accumulated weight of what came before. The reader should feel they have arrived at the conclusion themselves, guided there by the prose.
 
 When the big observation lands, state it plainly and move on. Do not explain what it means. Do not tell the reader why it matters. Trust that if the buildup was done correctly, the significance is self-evident.
 
 ### Sit inside details longer than feels comfortable
 
-AI prose moves efficiently from point to point. Human writing lingers. A specific detail -- the three roads into Bamako that have been cut, the specific wording of an Iranian official's statement, the name of a ship that transited Hormuz -- can carry more analytical weight than three sentences of interpretation.
+AI prose moves efficiently from point to point. Human writing lingers. A specific detail, the three roads into Bamako that have been cut, the specific wording of an Iranian official's statement, the name of a ship that transited Hormuz, can carry more analytical weight than three sentences of interpretation.
 
 When a detail is genuinely significant, stay with it. Describe it. Let the reader see it before you move on.
 
@@ -62,6 +66,14 @@ One paragraph can be a single sentence. The next can run six or seven. The asymm
 
 ## Part II: What to Never Write
 
+### Banned punctuation
+
+No em dashes. No double hyphens. These are not interchangeable with other punctuation. They are to be eliminated entirely by restructuring the sentence that wanted them.
+
+When a sentence reaches for a double hyphen or em dash, the instinct is usually to insert a parenthetical aside or create a breath in a long clause. That instinct points to a sentence that needs to be rewritten, not differently punctuated. A comma works for a light pause. A colon works for an elaboration. A period and a new sentence works when the aside is substantive enough to stand alone. The best solution is usually to fold the aside into the sentence's natural flow so no interruption mark is needed at all.
+
+The double hyphen is the em dash in disguise. Both are banned. Both signal AI-assisted writing to a careful reader. If you find yourself writing either one, stop and rewrite the sentence.
+
 ### Banned constructions
 
 These are the specific rhetorical moves that produce AI analytical cadence. None of them should appear in the final brief.
@@ -77,7 +89,7 @@ Never begin an analytical sentence with "That matters because," "That is the sig
 Never open with a sentence constructed to sound historically significant: "Something shifted this week that has not shifted before." State what shifted. The significance will follow from the facts.
 
 **The rhetorical question as transition**
-Never use "What does this mean for Washington?" or "What comes next?" or "So where does this leave us?" as paragraph openers. They create the illusion of a thinking mind working through a problem. Start the next thought directly.
+Never use "What does this mean for Washington?" or "What comes next?" or "So where does this leave us?" as paragraph openers. Start the next thought directly.
 
 **The clean section close**
 Never end a narrative section by summarizing what was just said or by pivoting to the next section with a transitional sentence. End on the last genuinely interesting observation and stop.
@@ -87,15 +99,15 @@ Never end a narrative section by summarizing what was just said or by pivoting t
 These words and phrases are the furniture of think-tank and AI analytical prose. Their presence is a signal that the writing has defaulted to a template.
 
 - cascade / cascading
-- threshold (as a standalone conceptual noun -- "crossing a threshold," "approaching a threshold")
-- structural (as a standalone analytical adjective -- "a structural shift," "structural constraints")
+- threshold (as a standalone conceptual noun)
+- structural (as a standalone analytical adjective)
 - framework (as a standalone conceptual noun)
 - catalyst
 - underscore / underscores
 - testament to
 - geopolitical chess
 - untenable
-- abstraction / abstract (when used to mean "complicated" or "distant")
+- abstraction / abstract (when used to mean complicated or distant)
 - bandwidth (in the political metaphor sense)
 - operating in real time
 - the stakes could not be higher
@@ -114,7 +126,7 @@ If every section in the brief could be swapped with another section without the 
 
 ## Part III: The Voice
 
-The narrator of the SITREP final brief is not an algorithm producing an assessment. The narrator is an analyst who has read widely, traveled in mind if not always in body, and has developed genuine views about how the world works -- views held with intellectual humility, not with false certainty.
+The narrator of the SITREP final brief is not an algorithm producing an assessment. The narrator is an analyst who has read widely, traveled in mind if not always in body, and has developed genuine views about how the world works, views held with intellectual humility, not with false certainty.
 
 The voice is engaged but not breathless. Concerned but not alarmed. Authoritative without being arrogant. It does not hedge every observation into meaninglessness, but it does not overstate either.
 
