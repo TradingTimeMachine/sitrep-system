@@ -70,7 +70,7 @@
     },
     "Grains and Soy: Corn": {
       "date": "2026-05-22",
-      "close": 463.75
+      "close": 463.25
     },
     "Grains and Soy: Kansas City Wheat": {
       "date": "2026-05-22",
@@ -82,7 +82,7 @@
     },
     "Grains and Soy: Soybeans": {
       "date": "2026-05-22",
-      "close": 1197.25
+      "close": 1196.5
     },
     "Grains and Soy: Soybeans Meal": {
       "date": "2026-05-22",
@@ -9231,7 +9231,7 @@
       },
       {
         "date": "2026-05-22",
-        "close": 463.75
+        "close": 463.25
       }
     ],
     "Grains and Soy: Kansas City Wheat": [
@@ -9736,6 +9736,10 @@
       {
         "date": "2025-11-26",
         "close": 315
+      },
+      {
+        "date": "2025-11-28",
+        "close": 317.5
       },
       {
         "date": "2025-12-01",
@@ -10709,7 +10713,7 @@
       },
       {
         "date": "2026-05-22",
-        "close": 1197.25
+        "close": 1196.5
       }
     ],
     "Grains and Soy: Soybeans Meal": [
@@ -17127,5 +17131,5 @@
       }
     ]
   },
-  "updated": "2026-05-24T06:33:35.853Z"
+  "updated": "2026-05-24T08:33:44.486Z"
 }
