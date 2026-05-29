@@ -13,8 +13,8 @@
       "close": 0.72
     },
     "Currencies: EUR/USD": {
-      "date": "2026-05-27",
-      "close": 1.16176
+      "date": "2026-05-28",
+      "close": 1.16534
     },
     "Currencies: Japanese Yen": {
       "date": "2026-05-27",
@@ -25,12 +25,12 @@
       "close": 1.27
     },
     "Energies: WTI Crude": {
-      "date": "2026-05-27",
-      "close": 88.68
+      "date": "2026-05-28",
+      "close": 88.56
     },
     "Energies: NY Harbor Heating Oil": {
-      "date": "2026-05-27",
-      "close": 3.53
+      "date": "2026-05-28",
+      "close": 3.54
     },
     "Energies: Unleaded Gas": {
       "date": "2026-05-27",
@@ -97,12 +97,12 @@
       "close": 4481.5
     },
     "Metals: Copper": {
-      "date": "2026-05-27",
-      "close": 6.34
+      "date": "2026-05-28",
+      "close": 6.42
     },
     "Metals: Platinum": {
-      "date": "2026-05-27",
-      "close": 1940
+      "date": "2026-05-28",
+      "close": 1922.7
     },
     "Metals: Silver": {
       "date": "2026-05-27",
@@ -1610,10 +1610,6 @@
     ],
     "Currencies: EUR/USD": [
       {
-        "date": "2025-11-29",
-        "close": 1.1597
-      },
-      {
         "date": "2025-11-30",
         "close": 1.16005
       },
@@ -2328,6 +2324,10 @@
       {
         "date": "2026-05-27",
         "close": 1.16176
+      },
+      {
+        "date": "2026-05-28",
+        "close": 1.16534
       }
     ],
     "Currencies: Japanese Yen": [
@@ -3798,6 +3798,10 @@
       {
         "date": "2026-05-27",
         "close": 88.68
+      },
+      {
+        "date": "2026-05-28",
+        "close": 88.56
       }
     ],
     "Energies: NY Harbor Heating Oil": [
@@ -4288,6 +4292,10 @@
       {
         "date": "2026-05-27",
         "close": 3.53
+      },
+      {
+        "date": "2026-05-28",
+        "close": 3.54
       }
     ],
     "Energies: Unleaded Gas": [
@@ -12606,6 +12614,10 @@
       {
         "date": "2026-05-27",
         "close": 6.34
+      },
+      {
+        "date": "2026-05-28",
+        "close": 6.42
       }
     ],
     "Metals: Platinum": [
@@ -13096,6 +13108,10 @@
       {
         "date": "2026-05-27",
         "close": 1940
+      },
+      {
+        "date": "2026-05-28",
+        "close": 1922.7
       }
     ],
     "Metals: Silver": [
@@ -17023,5 +17039,5 @@
       }
     ]
   },
-  "updated": "2026-05-29T02:33:37.838Z"
+  "updated": "2026-05-29T04:33:36.239Z"
 }
