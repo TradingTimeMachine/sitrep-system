@@ -13,8 +13,8 @@
       "close": 0.73
     },
     "Currencies: EUR/USD": {
-      "date": "2026-05-28",
-      "close": 1.16534
+      "date": "2026-05-29",
+      "close": 1.166085
     },
     "Currencies: Japanese Yen": {
       "date": "2026-05-28",
@@ -26,7 +26,7 @@
     },
     "Energies: WTI Crude": {
       "date": "2026-05-28",
-      "close": 88.56
+      "close": 88.57
     },
     "Energies: NY Harbor Heating Oil": {
       "date": "2026-05-28",
@@ -37,16 +37,16 @@
       "close": 3.09
     },
     "Energies: Natural Gas": {
-      "date": "2026-05-28",
-      "close": 3.3
+      "date": "2026-05-29",
+      "close": 3.27
     },
     "Energies: RBOB Gasoline": {
       "date": "2026-05-28",
       "close": 3.09
     },
     "Energies: Brent Crude": {
-      "date": "2026-05-28",
-      "close": 85.38
+      "date": "2026-05-29",
+      "close": 84.41
     },
     "Meats: Feeder Cattle": {
       "date": "2026-05-28",
@@ -93,12 +93,12 @@
       "close": 624
     },
     "Metals: Gold": {
-      "date": "2026-05-28",
-      "close": 4532.4
+      "date": "2026-05-29",
+      "close": 4569.9
     },
     "Metals: Copper": {
-      "date": "2026-05-28",
-      "close": 6.43
+      "date": "2026-05-29",
+      "close": 6.39
     },
     "Metals: Platinum": {
       "date": "2026-05-28",
@@ -1622,10 +1622,6 @@
     ],
     "Currencies: EUR/USD": [
       {
-        "date": "2025-11-30",
-        "close": 1.16005
-      },
-      {
         "date": "2025-12-01",
         "close": 1.16067
       },
@@ -2340,6 +2336,10 @@
       {
         "date": "2026-05-28",
         "close": 1.16534
+      },
+      {
+        "date": "2026-05-29",
+        "close": 1.166085
       }
     ],
     "Currencies: Japanese Yen": [
@@ -3821,7 +3821,7 @@
       },
       {
         "date": "2026-05-28",
-        "close": 88.56
+        "close": 88.57
       }
     ],
     "Energies: NY Harbor Heating Oil": [
@@ -5304,6 +5304,10 @@
       {
         "date": "2026-05-28",
         "close": 3.3
+      },
+      {
+        "date": "2026-05-29",
+        "close": 3.27
       }
     ],
     "Energies: RBOB Gasoline": [
@@ -6288,6 +6292,10 @@
       {
         "date": "2026-05-28",
         "close": 85.38
+      },
+      {
+        "date": "2026-05-29",
+        "close": 84.41
       }
     ],
     "Meats: Feeder Cattle": [
@@ -12208,6 +12216,10 @@
       {
         "date": "2026-05-28",
         "close": 4532.4
+      },
+      {
+        "date": "2026-05-29",
+        "close": 4569.9
       }
     ],
     "Metals: Copper": [
@@ -12702,6 +12714,10 @@
       {
         "date": "2026-05-28",
         "close": 6.43
+      },
+      {
+        "date": "2026-05-29",
+        "close": 6.39
       }
     ],
     "Metals: Platinum": [
@@ -17155,5 +17171,5 @@
       }
     ]
   },
-  "updated": "2026-05-30T02:34:12.111Z"
+  "updated": "2026-05-30T04:33:43.345Z"
 }
