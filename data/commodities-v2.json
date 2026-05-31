@@ -62,11 +62,11 @@
     },
     "Meats: Milk Class III": {
       "date": "2026-05-29",
-      "close": 16.73
+      "close": 16.7
     },
     "Grains and Soy: Soybean Oil": {
       "date": "2026-05-29",
-      "close": 77.66
+      "close": 77.72
     },
     "Grains and Soy: Corn": {
       "date": "2026-05-29",
@@ -78,7 +78,7 @@
     },
     "Grains and Soy: Oats": {
       "date": "2026-05-29",
-      "close": 361
+      "close": 358.75
     },
     "Grains and Soy: Soybeans": {
       "date": "2026-05-29",
@@ -86,7 +86,7 @@
     },
     "Grains and Soy: Soybeans Meal": {
       "date": "2026-05-29",
-      "close": 329.6
+      "close": 329.8
     },
     "Grains and Soy: Wheat": {
       "date": "2026-05-29",
@@ -114,15 +114,15 @@
     },
     "Interest Rates: 5 Year T-Notes": {
       "date": "2026-05-29",
-      "close": 107.24
+      "close": 107.21
     },
     "Interest Rates: 2 Year T-Notes": {
       "date": "2026-05-29",
-      "close": 103.3
+      "close": 103.28
     },
     "Interest Rates: 10 Year T-Bond": {
       "date": "2026-05-29",
-      "close": 103.3
+      "close": 103.28
     },
     "Interest Rates: 30 Year T-Bond": {
       "date": "2026-05-29",
@@ -130,7 +130,7 @@
     },
     "Softs and Fibers: Rice": {
       "date": "2026-05-29",
-      "close": 12.62
+      "close": 12.61
     },
     "Softs and Fibers: Lumber": {
       "date": "2026-05-29",
@@ -8255,7 +8255,7 @@
       },
       {
         "date": "2026-05-29",
-        "close": 16.73
+        "close": 16.7
       }
     ],
     "Grains and Soy: Soybean Oil": [
@@ -8749,7 +8749,7 @@
       },
       {
         "date": "2026-05-29",
-        "close": 77.66
+        "close": 77.72
       }
     ],
     "Grains and Soy: Corn": [
@@ -10231,7 +10231,7 @@
       },
       {
         "date": "2026-05-29",
-        "close": 361
+        "close": 358.75
       }
     ],
     "Grains and Soy: Soybeans": [
@@ -11219,7 +11219,7 @@
       },
       {
         "date": "2026-05-29",
-        "close": 329.6
+        "close": 329.8
       }
     ],
     "Grains and Soy: Wheat": [
@@ -14677,7 +14677,7 @@
       },
       {
         "date": "2026-05-29",
-        "close": 107.24
+        "close": 107.21
       }
     ],
     "Interest Rates: 2 Year T-Notes": [
@@ -15171,7 +15171,7 @@
       },
       {
         "date": "2026-05-29",
-        "close": 103.3
+        "close": 103.28
       }
     ],
     "Interest Rates: 10 Year T-Bond": [
@@ -15665,7 +15665,7 @@
       },
       {
         "date": "2026-05-29",
-        "close": 103.3
+        "close": 103.28
       }
     ],
     "Interest Rates: 30 Year T-Bond": [
@@ -16653,7 +16653,7 @@
       },
       {
         "date": "2026-05-29",
-        "close": 12.62
+        "close": 12.61
       }
     ],
     "Softs and Fibers: Lumber": [
@@ -17151,5 +17151,5 @@
       }
     ]
   },
-  "updated": "2026-05-31T06:33:44.236Z"
+  "updated": "2026-05-31T08:35:22.034Z"
 }
