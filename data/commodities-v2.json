@@ -26,7 +26,7 @@
     },
     "Energies: WTI Crude": {
       "date": "2026-06-01",
-      "close": 92.25
+      "close": 92.27
     },
     "Energies: NY Harbor Heating Oil": {
       "date": "2026-06-01",
@@ -133,8 +133,8 @@
       "close": 12.53
     },
     "Softs and Fibers: Lumber": {
-      "date": "2026-06-01",
-      "close": 67.11
+      "date": "2026-06-02",
+      "close": 67.5
     }
   },
   "series": {
@@ -3797,7 +3797,7 @@
       },
       {
         "date": "2026-06-01",
-        "close": 92.25
+        "close": 92.27
       }
     ],
     "Energies: NY Harbor Heating Oil": [
@@ -17016,8 +17016,12 @@
       {
         "date": "2026-06-01",
         "close": 67.11
+      },
+      {
+        "date": "2026-06-02",
+        "close": 67.5
       }
     ]
   },
-  "updated": "2026-06-02T20:36:19.322Z"
+  "updated": "2026-06-02T22:33:36.442Z"
 }
