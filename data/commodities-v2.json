@@ -26,7 +26,7 @@
     },
     "Energies: WTI Crude": {
       "date": "2026-06-01",
-      "close": 92.27
+      "close": 92.25
     },
     "Energies: NY Harbor Heating Oil": {
       "date": "2026-06-01",
@@ -2323,7 +2323,7 @@
       },
       {
         "date": "2026-05-31",
-        "close": 1.164945
+        "close": 1.1648
       },
       {
         "date": "2026-06-01",
@@ -3797,7 +3797,7 @@
       },
       {
         "date": "2026-06-01",
-        "close": 92.27
+        "close": 92.25
       }
     ],
     "Energies: NY Harbor Heating Oil": [
@@ -17023,5 +17023,5 @@
       }
     ]
   },
-  "updated": "2026-06-03T00:33:44.573Z"
+  "updated": "2026-06-03T02:33:51.367Z"
 }
