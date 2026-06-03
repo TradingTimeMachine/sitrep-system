@@ -73,8 +73,8 @@
       "close": 440
     },
     "Grains and Soy: Kansas City Wheat": {
-      "date": "2026-06-01",
-      "close": 647
+      "date": "2026-06-02",
+      "close": 635.5
     },
     "Grains and Soy: Oats": {
       "date": "2026-06-02",
@@ -89,8 +89,8 @@
       "close": 326.4
     },
     "Grains and Soy: Wheat": {
-      "date": "2026-06-01",
-      "close": 608.75
+      "date": "2026-06-02",
+      "close": 602.5
     },
     "Metals: Gold": {
       "date": "2026-06-02",
@@ -113,8 +113,8 @@
       "close": 96.13
     },
     "Interest Rates: 5 Year T-Notes": {
-      "date": "2026-06-01",
-      "close": 107.05
+      "date": "2026-06-02",
+      "close": 107.07
     },
     "Interest Rates: 2 Year T-Notes": {
       "date": "2026-06-02",
@@ -9662,6 +9662,10 @@
       {
         "date": "2026-06-01",
         "close": 647
+      },
+      {
+        "date": "2026-06-02",
+        "close": 635.5
       }
     ],
     "Grains and Soy: Oats": [
@@ -11618,6 +11622,10 @@
       {
         "date": "2026-06-01",
         "close": 608.75
+      },
+      {
+        "date": "2026-06-02",
+        "close": 602.5
       }
     ],
     "Metals: Gold": [
@@ -14554,6 +14562,10 @@
       {
         "date": "2026-06-01",
         "close": 107.05
+      },
+      {
+        "date": "2026-06-02",
+        "close": 107.07
       }
     ],
     "Interest Rates: 2 Year T-Notes": [
@@ -17007,5 +17019,5 @@
       }
     ]
   },
-  "updated": "2026-06-03T08:33:57.054Z"
+  "updated": "2026-06-03T10:33:57.159Z"
 }
