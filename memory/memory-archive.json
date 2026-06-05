@@ -634,3 +634,509 @@ Produced by TradingTimeMachine Intelligence Division. AI-assisted open source an
   }
 }
 ]
+{
+  "meta": {
+    "issue": "003",
+    "date": "2026-05-30",
+    "architecture_version": "v3",
+    "note": "Issue 003. Week of May 30 2026. MOU framework agreed at negotiator level, Trump signature pending. Iran-Hormuz node activation falling from 9 to 7. Sahel-West Africa escalated to 9 (acute crisis). South-Asia corrected upward from baseline underestimate. India-Pakistan May 2025 war documented as background context. New connections: south-asia to iran-hormuz (Pakistan back-channel dependency), russia-domestic to global-financial (oil revenue threat from deal). Continuity label: PIVOT. Pattern: Tactical Pause Before Next Phase.",
+    "next_sitrep": "2026-06-06",
+    "cadence": "Saturday weekly global SITREP"
+  },
+
+  "network_state": {
+
+    "nodes": [
+      {
+        "node": "iran-hormuz",
+        "baseline_activation": 9,
+        "current_activation": 7,
+        "direction": "falling",
+        "velocity": "moderate",
+        "prior_activations": [null, null, 9],
+        "dominant_signal": "MOU framework agreed at negotiator level as of May 28. Trump reviewing, signature TBD within days. Terms: 60-day ceasefire extension, unrestricted Hormuz passage, 30-day mine clearance, Iran no-nuclear-weapons commitment. US naval blockade lifted in parallel with mine clearance. IRGC fired warning shots May 28. Brent down 20 percent from April peak on deal optimism.",
+        "threshold_crossed": false,
+        "threshold_note": "Activation falling toward 7 as resolution architecture approaches but signature not yet completed."
+      },
+      {
+        "node": "ukraine-russia",
+        "baseline_activation": 7,
+        "current_activation": 6,
+        "direction": "falling",
+        "velocity": "slow",
+        "prior_activations": [null, null, 7],
+        "dominant_signal": "Russia losing net territory for the first time in the war. May 12-19 net loss 29 square miles. Ukraine counteroffensive recording biggest gains since June 2023. Putin offering direct Zelenskyy talks, framing war as coming to an end. Victory Day 3-day ceasefire agreed and violated quickly. Russian oil revenues under threat from Iran deal trajectory.",
+        "threshold_crossed": false,
+        "threshold_note": null
+      },
+      {
+        "node": "israel-levant",
+        "baseline_activation": 7,
+        "current_activation": 7,
+        "direction": "stable",
+        "velocity": "flat",
+        "prior_activations": [null, null, 7],
+        "dominant_signal": "MOU draft includes clause ending Lebanon war on all fronts as part of the deal package. This is a new structural linkage not present at baseline. West Bank consolidation ongoing. Lebanon ceasefire fragile but holding.",
+        "threshold_crossed": false,
+        "threshold_note": null
+      },
+      {
+        "node": "yemen-red-sea",
+        "baseline_activation": 5,
+        "current_activation": 5,
+        "direction": "stable",
+        "velocity": "flat",
+        "prior_activations": [null, null, 5],
+        "dominant_signal": "Strategic silence maintained. Iran holding Houthi Bab el-Mandeb capability in reserve. MOU proximity reduces immediate activation probability. Silence is deliberate and analytically significant.",
+        "threshold_crossed": false,
+        "threshold_note": null
+      },
+      {
+        "node": "sudan-horn",
+        "baseline_activation": 7,
+        "current_activation": 7,
+        "direction": "stable",
+        "velocity": "flat",
+        "prior_activations": [null, null, 7],
+        "dominant_signal": "Civil war continues without change from baseline. Fully buried under Iran and Sahel signal weight. SAF-RSF fighting sustained.",
+        "threshold_crossed": false,
+        "threshold_note": null
+      },
+      {
+        "node": "sahel-west-africa",
+        "baseline_activation": 8,
+        "current_activation": 9,
+        "direction": "rising",
+        "velocity": "moderate",
+        "prior_activations": [null, null, 8],
+        "dominant_signal": "JNIM-FLA announced total siege of Bamako April 28. Three of six main Bamako roads disrupted as of May 15. Africa Corps withdrawing from Tessalit under Algerian mediation. ISSP filling Menaka vacuum. Civilian Tuareg lynchings in Bamako. AES-ECOWAS first formal meeting in a year produced no security framework. JNIM first operations inside Nigeria confirmed.",
+        "threshold_crossed": true,
+        "threshold_note": "Crossed from high-activation to acute-crisis. JNIM-FLA siege architecture is operational. State collapse trajectory is structural, not tactical."
+      },
+      {
+        "node": "china-taiwan-indopacific",
+        "baseline_activation": 6,
+        "current_activation": 6,
+        "direction": "stable",
+        "velocity": "flat",
+        "prior_activations": [null, null, 6],
+        "dominant_signal": "Taiwan arms sale delay from May 17 summit still in effect. PLA activity continued at baseline level. No escalation this week.",
+        "threshold_crossed": false,
+        "threshold_note": null
+      },
+      {
+        "node": "china-domestic",
+        "baseline_activation": 5,
+        "current_activation": 5,
+        "direction": "falling",
+        "velocity": "slow",
+        "prior_activations": [null, null, 5],
+        "dominant_signal": "Oil price decline and Hormuz deal optimism providing partial energy import pressure relief. Structural improvement not yet complete. Brent still above pre-war levels.",
+        "threshold_crossed": false,
+        "threshold_note": null
+      },
+      {
+        "node": "russia-domestic",
+        "baseline_activation": 5,
+        "current_activation": 5,
+        "direction": "falling",
+        "velocity": "slow",
+        "prior_activations": [null, null, 5],
+        "dominant_signal": "Brent down 20 percent from April peak. War economy windfall under structural threat from Iran deal trajectory. EIA forecasting Brent at $89 Q4 2026 and $79 in 2027. Institutional incentive to interfere with MOU signature is real and unacknowledged in mainstream analysis. Russia losing ground in Ukraine for first time.",
+        "threshold_crossed": false,
+        "threshold_note": null
+      },
+      {
+        "node": "us-domestic",
+        "baseline_activation": 6,
+        "current_activation": 6,
+        "direction": "stable",
+        "velocity": "flat",
+        "prior_activations": [null, null, 6],
+        "dominant_signal": "Trump reviewing MOU text, told mediators he wants a couple of days. Vance: TBD on signature. Gas prices declining on deal optimism. Bessent secured Oman no-toll assurance. Trump cited statesman framing by Treasury Secretary.",
+        "threshold_crossed": false,
+        "threshold_note": null
+      },
+      {
+        "node": "global-energy",
+        "baseline_activation": 8,
+        "current_activation": 7,
+        "direction": "falling",
+        "velocity": "moderate",
+        "prior_activations": [null, null, 8],
+        "dominant_signal": "Brent at $93-97 range May 28-30. Down from $138 April peak and $117 April average. UAE left OPEC May 1. EIA forecasting Brent $89 Q4 2026 and $79 in 2027 as Hormuz reopening feeds through. IEA forecasting Hormuz traffic picking up June. Mines not yet cleared. Iranian crude loadings still below 0.3 mb/d vs 1.5 mb/d pre-war.",
+        "threshold_crossed": false,
+        "threshold_note": null
+      },
+      {
+        "node": "global-financial",
+        "baseline_activation": 6,
+        "current_activation": 6,
+        "direction": "stable",
+        "velocity": "flat",
+        "prior_activations": [null, null, 6],
+        "dominant_signal": "Markets pricing deal optimism. Underlying structural damage from Hormuz closure period (sovereign debt stress, stagflation signals in Europe, US reserve depletion) not healed. Lag of 6-12 months between energy price relief and central bank policy response.",
+        "threshold_crossed": false,
+        "threshold_note": null
+      },
+      {
+        "node": "global-trade",
+        "baseline_activation": 6,
+        "current_activation": 6,
+        "direction": "falling",
+        "velocity": "slow",
+        "prior_activations": [null, null, 6],
+        "dominant_signal": "Cape of Good Hope rerouting continues. Shipping companies awaiting verified mine clearance before returning to Hormuz. Trade normalization timeline: July at earliest. USMCA review July 1 adds North American uncertainty.",
+        "threshold_crossed": false,
+        "threshold_note": null
+      },
+      {
+        "node": "nuclear-proliferation",
+        "baseline_activation": 7,
+        "current_activation": 7,
+        "direction": "stable",
+        "velocity": "flat",
+        "prior_activations": [null, null, 7],
+        "dominant_signal": "MOU commits Iran to never seek nuclear weapons. Enrichment suspension and stockpile disposal deferred to 60-day window. DPRK commissioning first naval destroyer June 2026. IAEA noted serious advances in April. Saudi threshold signaling unchanged.",
+        "threshold_crossed": false,
+        "threshold_note": null
+      },
+      {
+        "node": "south-asia",
+        "baseline_activation": 4,
+        "current_activation": 6,
+        "direction": "rising",
+        "velocity": "fast",
+        "prior_activations": [null, null, 4],
+        "dominant_signal": "BASELINE CORRECTION: India-Pakistan fought four-day air and missile war in May 2025 (Operation Sindoor), killing 70+, the worst conflict in decades. Ceasefire held through 2025-2026. As of May 27-28 2026, India ordering border structure demolitions and border tensions simmering. Pakistan managing India border relationship simultaneously with Iran back-channel mediation role. Pakistan is the sole US-Iran communication channel. Structural single-point dependency.",
+        "threshold_crossed": true,
+        "threshold_note": "Threshold crossing is a baseline correction: the node was understated at 4. Post-war fragile stability with single-point dependency on Iran architecture correctly belongs at elevated level. Network propagation: Pakistan's dual-role creates structural vulnerability in Iran resolution pathway."
+      },
+      {
+        "node": "turkey-eastern-med",
+        "baseline_activation": 4,
+        "current_activation": 4,
+        "direction": "stable",
+        "velocity": "flat",
+        "prior_activations": [null, null, 4],
+        "dominant_signal": "Turkey participating in Trump regional call May 23 on Iran deal. Not activating energy leverage. Possibly conserving leverage for 60-day permanent accord negotiations. Stable silence.",
+        "threshold_crossed": false,
+        "threshold_note": null
+      },
+      {
+        "node": "gcc-gulf",
+        "baseline_activation": 7,
+        "current_activation": 7,
+        "direction": "stable",
+        "velocity": "flat",
+        "prior_activations": [null, null, 7],
+        "dominant_signal": "UAE left OPEC May 1. GCC states on regional call with Trump May 23. Saudi Arabia FM contact with Iran. MOU includes Lebanon war termination, a GCC-relevant structural element. No new strikes this week.",
+        "threshold_crossed": false,
+        "threshold_note": null
+      },
+      {
+        "node": "latin-america",
+        "baseline_activation": 3,
+        "current_activation": 3,
+        "direction": "stable",
+        "velocity": "flat",
+        "prior_activations": [null, null, 3],
+        "dominant_signal": "No significant developments. Energy price relief partial. USMCA review July 1 Mexico-US uncertainty.",
+        "threshold_crossed": false,
+        "threshold_note": null
+      }
+    ],
+
+    "connection_registry": [
+      {
+        "node_a": "iran-hormuz",
+        "node_b": "global-energy",
+        "weight": 9,
+        "connection_type": "direct-causal",
+        "direction": "bidirectional",
+        "fired_this_week": true,
+        "weight_change": "unchanged",
+        "propagation_note": "Connection now firing in reverse direction: deal optimism driving Brent down. Bidirectional confirmed.",
+        "established": "2026-05-17",
+        "last_fired": "2026-05-30"
+      },
+      {
+        "node_a": "iran-hormuz",
+        "node_b": "china-domestic",
+        "weight": 8,
+        "connection_type": "direct-causal",
+        "direction": "a-to-b",
+        "fired_this_week": true,
+        "weight_change": "unchanged",
+        "propagation_note": "Deal optimism providing partial energy import relief to China. Connection firing in relief direction.",
+        "established": "2026-05-17",
+        "last_fired": "2026-05-30"
+      },
+      {
+        "node_a": "iran-hormuz",
+        "node_b": "global-financial",
+        "weight": 7,
+        "connection_type": "indirect-structural",
+        "direction": "a-to-b",
+        "fired_this_week": true,
+        "weight_change": "unchanged",
+        "propagation_note": "Energy price decline feeding into inflation expectations and financial market optimism, though structural damage from closure period persists.",
+        "established": "2026-05-17",
+        "last_fired": "2026-05-30"
+      },
+      {
+        "node_a": "iran-hormuz",
+        "node_b": "gcc-gulf",
+        "weight": 8,
+        "connection_type": "direct-causal",
+        "direction": "bidirectional",
+        "fired_this_week": true,
+        "weight_change": "unchanged",
+        "propagation_note": "GCC states on Trump regional call. MOU includes Lebanon war termination. GCC structurally engaged in resolution architecture.",
+        "established": "2026-05-17",
+        "last_fired": "2026-05-30"
+      },
+      {
+        "node_a": "iran-hormuz",
+        "node_b": "yemen-red-sea",
+        "weight": 7,
+        "connection_type": "indirect-structural",
+        "direction": "a-to-b",
+        "fired_this_week": false,
+        "weight_change": "unchanged",
+        "propagation_note": "MOU proximity keeping Houthi activation suppressed. Strategic silence maintained.",
+        "established": "2026-05-17",
+        "last_fired": "2026-05-17"
+      },
+      {
+        "node_a": "iran-hormuz",
+        "node_b": "nuclear-proliferation",
+        "weight": 9,
+        "connection_type": "direct-causal",
+        "direction": "bidirectional",
+        "fired_this_week": true,
+        "weight_change": "unchanged",
+        "propagation_note": "MOU nuclear language (never seek weapons, discuss disposal in 60-day window) is first tangible movement on this connection since war began.",
+        "established": "2026-05-17",
+        "last_fired": "2026-05-30"
+      },
+      {
+        "node_a": "china-taiwan-indopacific",
+        "node_b": "iran-hormuz",
+        "weight": 5,
+        "connection_type": "indirect-structural",
+        "direction": "bidirectional",
+        "fired_this_week": false,
+        "weight_change": "unchanged",
+        "propagation_note": "Taiwan arms sale delay from summit still in effect. No new movement this week.",
+        "established": "2026-05-17",
+        "last_fired": "2026-05-17"
+      },
+      {
+        "node_a": "us-domestic",
+        "node_b": "iran-hormuz",
+        "weight": 7,
+        "connection_type": "indirect-structural",
+        "direction": "bidirectional",
+        "fired_this_week": true,
+        "weight_change": "unchanged",
+        "propagation_note": "Trump decision bottleneck is this connection in action. Domestic gas price incentive favoring signature. Deal optimism already reducing political cost of signing.",
+        "established": "2026-05-17",
+        "last_fired": "2026-05-30"
+      },
+      {
+        "node_a": "us-domestic",
+        "node_b": "ukraine-russia",
+        "weight": 6,
+        "connection_type": "competitive",
+        "direction": "bidirectional",
+        "fired_this_week": true,
+        "weight_change": "unchanged",
+        "propagation_note": "US bandwidth shifting toward Iran deal completion. Ukraine negotiation bandwidth reduced but Ukraine not requiring active US input this week given battlefield shift.",
+        "established": "2026-05-17",
+        "last_fired": "2026-05-30"
+      },
+      {
+        "node_a": "russia-domestic",
+        "node_b": "global-energy",
+        "weight": 8,
+        "connection_type": "direct-causal",
+        "direction": "b-to-a",
+        "fired_this_week": true,
+        "weight_change": "unchanged",
+        "propagation_note": "Oil price decline is threatening Russian war economy sustainability. Connection firing in the negative direction for Russia.",
+        "established": "2026-05-17",
+        "last_fired": "2026-05-30"
+      },
+      {
+        "node_a": "russia-domestic",
+        "node_b": "ukraine-russia",
+        "weight": 9,
+        "connection_type": "direct-causal",
+        "direction": "a-to-b",
+        "fired_this_week": true,
+        "weight_change": "unchanged",
+        "propagation_note": "Oil revenue threat combined with battlefield reversal creating conditions for Russian behavioral change in Ukraine. Connection still strong but direction of influence beginning to shift.",
+        "established": "2026-05-17",
+        "last_fired": "2026-05-30"
+      },
+      {
+        "node_a": "sahel-west-africa",
+        "node_b": "global-financial",
+        "weight": 3,
+        "connection_type": "indirect-structural",
+        "direction": "a-to-b",
+        "fired_this_week": false,
+        "weight_change": "unchanged",
+        "propagation_note": "Not yet firing at significant level. Chinese extractive investment exposure is real structural risk but not yet visible in financial data.",
+        "established": "2026-05-17",
+        "last_fired": null
+      },
+      {
+        "node_a": "sudan-horn",
+        "node_b": "gcc-gulf",
+        "weight": 4,
+        "connection_type": "indirect-structural",
+        "direction": "bidirectional",
+        "fired_this_week": false,
+        "weight_change": "unchanged",
+        "propagation_note": "No new developments this week.",
+        "established": "2026-05-17",
+        "last_fired": "2026-05-17"
+      },
+      {
+        "node_a": "global-energy",
+        "node_b": "global-financial",
+        "weight": 7,
+        "connection_type": "direct-causal",
+        "direction": "a-to-b",
+        "fired_this_week": true,
+        "weight_change": "unchanged",
+        "propagation_note": "Energy price decline feeding financial market optimism but structural damage from closure period not yet healed.",
+        "established": "2026-05-17",
+        "last_fired": "2026-05-30"
+      },
+      {
+        "node_a": "nuclear-proliferation",
+        "node_b": "china-taiwan-indopacific",
+        "weight": 4,
+        "connection_type": "indirect-structural",
+        "direction": "unknown",
+        "fired_this_week": false,
+        "weight_change": "unchanged",
+        "propagation_note": "Not firing this week. Iran nuclear commitment in MOU is first tangible signal on this pathway but too early to assess Taiwan deterrence implications.",
+        "established": "2026-05-17",
+        "last_fired": null
+      },
+      {
+        "node_a": "south-asia",
+        "node_b": "iran-hormuz",
+        "weight": 5,
+        "connection_type": "indirect-structural",
+        "direction": "bidirectional",
+        "fired_this_week": true,
+        "weight_change": "new",
+        "weight_change_note": "New connection identified this week. Pakistan is the sole US-Iran back-channel. Pakistan is simultaneously managing India-Pakistan post-war fragile stability. Any re-escalation on India-Pakistan front collapses Iran negotiation architecture.",
+        "propagation_note": "Pakistan's dual-role creates structural single-point dependency. India ordering border demolitions May 28. Structural risk not imminent but real.",
+        "established": "2026-05-30",
+        "last_fired": "2026-05-30"
+      },
+      {
+        "node_a": "russia-domestic",
+        "node_b": "global-financial",
+        "weight": 5,
+        "connection_type": "indirect-structural",
+        "direction": "a-to-b",
+        "fired_this_week": true,
+        "weight_change": "new",
+        "weight_change_note": "New connection identified. If Iran MOU signed and Hormuz reopens, Russian oil revenue collapses toward EIA-forecast $79 Brent range, threatening war economy sustainability with downstream effects on Ukraine conflict duration and Russian institutional behavior.",
+        "propagation_note": "Oil revenue threat to Russia feeds through to Ukrainian conflict sustainability calculation and to Russian incentive to interfere with MOU signing process.",
+        "established": "2026-05-30",
+        "last_fired": "2026-05-30"
+      }
+    ],
+
+    "network_summary": {
+      "highest_activation_nodes": ["sahel-west-africa", "iran-hormuz", "sudan-horn", "nuclear-proliferation"],
+      "threshold_crossings_this_week": ["sahel-west-africa", "south-asia"],
+      "new_connections_identified": ["south-asia to iran-hormuz", "russia-domestic to global-financial"],
+      "dominant_signal_cluster": {
+        "nodes": ["iran-hormuz", "global-energy", "us-domestic", "nuclear-proliferation", "gcc-gulf"],
+        "cluster_description": "Iran resolution cluster moving from escalation to managed transition as MOU approaches signature.",
+        "propagation_pathway": "US-Iran negotiators agree text, Trump reviewing, oil markets pricing in deal, GCC states on alignment call, nuclear commitment language in MOU for first time."
+      },
+      "silent_nodes_of_note": ["yemen-red-sea", "turkey-eastern-med"],
+      "silent_node_significance": "Yemen strategic silence is Iran-managed activation reserve: if MOU fails, Bab el-Mandeb is the first escalation step. Turkey silence may be conservation of energy transit leverage for the 60-day permanent accord negotiation window."
+    }
+  },
+
+  "analytical_layer": {
+    "macro_thesis": "The governing dynamic of the week of May 30 2026 is a hinge moment in the systemic stress fracture: the primary driver of the fracture, Hormuz closure, is within a single signature decision of a formal pause architecture, while the secondary stresses (Sahel state collapse, Ukraine inflection, nuclear proliferation deferral, financial structural damage) continue developing in the bandwidth shadow. The stress fracture has not resolved. Its mode of expression has compressed from structural paralysis to deliberate choice. A signed MOU creates a 60-day window in which the fracture's secondary stresses will become visible in their full weight. A failed MOU returns the network to acute stress fracture with a depleted diplomatic architecture.",
+    "thesis_timeframe": "7-10 days to Trump signature decision. 60 days of managed transition if signed. 90-day window to determine whether permanent accord negotiations produce a viable framework or collapse.",
+    "thesis_continuity": "PIVOT",
+    "pace_assessment": "Faster than baseline anticipated. The MOU framework emerged within two weeks of baseline setting. The compression of the Iran resolution pathway to a single decision bottleneck is a faster development than the baseline structural analysis projected.",
+    "pattern_label": "Tactical Pause Before Next Phase",
+    "falsification_conditions": [
+      {
+        "id": "F1",
+        "condition": "China delivers specific actionable pressure on Tehran beyond diplomatic language",
+        "condition_type": "structural",
+        "status": "NOT TRIGGERED",
+        "note": "Summit produced trade normalization only."
+      },
+      {
+        "id": "F2",
+        "condition": "US and Iran sign MOU with specific Hormuz reopening mechanism",
+        "condition_type": "tactical",
+        "status": "PARTIAL",
+        "note": "Negotiator text agreed. Trump signature pending. Probability 60-70 percent in next 7 days."
+      },
+      {
+        "id": "F3",
+        "condition": "Russia formally accepts uranium custody role",
+        "condition_type": "structural",
+        "status": "NOT TRIGGERED",
+        "note": "Araghchi floated. Russia incentivized to delay not enable. Watch for back-channel language interference."
+      },
+      {
+        "id": "F4",
+        "condition": "JNIM-FLA forces reach functional control of Bamako or Mali junta forced to negotiate",
+        "condition_type": "structural",
+        "status": "APPROACHING",
+        "note": "Functional siege underway. Three of six roads blocked. Timeline 45-90 days for forced negotiation threshold."
+      },
+      {
+        "id": "F5",
+        "condition": "Houthi attack on Bab el-Mandeb creates dual-chokepoint scenario",
+        "condition_type": "structural",
+        "status": "NOT TRIGGERED",
+        "note": "Strategic silence maintained. MOU proximity reduces probability. Would trigger immediately if MOU collapses."
+      },
+      {
+        "id": "F6",
+        "condition": "Pakistan mediation architecture collapses due to India-Pakistan re-escalation",
+        "condition_type": "tactical",
+        "status": "NOT TRIGGERED",
+        "note": "Structural risk. India ordering border demolitions May 28. Single-point dependency. New this issue."
+      }
+    ]
+  },
+
+  "longitudinal_layer": {
+    "baseline_date": "2026-05-17",
+    "baseline_note": "Issue 003 documents the first major deviation from baseline: Iran-Hormuz falling from 9 to 7 on MOU proximity. Sahel escalating to 9. South-Asia baseline corrected upward from 4 to 6 due to undocumented May 2025 India-Pakistan war. Two new connections registered.",
+    "node_trend_summary": "Iran-Hormuz: falling. Sahel: rising to acute. Ukraine: slowly falling. South-Asia: rising (correction). Global-Energy: falling. All others: stable.",
+    "pattern_evolution": "Week 1 pattern was systemic stress fracture. Week 2 pattern is tactical pause before next phase. The fracture has not resolved but has compressed to a decision point.",
+    "connection_weight_changes": "Two new connections added: south-asia to iran-hormuz (weight 5), russia-domestic to global-financial (weight 5).",
+    "key_watch_items_for_issue_004": [
+      "Trump signature on MOU and timeline",
+      "IRGC behavior during mine clearance window",
+      "Russian back-channel interference in Pakistan mediation",
+      "JNIM siege tightening or easing around Bamako",
+      "India-Pakistan border stability through June",
+      "DPRK naval destroyer commissioning ceremony June",
+      "UAE post-OPEC production levels and Brent price trajectory",
+      "Whether 60-day permanent accord negotiations begin on schedule"
+    ]
+  }
+}
