@@ -13,8 +13,8 @@
       "close": 0.72
     },
     "Currencies: EUR/USD": {
-      "date": "2026-06-04",
-      "close": 1.161245
+      "date": "2026-06-05",
+      "close": 1.1523
     },
     "Currencies: Japanese Yen": {
       "date": "2026-06-04",
@@ -33,20 +33,20 @@
       "close": 3.67
     },
     "Energies: Unleaded Gas": {
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "close": 3.04
     },
     "Energies: Natural Gas": {
-      "date": "2026-06-04",
-      "close": 3.36
+      "date": "2026-06-05",
+      "close": 3.22
     },
     "Energies: RBOB Gasoline": {
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "close": 3.04
     },
     "Energies: Brent Crude": {
-      "date": "2026-06-04",
-      "close": 86.5
+      "date": "2026-06-05",
+      "close": 85.32
     },
     "Meats: Feeder Cattle": {
       "date": "2026-06-04",
@@ -105,8 +105,8 @@
       "close": 1900.8
     },
     "Metals: Silver": {
-      "date": "2026-06-04",
-      "close": 73.97
+      "date": "2026-06-05",
+      "close": 68
     },
     "Interest Rates: 3 Month SOFR": {
       "date": "2026-06-04",
@@ -1622,10 +1622,6 @@
     ],
     "Currencies: EUR/USD": [
       {
-        "date": "2025-12-07",
-        "close": 1.16391
-      },
-      {
         "date": "2025-12-08",
         "close": 1.164
       },
@@ -2340,6 +2336,10 @@
       {
         "date": "2026-06-04",
         "close": 1.161245
+      },
+      {
+        "date": "2026-06-05",
+        "close": 1.1523
       }
     ],
     "Currencies: Japanese Yen": [
@@ -4810,6 +4810,10 @@
       {
         "date": "2026-06-04",
         "close": 3.04
+      },
+      {
+        "date": "2026-06-05",
+        "close": 3.04
       }
     ],
     "Energies: Natural Gas": [
@@ -5304,6 +5308,10 @@
       {
         "date": "2026-06-04",
         "close": 3.36
+      },
+      {
+        "date": "2026-06-05",
+        "close": 3.22
       }
     ],
     "Energies: RBOB Gasoline": [
@@ -5798,6 +5806,10 @@
       {
         "date": "2026-06-04",
         "close": 3.04
+      },
+      {
+        "date": "2026-06-05",
+        "close": 3.04
       }
     ],
     "Energies: Brent Crude": [
@@ -6288,6 +6300,10 @@
       {
         "date": "2026-06-04",
         "close": 86.5
+      },
+      {
+        "date": "2026-06-05",
+        "close": 85.32
       }
     ],
     "Meats: Feeder Cattle": [
@@ -13690,6 +13706,10 @@
       {
         "date": "2026-06-04",
         "close": 73.97
+      },
+      {
+        "date": "2026-06-05",
+        "close": 68
       }
     ],
     "Interest Rates: 3 Month SOFR": [
@@ -17155,5 +17175,5 @@
       }
     ]
   },
-  "updated": "2026-06-06T02:33:41.424Z"
+  "updated": "2026-06-06T04:33:44.295Z"
 }
