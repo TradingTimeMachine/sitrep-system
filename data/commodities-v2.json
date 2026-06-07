@@ -66,7 +66,7 @@
     },
     "Grains and Soy: Soybean Oil": {
       "date": "2026-06-05",
-      "close": 74.14
+      "close": 74.12
     },
     "Grains and Soy: Corn": {
       "date": "2026-06-05",
@@ -82,7 +82,7 @@
     },
     "Grains and Soy: Soybeans": {
       "date": "2026-06-05",
-      "close": 1122.25
+      "close": 1121.5
     },
     "Grains and Soy: Soybeans Meal": {
       "date": "2026-06-05",
@@ -114,7 +114,7 @@
     },
     "Interest Rates: 5 Year T-Notes": {
       "date": "2026-06-05",
-      "close": 106.66
+      "close": 106.61
     },
     "Interest Rates: 2 Year T-Notes": {
       "date": "2026-06-05",
@@ -130,7 +130,7 @@
     },
     "Softs and Fibers: Rice": {
       "date": "2026-06-05",
-      "close": 12.46
+      "close": 12.4
     },
     "Softs and Fibers: Lumber": {
       "date": "2026-06-05",
@@ -8749,7 +8749,7 @@
       },
       {
         "date": "2026-06-05",
-        "close": 74.14
+        "close": 74.12
       }
     ],
     "Grains and Soy: Corn": [
@@ -10725,7 +10725,7 @@
       },
       {
         "date": "2026-06-05",
-        "close": 1122.25
+        "close": 1121.5
       }
     ],
     "Grains and Soy: Soybeans Meal": [
@@ -14677,7 +14677,7 @@
       },
       {
         "date": "2026-06-05",
-        "close": 106.66
+        "close": 106.61
       }
     ],
     "Interest Rates: 2 Year T-Notes": [
@@ -16653,7 +16653,7 @@
       },
       {
         "date": "2026-06-05",
-        "close": 12.46
+        "close": 12.4
       }
     ],
     "Softs and Fibers: Lumber": [
@@ -17151,5 +17151,5 @@
       }
     ]
   },
-  "updated": "2026-06-07T06:33:54.131Z"
+  "updated": "2026-06-07T08:33:40.111Z"
 }
