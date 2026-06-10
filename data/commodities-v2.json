@@ -21,7 +21,7 @@
       "close": 0.01
     },
     "Currencies: Swiss Franc": {
-      "date": "2026-06-08",
+      "date": "2026-06-09",
       "close": 1.25
     },
     "Energies: WTI Crude": {
@@ -65,16 +65,16 @@
       "close": 16.7
     },
     "Grains and Soy: Soybean Oil": {
-      "date": "2026-06-08",
-      "close": 74.69
+      "date": "2026-06-09",
+      "close": 74.98
     },
     "Grains and Soy: Corn": {
       "date": "2026-06-09",
       "close": 420
     },
     "Grains and Soy: Kansas City Wheat": {
-      "date": "2026-06-08",
-      "close": 628.75
+      "date": "2026-06-09",
+      "close": 630.75
     },
     "Grains and Soy: Oats": {
       "date": "2026-06-09",
@@ -85,12 +85,12 @@
       "close": 1114
     },
     "Grains and Soy: Soybeans Meal": {
-      "date": "2026-06-08",
-      "close": 302.7
+      "date": "2026-06-09",
+      "close": 301.4
     },
     "Grains and Soy: Wheat": {
-      "date": "2026-06-08",
-      "close": 583.25
+      "date": "2026-06-09",
+      "close": 585
     },
     "Metals: Gold": {
       "date": "2026-06-09",
@@ -106,27 +106,27 @@
     },
     "Metals: Silver": {
       "date": "2026-06-09",
-      "close": 65.32
+      "close": 65.24
     },
     "Interest Rates: 3 Month SOFR": {
-      "date": "2026-06-08",
-      "close": 96.04
+      "date": "2026-06-09",
+      "close": 96.07
     },
     "Interest Rates: 5 Year T-Notes": {
-      "date": "2026-06-08",
-      "close": 106.62
+      "date": "2026-06-09",
+      "close": 106.75
     },
     "Interest Rates: 2 Year T-Notes": {
-      "date": "2026-06-08",
-      "close": 102.99
+      "date": "2026-06-09",
+      "close": 103.05
     },
     "Interest Rates: 10 Year T-Bond": {
-      "date": "2026-06-08",
-      "close": 102.99
+      "date": "2026-06-09",
+      "close": 103.05
     },
     "Interest Rates: 30 Year T-Bond": {
-      "date": "2026-06-08",
-      "close": 111.5
+      "date": "2026-06-09",
+      "close": 111.84
     },
     "Softs and Fibers: Rice": {
       "date": "2026-06-09",
@@ -3303,6 +3303,10 @@
       },
       {
         "date": "2026-06-08",
+        "close": 1.25
+      },
+      {
+        "date": "2026-06-09",
         "close": 1.25
       }
     ],
@@ -8677,7 +8681,11 @@
       },
       {
         "date": "2026-06-08",
-        "close": 74.69
+        "close": 74.56
+      },
+      {
+        "date": "2026-06-09",
+        "close": 74.98
       }
     ],
     "Grains and Soy: Corn": [
@@ -9653,7 +9661,11 @@
       },
       {
         "date": "2026-06-08",
-        "close": 628.75
+        "close": 629.75
+      },
+      {
+        "date": "2026-06-09",
+        "close": 630.75
       }
     ],
     "Grains and Soy: Oats": [
@@ -11120,6 +11132,10 @@
       {
         "date": "2026-06-08",
         "close": 302.7
+      },
+      {
+        "date": "2026-06-09",
+        "close": 301.4
       }
     ],
     "Grains and Soy: Wheat": [
@@ -11606,6 +11622,10 @@
       {
         "date": "2026-06-08",
         "close": 583.25
+      },
+      {
+        "date": "2026-06-09",
+        "close": 585
       }
     ],
     "Metals: Gold": [
@@ -13561,11 +13581,11 @@
       },
       {
         "date": "2026-06-08",
-        "close": 68.27
+        "close": 68.58
       },
       {
         "date": "2026-06-09",
-        "close": 65.32
+        "close": 65.24
       }
     ],
     "Interest Rates: 3 Month SOFR": [
@@ -14052,6 +14072,10 @@
       {
         "date": "2026-06-08",
         "close": 96.04
+      },
+      {
+        "date": "2026-06-09",
+        "close": 96.07
       }
     ],
     "Interest Rates: 5 Year T-Notes": [
@@ -14538,6 +14562,10 @@
       {
         "date": "2026-06-08",
         "close": 106.62
+      },
+      {
+        "date": "2026-06-09",
+        "close": 106.75
       }
     ],
     "Interest Rates: 2 Year T-Notes": [
@@ -15024,6 +15052,10 @@
       {
         "date": "2026-06-08",
         "close": 102.99
+      },
+      {
+        "date": "2026-06-09",
+        "close": 103.05
       }
     ],
     "Interest Rates: 10 Year T-Bond": [
@@ -15510,6 +15542,10 @@
       {
         "date": "2026-06-08",
         "close": 102.99
+      },
+      {
+        "date": "2026-06-09",
+        "close": 103.05
       }
     ],
     "Interest Rates: 30 Year T-Bond": [
@@ -15996,6 +16032,10 @@
       {
         "date": "2026-06-08",
         "close": 111.5
+      },
+      {
+        "date": "2026-06-09",
+        "close": 111.84
       }
     ],
     "Softs and Fibers: Rice": [
@@ -16979,5 +17019,5 @@
       }
     ]
   },
-  "updated": "2026-06-10T06:33:47.458Z"
+  "updated": "2026-06-10T08:35:25.073Z"
 }
