@@ -1,7 +1,7 @@
 {
   "latest": {
     "Currencies: Australian Dollar": {
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "close": 0.7
     },
     "Currencies: British Pound": {
@@ -21,8 +21,8 @@
       "close": 0.01
     },
     "Currencies: Swiss Franc": {
-      "date": "2026-06-10",
-      "close": 1.25
+      "date": "2026-06-11",
+      "close": 1.26
     },
     "Energies: WTI Crude": {
       "date": "2026-06-11",
@@ -46,7 +46,7 @@
     },
     "Energies: Brent Crude": {
       "date": "2026-06-11",
-      "close": 83.53
+      "close": 85.54
     },
     "Meats: Feeder Cattle": {
       "date": "2026-06-11",
@@ -65,36 +65,36 @@
       "close": 16.62
     },
     "Grains and Soy: Soybean Oil": {
-      "date": "2026-06-10",
-      "close": 70.93
+      "date": "2026-06-11",
+      "close": 70.1
     },
     "Grains and Soy: Corn": {
       "date": "2026-06-11",
       "close": 439
     },
     "Grains and Soy: Kansas City Wheat": {
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "close": 640.25
     },
     "Grains and Soy: Oats": {
-      "date": "2026-06-10",
-      "close": 318.5
+      "date": "2026-06-11",
+      "close": 315
     },
     "Grains and Soy: Soybeans": {
-      "date": "2026-06-10",
-      "close": 1138.5
+      "date": "2026-06-11",
+      "close": 1134.25
     },
     "Grains and Soy: Soybeans Meal": {
-      "date": "2026-06-10",
-      "close": 305.5
+      "date": "2026-06-11",
+      "close": 304.7
     },
     "Grains and Soy: Wheat": {
-      "date": "2026-06-10",
-      "close": 587.25
+      "date": "2026-06-11",
+      "close": 586.25
     },
     "Metals: Gold": {
       "date": "2026-06-11",
-      "close": 4229.2
+      "close": 4114
     },
     "Metals: Copper": {
       "date": "2026-06-11",
@@ -113,24 +113,24 @@
       "close": 96.13
     },
     "Interest Rates: 5 Year T-Notes": {
-      "date": "2026-06-10",
-      "close": 106.7
+      "date": "2026-06-11",
+      "close": 107.06
     },
     "Interest Rates: 2 Year T-Notes": {
-      "date": "2026-06-10",
-      "close": 103.05
+      "date": "2026-06-11",
+      "close": 103.18
     },
     "Interest Rates: 10 Year T-Bond": {
-      "date": "2026-06-10",
-      "close": 103.05
+      "date": "2026-06-11",
+      "close": 103.18
     },
     "Interest Rates: 30 Year T-Bond": {
-      "date": "2026-06-10",
-      "close": 111.56
+      "date": "2026-06-11",
+      "close": 112.69
     },
     "Softs and Fibers: Rice": {
-      "date": "2026-06-10",
-      "close": 12.33
+      "date": "2026-06-11",
+      "close": 12.18
     },
     "Softs and Fibers: Lumber": {
       "date": "2026-06-11",
@@ -625,6 +625,10 @@
       },
       {
         "date": "2026-06-10",
+        "close": 0.7
+      },
+      {
+        "date": "2026-06-11",
         "close": 0.7
       }
     ],
@@ -3320,6 +3324,10 @@
       {
         "date": "2026-06-10",
         "close": 1.25
+      },
+      {
+        "date": "2026-06-11",
+        "close": 1.26
       }
     ],
     "Energies: WTI Crude": [
@@ -6275,11 +6283,11 @@
       },
       {
         "date": "2026-06-10",
-        "close": 88.49
+        "close": 87.04
       },
       {
         "date": "2026-06-11",
-        "close": 83.53
+        "close": 85.54
       }
     ],
     "Meats: Feeder Cattle": [
@@ -8738,6 +8746,10 @@
       {
         "date": "2026-06-10",
         "close": 70.93
+      },
+      {
+        "date": "2026-06-11",
+        "close": 70.1
       }
     ],
     "Grains and Soy: Corn": [
@@ -9722,6 +9734,10 @@
       {
         "date": "2026-06-10",
         "close": 640.25
+      },
+      {
+        "date": "2026-06-11",
+        "close": 640.25
       }
     ],
     "Grains and Soy: Oats": [
@@ -10212,6 +10228,10 @@
       {
         "date": "2026-06-10",
         "close": 318.5
+      },
+      {
+        "date": "2026-06-11",
+        "close": 315
       }
     ],
     "Grains and Soy: Soybeans": [
@@ -10702,6 +10722,10 @@
       {
         "date": "2026-06-10",
         "close": 1138.5
+      },
+      {
+        "date": "2026-06-11",
+        "close": 1134.25
       }
     ],
     "Grains and Soy: Soybeans Meal": [
@@ -11192,6 +11216,10 @@
       {
         "date": "2026-06-10",
         "close": 305.5
+      },
+      {
+        "date": "2026-06-11",
+        "close": 304.7
       }
     ],
     "Grains and Soy: Wheat": [
@@ -11681,7 +11709,11 @@
       },
       {
         "date": "2026-06-10",
-        "close": 587.25
+        "close": 587.5
+      },
+      {
+        "date": "2026-06-11",
+        "close": 586.25
       }
     ],
     "Metals: Gold": [
@@ -12175,7 +12207,7 @@
       },
       {
         "date": "2026-06-11",
-        "close": 4229.2
+        "close": 4114
       }
     ],
     "Metals: Copper": [
@@ -14147,7 +14179,7 @@
       },
       {
         "date": "2026-06-10",
-        "close": 96.03
+        "close": 96.06
       },
       {
         "date": "2026-06-11",
@@ -14642,6 +14674,10 @@
       {
         "date": "2026-06-10",
         "close": 106.7
+      },
+      {
+        "date": "2026-06-11",
+        "close": 107.06
       }
     ],
     "Interest Rates: 2 Year T-Notes": [
@@ -15132,6 +15168,10 @@
       {
         "date": "2026-06-10",
         "close": 103.05
+      },
+      {
+        "date": "2026-06-11",
+        "close": 103.18
       }
     ],
     "Interest Rates: 10 Year T-Bond": [
@@ -15622,6 +15662,10 @@
       {
         "date": "2026-06-10",
         "close": 103.05
+      },
+      {
+        "date": "2026-06-11",
+        "close": 103.18
       }
     ],
     "Interest Rates: 30 Year T-Bond": [
@@ -16112,6 +16156,10 @@
       {
         "date": "2026-06-10",
         "close": 111.56
+      },
+      {
+        "date": "2026-06-11",
+        "close": 112.69
       }
     ],
     "Softs and Fibers: Rice": [
@@ -16602,6 +16650,10 @@
       {
         "date": "2026-06-10",
         "close": 12.33
+      },
+      {
+        "date": "2026-06-11",
+        "close": 12.18
       }
     ],
     "Softs and Fibers: Lumber": [
@@ -17099,5 +17151,5 @@
       }
     ]
   },
-  "updated": "2026-06-12T06:34:22.019Z"
+  "updated": "2026-06-12T08:36:38.967Z"
 }
