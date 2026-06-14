@@ -22,7 +22,7 @@
     },
     "Currencies: Swiss Franc": {
       "date": "2026-06-12",
-      "close": 1.25
+      "close": 1.27
     },
     "Energies: WTI Crude": {
       "date": "2026-06-12",
@@ -62,7 +62,7 @@
     },
     "Meats: Milk Class III": {
       "date": "2026-06-12",
-      "close": 16.51
+      "close": 16.58
     },
     "Grains and Soy: Soybean Oil": {
       "date": "2026-06-12",
@@ -78,15 +78,15 @@
     },
     "Grains and Soy: Oats": {
       "date": "2026-06-12",
-      "close": 308.25
+      "close": 306
     },
     "Grains and Soy: Soybeans": {
       "date": "2026-06-12",
-      "close": 1132.75
+      "close": 1132
     },
     "Grains and Soy: Soybeans Meal": {
       "date": "2026-06-12",
-      "close": 304.6
+      "close": 304.8
     },
     "Grains and Soy: Wheat": {
       "date": "2026-06-12",
@@ -114,7 +114,7 @@
     },
     "Interest Rates: 5 Year T-Notes": {
       "date": "2026-06-12",
-      "close": 106.95
+      "close": 106.93
     },
     "Interest Rates: 2 Year T-Notes": {
       "date": "2026-06-12",
@@ -3327,7 +3327,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 1.25
+        "close": 1.27
       }
     ],
     "Energies: WTI Crude": [
@@ -8255,7 +8255,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 16.51
+        "close": 16.58
       }
     ],
     "Grains and Soy: Soybean Oil": [
@@ -10231,7 +10231,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 308.25
+        "close": 306
       }
     ],
     "Grains and Soy: Soybeans": [
@@ -10725,7 +10725,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 1132.75
+        "close": 1132
       }
     ],
     "Grains and Soy: Soybeans Meal": [
@@ -11219,7 +11219,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 304.6
+        "close": 304.8
       }
     ],
     "Grains and Soy: Wheat": [
@@ -14677,7 +14677,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 106.95
+        "close": 106.93
       }
     ],
     "Interest Rates: 2 Year T-Notes": [
@@ -17151,5 +17151,5 @@
       }
     ]
   },
-  "updated": "2026-06-14T06:37:24.545Z"
+  "updated": "2026-06-14T08:33:33.001Z"
 }
