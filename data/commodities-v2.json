@@ -10,7 +10,7 @@
     },
     "Currencies: Canadian Dollar": {
       "date": "2026-06-12",
-      "close": 0.71
+      "close": 0.72
     },
     "Currencies: EUR/USD": {
       "date": "2026-06-13",
@@ -30,7 +30,7 @@
     },
     "Energies: NY Harbor Heating Oil": {
       "date": "2026-06-12",
-      "close": 3.4
+      "close": 3.36
     },
     "Energies: Unleaded Gas": {
       "date": "2026-06-12",
@@ -46,19 +46,19 @@
     },
     "Energies: Brent Crude": {
       "date": "2026-06-12",
-      "close": 82.25
+      "close": 82.58
     },
     "Meats: Feeder Cattle": {
       "date": "2026-06-12",
-      "close": 357.05
+      "close": 357.43
     },
     "Meats: Live Cattle": {
       "date": "2026-06-12",
-      "close": 240.95
+      "close": 241.18
     },
     "Meats: Lean Hogs": {
       "date": "2026-06-12",
-      "close": 96.23
+      "close": 96.35
     },
     "Meats: Milk Class III": {
       "date": "2026-06-12",
@@ -66,15 +66,15 @@
     },
     "Grains and Soy: Soybean Oil": {
       "date": "2026-06-12",
-      "close": 69.64
+      "close": 69.67
     },
     "Grains and Soy: Corn": {
       "date": "2026-06-12",
-      "close": 440.75
+      "close": 440.25
     },
     "Grains and Soy: Kansas City Wheat": {
       "date": "2026-06-12",
-      "close": 641.25
+      "close": 640.75
     },
     "Grains and Soy: Oats": {
       "date": "2026-06-12",
@@ -90,7 +90,7 @@
     },
     "Grains and Soy: Wheat": {
       "date": "2026-06-12",
-      "close": 585.25
+      "close": 595.75
     },
     "Metals: Gold": {
       "date": "2026-06-12",
@@ -102,7 +102,7 @@
     },
     "Metals: Platinum": {
       "date": "2026-06-12",
-      "close": 1720.6
+      "close": 1712.2
     },
     "Metals: Silver": {
       "date": "2026-06-12",
@@ -126,11 +126,11 @@
     },
     "Interest Rates: 30 Year T-Bond": {
       "date": "2026-06-12",
-      "close": 112.44
+      "close": 112.38
     },
     "Softs and Fibers: Rice": {
       "date": "2026-06-12",
-      "close": 12.06
+      "close": 12.04
     },
     "Softs and Fibers: Lumber": {
       "date": "2026-06-12",
@@ -1617,7 +1617,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 0.71
+        "close": 0.72
       }
     ],
     "Currencies: EUR/USD": [
@@ -4315,7 +4315,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 3.4
+        "close": 3.36
       }
     ],
     "Energies: Unleaded Gas": [
@@ -6287,7 +6287,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 82.25
+        "close": 82.58
       }
     ],
     "Meats: Feeder Cattle": [
@@ -6781,7 +6781,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 357.05
+        "close": 357.43
       }
     ],
     "Meats: Live Cattle": [
@@ -7275,7 +7275,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 240.95
+        "close": 241.18
       }
     ],
     "Meats: Lean Hogs": [
@@ -7769,7 +7769,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 96.23
+        "close": 96.35
       }
     ],
     "Meats: Milk Class III": [
@@ -8749,7 +8749,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 69.64
+        "close": 69.67
       }
     ],
     "Grains and Soy: Corn": [
@@ -9243,7 +9243,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 440.75
+        "close": 440.25
       }
     ],
     "Grains and Soy: Kansas City Wheat": [
@@ -9737,7 +9737,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 641.25
+        "close": 640.75
       }
     ],
     "Grains and Soy: Oats": [
@@ -11713,7 +11713,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 585.25
+        "close": 595.75
       }
     ],
     "Metals: Gold": [
@@ -13195,7 +13195,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 1720.6
+        "close": 1712.2
       }
     ],
     "Metals: Silver": [
@@ -16159,7 +16159,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 112.44
+        "close": 112.38
       }
     ],
     "Softs and Fibers: Rice": [
@@ -16653,7 +16653,7 @@
       },
       {
         "date": "2026-06-12",
-        "close": 12.06
+        "close": 12.04
       }
     ],
     "Softs and Fibers: Lumber": [
@@ -17151,5 +17151,5 @@
       }
     ]
   },
-  "updated": "2026-06-14T04:33:34.486Z"
+  "updated": "2026-06-14T06:37:24.545Z"
 }
