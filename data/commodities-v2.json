@@ -1,11 +1,11 @@
 {
   "latest": {
     "Currencies: Australian Dollar": {
-      "date": "2026-06-12",
-      "close": 0.7
+      "date": "2026-06-15",
+      "close": 0.71
     },
     "Currencies: British Pound": {
-      "date": "2026-06-12",
+      "date": "2026-06-15",
       "close": 1.34
     },
     "Currencies: Canadian Dollar": {
@@ -53,16 +53,16 @@
       "close": 361.38
     },
     "Meats: Live Cattle": {
-      "date": "2026-06-12",
-      "close": 241.18
+      "date": "2026-06-15",
+      "close": 243.38
     },
     "Meats: Lean Hogs": {
       "date": "2026-06-15",
       "close": 95.73
     },
     "Meats: Milk Class III": {
-      "date": "2026-06-12",
-      "close": 16.58
+      "date": "2026-06-15",
+      "close": 16.42
     },
     "Grains and Soy: Soybean Oil": {
       "date": "2026-06-15",
@@ -81,12 +81,12 @@
       "close": 298
     },
     "Grains and Soy: Soybeans": {
-      "date": "2026-06-12",
-      "close": 1132
+      "date": "2026-06-15",
+      "close": 1134.5
     },
     "Grains and Soy: Soybeans Meal": {
-      "date": "2026-06-12",
-      "close": 304.8
+      "date": "2026-06-15",
+      "close": 305.5
     },
     "Grains and Soy: Wheat": {
       "date": "2026-06-15",
@@ -125,8 +125,8 @@
       "close": 103.16
     },
     "Interest Rates: 30 Year T-Bond": {
-      "date": "2026-06-12",
-      "close": 112.38
+      "date": "2026-06-15",
+      "close": 112.44
     },
     "Softs and Fibers: Rice": {
       "date": "2026-06-15",
@@ -622,6 +622,10 @@
       {
         "date": "2026-06-12",
         "close": 0.7
+      },
+      {
+        "date": "2026-06-15",
+        "close": 0.71
       }
     ],
     "Currencies: British Pound": [
@@ -1107,6 +1111,10 @@
       },
       {
         "date": "2026-06-12",
+        "close": 1.34
+      },
+      {
+        "date": "2026-06-15",
         "close": 1.34
       }
     ],
@@ -7212,6 +7220,10 @@
       {
         "date": "2026-06-12",
         "close": 241.18
+      },
+      {
+        "date": "2026-06-15",
+        "close": 243.38
       }
     ],
     "Meats: Lean Hogs": [
@@ -8180,6 +8192,10 @@
       {
         "date": "2026-06-12",
         "close": 16.58
+      },
+      {
+        "date": "2026-06-15",
+        "close": 16.42
       }
     ],
     "Grains and Soy: Soybean Oil": [
@@ -10626,6 +10642,10 @@
       {
         "date": "2026-06-12",
         "close": 1132
+      },
+      {
+        "date": "2026-06-15",
+        "close": 1134.5
       }
     ],
     "Grains and Soy: Soybeans Meal": [
@@ -11112,6 +11132,10 @@
       {
         "date": "2026-06-12",
         "close": 304.8
+      },
+      {
+        "date": "2026-06-15",
+        "close": 305.5
       }
     ],
     "Grains and Soy: Wheat": [
@@ -16008,6 +16032,10 @@
       {
         "date": "2026-06-12",
         "close": 112.38
+      },
+      {
+        "date": "2026-06-15",
+        "close": 112.44
       }
     ],
     "Softs and Fibers: Rice": [
@@ -16991,5 +17019,5 @@
       }
     ]
   },
-  "updated": "2026-06-16T06:33:44.884Z"
+  "updated": "2026-06-16T08:34:16.070Z"
 }
