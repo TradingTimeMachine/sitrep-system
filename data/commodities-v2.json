@@ -1,12 +1,12 @@
 {
   "latest": {
     "Currencies: Australian Dollar": {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "close": 0.7
     },
     "Currencies: British Pound": {
-      "date": "2026-06-17",
-      "close": 1.33
+      "date": "2026-06-18",
+      "close": 1.32
     },
     "Currencies: Canadian Dollar": {
       "date": "2026-06-18",
@@ -57,36 +57,36 @@
       "close": 246.75
     },
     "Meats: Lean Hogs": {
-      "date": "2026-06-17",
-      "close": 96.55
+      "date": "2026-06-18",
+      "close": 96.73
     },
     "Meats: Milk Class III": {
       "date": "2026-06-18",
       "close": 16.24
     },
     "Grains and Soy: Soybean Oil": {
-      "date": "2026-06-17",
-      "close": 67.17
+      "date": "2026-06-18",
+      "close": 65.94
     },
     "Grains and Soy: Corn": {
-      "date": "2026-06-17",
-      "close": 448.75
+      "date": "2026-06-18",
+      "close": 444.25
     },
     "Grains and Soy: Kansas City Wheat": {
-      "date": "2026-06-17",
-      "close": 660.75
+      "date": "2026-06-18",
+      "close": 650
     },
     "Grains and Soy: Oats": {
-      "date": "2026-06-17",
-      "close": 306.5
+      "date": "2026-06-18",
+      "close": 314
     },
     "Grains and Soy: Soybeans": {
       "date": "2026-06-18",
       "close": 1142
     },
     "Grains and Soy: Soybeans Meal": {
-      "date": "2026-06-17",
-      "close": 306
+      "date": "2026-06-18",
+      "close": 303.3
     },
     "Grains and Soy: Wheat": {
       "date": "2026-06-18",
@@ -113,24 +113,24 @@
       "close": 95.91
     },
     "Interest Rates: 5 Year T-Notes": {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "close": 106.84
     },
     "Interest Rates: 2 Year T-Notes": {
-      "date": "2026-06-17",
-      "close": 103
+      "date": "2026-06-18",
+      "close": 102.98
     },
     "Interest Rates: 10 Year T-Bond": {
-      "date": "2026-06-17",
-      "close": 103
+      "date": "2026-06-18",
+      "close": 102.98
     },
     "Interest Rates: 30 Year T-Bond": {
       "date": "2026-06-18",
       "close": 113.41
     },
     "Softs and Fibers: Rice": {
-      "date": "2026-06-17",
-      "close": 11.93
+      "date": "2026-06-18",
+      "close": 12.21
     },
     "Softs and Fibers: Lumber": {
       "date": "2026-06-18",
@@ -626,6 +626,10 @@
       {
         "date": "2026-06-17",
         "close": 0.7
+      },
+      {
+        "date": "2026-06-18",
+        "close": 0.7
       }
     ],
     "Currencies: British Pound": [
@@ -1116,6 +1120,10 @@
       {
         "date": "2026-06-17",
         "close": 1.33
+      },
+      {
+        "date": "2026-06-18",
+        "close": 1.32
       }
     ],
     "Currencies: Canadian Dollar": [
@@ -7757,7 +7765,11 @@
       },
       {
         "date": "2026-06-17",
-        "close": 96.55
+        "close": 96.5
+      },
+      {
+        "date": "2026-06-18",
+        "close": 96.73
       }
     ],
     "Meats: Milk Class III": [
@@ -8734,6 +8746,10 @@
       {
         "date": "2026-06-17",
         "close": 67.17
+      },
+      {
+        "date": "2026-06-18",
+        "close": 65.94
       }
     ],
     "Grains and Soy: Corn": [
@@ -9224,6 +9240,10 @@
       {
         "date": "2026-06-17",
         "close": 448.75
+      },
+      {
+        "date": "2026-06-18",
+        "close": 444.25
       }
     ],
     "Grains and Soy: Kansas City Wheat": [
@@ -9713,7 +9733,11 @@
       },
       {
         "date": "2026-06-17",
-        "close": 660.75
+        "close": 659.75
+      },
+      {
+        "date": "2026-06-18",
+        "close": 650
       }
     ],
     "Grains and Soy: Oats": [
@@ -10204,6 +10228,10 @@
       {
         "date": "2026-06-17",
         "close": 306.5
+      },
+      {
+        "date": "2026-06-18",
+        "close": 314
       }
     ],
     "Grains and Soy: Soybeans": [
@@ -11187,7 +11215,11 @@
       },
       {
         "date": "2026-06-17",
-        "close": 306
+        "close": 306.1
+      },
+      {
+        "date": "2026-06-18",
+        "close": 303.3
       }
     ],
     "Grains and Soy: Wheat": [
@@ -14642,6 +14674,10 @@
       {
         "date": "2026-06-17",
         "close": 106.84
+      },
+      {
+        "date": "2026-06-18",
+        "close": 106.84
       }
     ],
     "Interest Rates: 2 Year T-Notes": [
@@ -15132,6 +15168,10 @@
       {
         "date": "2026-06-17",
         "close": 103
+      },
+      {
+        "date": "2026-06-18",
+        "close": 102.98
       }
     ],
     "Interest Rates: 10 Year T-Bond": [
@@ -15622,6 +15662,10 @@
       {
         "date": "2026-06-17",
         "close": 103
+      },
+      {
+        "date": "2026-06-18",
+        "close": 102.98
       }
     ],
     "Interest Rates: 30 Year T-Bond": [
@@ -16606,6 +16650,10 @@
       {
         "date": "2026-06-17",
         "close": 11.93
+      },
+      {
+        "date": "2026-06-18",
+        "close": 12.21
       }
     ],
     "Softs and Fibers: Lumber": [
@@ -17103,5 +17151,5 @@
       }
     ]
   },
-  "updated": "2026-06-19T06:37:07.706Z"
+  "updated": "2026-06-19T08:34:18.557Z"
 }
