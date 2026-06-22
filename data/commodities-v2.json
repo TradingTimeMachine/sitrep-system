@@ -13,8 +13,8 @@
       "close": 0.71
     },
     "Currencies: EUR/USD": {
-      "date": "2026-06-20",
-      "close": 1.14725
+      "date": "2026-06-21",
+      "close": 1.14615
     },
     "Currencies: Japanese Yen": {
       "date": "2026-06-18",
@@ -139,10 +139,6 @@
   },
   "series": {
     "Currencies: Australian Dollar": [
-      {
-        "date": "2025-12-23",
-        "close": 0.67
-      },
       {
         "date": "2025-12-24",
         "close": 0.67
@@ -630,10 +626,6 @@
     ],
     "Currencies: British Pound": [
       {
-        "date": "2025-12-23",
-        "close": 1.35
-      },
-      {
         "date": "2025-12-24",
         "close": 1.35
       },
@@ -1119,10 +1111,6 @@
       }
     ],
     "Currencies: Canadian Dollar": [
-      {
-        "date": "2025-12-23",
-        "close": 0.73
-      },
       {
         "date": "2025-12-24",
         "close": 0.73
@@ -1610,10 +1598,6 @@
     ],
     "Currencies: EUR/USD": [
       {
-        "date": "2025-12-23",
-        "close": 1.17942
-      },
-      {
         "date": "2025-12-24",
         "close": 1.1773
       },
@@ -1679,10 +1663,6 @@
       },
       {
         "date": "2026-01-09",
-        "close": 1.1634
-      },
-      {
-        "date": "2026-01-10",
         "close": 1.1634
       },
       {
@@ -2323,18 +2303,18 @@
       },
       {
         "date": "2026-06-19",
-        "close": 1.14775
+        "close": 1.1476
       },
       {
         "date": "2026-06-20",
         "close": 1.14725
+      },
+      {
+        "date": "2026-06-21",
+        "close": 1.14615
       }
     ],
     "Currencies: Japanese Yen": [
-      {
-        "date": "2025-12-23",
-        "close": 0.01
-      },
       {
         "date": "2025-12-24",
         "close": 0.01
@@ -2822,10 +2802,6 @@
     ],
     "Currencies: Swiss Franc": [
       {
-        "date": "2025-12-23",
-        "close": 1.28
-      },
-      {
         "date": "2025-12-24",
         "close": 1.28
       },
@@ -3311,10 +3287,6 @@
       }
     ],
     "Energies: WTI Crude": [
-      {
-        "date": "2025-12-23",
-        "close": 58.38
-      },
       {
         "date": "2025-12-24",
         "close": 58.35
@@ -3802,10 +3774,6 @@
     ],
     "Energies: NY Harbor Heating Oil": [
       {
-        "date": "2025-12-23",
-        "close": 2.18
-      },
-      {
         "date": "2025-12-24",
         "close": 2.15
       },
@@ -4291,10 +4259,6 @@
       }
     ],
     "Energies: Unleaded Gas": [
-      {
-        "date": "2025-12-23",
-        "close": 1.75
-      },
       {
         "date": "2025-12-24",
         "close": 1.75
@@ -4782,10 +4746,6 @@
     ],
     "Energies: Natural Gas": [
       {
-        "date": "2025-12-23",
-        "close": 3.28
-      },
-      {
         "date": "2025-12-24",
         "close": 3.21
       },
@@ -5271,10 +5231,6 @@
       }
     ],
     "Energies: RBOB Gasoline": [
-      {
-        "date": "2025-12-23",
-        "close": 1.75
-      },
       {
         "date": "2025-12-24",
         "close": 1.75
@@ -5762,10 +5718,6 @@
     ],
     "Energies: Brent Crude": [
       {
-        "date": "2025-12-23",
-        "close": 61.3
-      },
-      {
         "date": "2025-12-24",
         "close": 61.32
       },
@@ -6247,10 +6199,6 @@
       }
     ],
     "Meats: Feeder Cattle": [
-      {
-        "date": "2025-12-23",
-        "close": 339
-      },
       {
         "date": "2025-12-24",
         "close": 338.8
@@ -6738,10 +6686,6 @@
     ],
     "Meats: Live Cattle": [
       {
-        "date": "2025-12-23",
-        "close": 230
-      },
-      {
         "date": "2025-12-24",
         "close": 228.55
       },
@@ -7227,10 +7171,6 @@
       }
     ],
     "Meats: Lean Hogs": [
-      {
-        "date": "2025-12-23",
-        "close": 85.98
-      },
       {
         "date": "2025-12-24",
         "close": 85.05
@@ -7718,10 +7658,6 @@
     ],
     "Meats: Milk Class III": [
       {
-        "date": "2025-12-23",
-        "close": 15.4
-      },
-      {
         "date": "2025-12-24",
         "close": 15.28
       },
@@ -8199,10 +8135,6 @@
       }
     ],
     "Grains and Soy: Soybean Oil": [
-      {
-        "date": "2025-12-23",
-        "close": 48.79
-      },
       {
         "date": "2025-12-24",
         "close": 49.52
@@ -8690,10 +8622,6 @@
     ],
     "Grains and Soy: Corn": [
       {
-        "date": "2025-12-23",
-        "close": 447.5
-      },
-      {
         "date": "2025-12-24",
         "close": 451
       },
@@ -9179,10 +9107,6 @@
       }
     ],
     "Grains and Soy: Kansas City Wheat": [
-      {
-        "date": "2025-12-23",
-        "close": 528
-      },
       {
         "date": "2025-12-24",
         "close": 534
@@ -9670,10 +9594,6 @@
     ],
     "Grains and Soy: Oats": [
       {
-        "date": "2025-12-23",
-        "close": 293.5
-      },
-      {
         "date": "2025-12-24",
         "close": 304
       },
@@ -10159,10 +10079,6 @@
       }
     ],
     "Grains and Soy: Soybeans": [
-      {
-        "date": "2025-12-23",
-        "close": 1063.75
-      },
       {
         "date": "2025-12-24",
         "close": 1076.5
@@ -10650,10 +10566,6 @@
     ],
     "Grains and Soy: Soybeans Meal": [
       {
-        "date": "2025-12-23",
-        "close": 304.2
-      },
-      {
         "date": "2025-12-24",
         "close": 308.1
       },
@@ -11139,10 +11051,6 @@
       }
     ],
     "Grains and Soy: Wheat": [
-      {
-        "date": "2025-12-23",
-        "close": 517
-      },
       {
         "date": "2025-12-24",
         "close": 521.75
@@ -11630,10 +11538,6 @@
     ],
     "Metals: Gold": [
       {
-        "date": "2025-12-23",
-        "close": 4505.7
-      },
-      {
         "date": "2025-12-24",
         "close": 4502.8
       },
@@ -12119,10 +12023,6 @@
       }
     ],
     "Metals: Copper": [
-      {
-        "date": "2025-12-23",
-        "close": 5.55
-      },
       {
         "date": "2025-12-24",
         "close": 5.58
@@ -12610,10 +12510,6 @@
     ],
     "Metals: Platinum": [
       {
-        "date": "2025-12-23",
-        "close": 2311.3
-      },
-      {
         "date": "2025-12-24",
         "close": 2274
       },
@@ -13099,10 +12995,6 @@
       }
     ],
     "Metals: Silver": [
-      {
-        "date": "2025-12-23",
-        "close": 71.14
-      },
       {
         "date": "2025-12-24",
         "close": 71.69
@@ -13590,10 +13482,6 @@
     ],
     "Interest Rates: 3 Month SOFR": [
       {
-        "date": "2025-12-23",
-        "close": 96.29
-      },
-      {
         "date": "2025-12-24",
         "close": 96.29
       },
@@ -14079,10 +13967,6 @@
       }
     ],
     "Interest Rates: 5 Year T-Notes": [
-      {
-        "date": "2025-12-23",
-        "close": 109.16
-      },
       {
         "date": "2025-12-24",
         "close": 109.28
@@ -14570,10 +14454,6 @@
     ],
     "Interest Rates: 2 Year T-Notes": [
       {
-        "date": "2025-12-23",
-        "close": 104.29
-      },
-      {
         "date": "2025-12-24",
         "close": 104.33
       },
@@ -15059,10 +14939,6 @@
       }
     ],
     "Interest Rates: 10 Year T-Bond": [
-      {
-        "date": "2025-12-23",
-        "close": 104.29
-      },
       {
         "date": "2025-12-24",
         "close": 104.33
@@ -15550,10 +15426,6 @@
     ],
     "Interest Rates: 30 Year T-Bond": [
       {
-        "date": "2025-12-23",
-        "close": 115.28
-      },
-      {
         "date": "2025-12-24",
         "close": 115.78
       },
@@ -16039,10 +15911,6 @@
       }
     ],
     "Softs and Fibers: Rice": [
-      {
-        "date": "2025-12-23",
-        "close": 10.15
-      },
       {
         "date": "2025-12-24",
         "close": 10.26
@@ -16530,10 +16398,6 @@
     ],
     "Softs and Fibers: Lumber": [
       {
-        "date": "2025-12-23",
-        "close": 71.3
-      },
-      {
         "date": "2025-12-24",
         "close": 71.52
       },
@@ -17019,5 +16883,5 @@
       }
     ]
   },
-  "updated": "2026-06-22T00:37:12.875Z"
+  "updated": "2026-06-22T04:35:49.893Z"
 }
