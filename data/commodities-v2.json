@@ -5,7 +5,7 @@
       "close": 0.7
     },
     "Currencies: British Pound": {
-      "date": "2026-06-18",
+      "date": "2026-06-22",
       "close": 1.32
     },
     "Currencies: Canadian Dollar": {
@@ -49,8 +49,8 @@
       "close": 75.96
     },
     "Meats: Feeder Cattle": {
-      "date": "2026-06-18",
-      "close": 366.6
+      "date": "2026-06-22",
+      "close": 371.08
     },
     "Meats: Live Cattle": {
       "date": "2026-06-22",
@@ -69,8 +69,8 @@
       "close": 66.83
     },
     "Grains and Soy: Corn": {
-      "date": "2026-06-18",
-      "close": 444
+      "date": "2026-06-22",
+      "close": 439
     },
     "Grains and Soy: Kansas City Wheat": {
       "date": "2026-06-22",
@@ -81,20 +81,20 @@
       "close": 302.5
     },
     "Grains and Soy: Soybeans": {
-      "date": "2026-06-18",
-      "close": 1142.75
+      "date": "2026-06-22",
+      "close": 1141.5
     },
     "Grains and Soy: Soybeans Meal": {
-      "date": "2026-06-18",
-      "close": 303.3
+      "date": "2026-06-22",
+      "close": 303.7
     },
     "Grains and Soy: Wheat": {
-      "date": "2026-06-18",
-      "close": 614
+      "date": "2026-06-22",
+      "close": 607
     },
     "Metals: Gold": {
       "date": "2026-06-22",
-      "close": 4210.4
+      "close": 4202.7
     },
     "Metals: Copper": {
       "date": "2026-06-22",
@@ -113,8 +113,8 @@
       "close": 95.88
     },
     "Interest Rates: 5 Year T-Notes": {
-      "date": "2026-06-18",
-      "close": 106.88
+      "date": "2026-06-22",
+      "close": 106.59
     },
     "Interest Rates: 2 Year T-Notes": {
       "date": "2026-06-22",
@@ -125,12 +125,12 @@
       "close": 102.88
     },
     "Interest Rates: 30 Year T-Bond": {
-      "date": "2026-06-18",
-      "close": 113.38
+      "date": "2026-06-22",
+      "close": 112.59
     },
     "Softs and Fibers: Rice": {
-      "date": "2026-06-18",
-      "close": 12.57
+      "date": "2026-06-22",
+      "close": 12.86
     },
     "Softs and Fibers: Lumber": {
       "date": "2026-06-22",
@@ -1103,6 +1103,10 @@
       },
       {
         "date": "2026-06-18",
+        "close": 1.32
+      },
+      {
+        "date": "2026-06-22",
         "close": 1.32
       }
     ],
@@ -6678,6 +6682,10 @@
       {
         "date": "2026-06-18",
         "close": 366.6
+      },
+      {
+        "date": "2026-06-22",
+        "close": 371.08
       }
     ],
     "Meats: Live Cattle": [
@@ -9096,6 +9104,10 @@
       {
         "date": "2026-06-18",
         "close": 444
+      },
+      {
+        "date": "2026-06-22",
+        "close": 439
       }
     ],
     "Grains and Soy: Kansas City Wheat": [
@@ -10550,6 +10562,10 @@
       {
         "date": "2026-06-18",
         "close": 1142.75
+      },
+      {
+        "date": "2026-06-22",
+        "close": 1141.5
       }
     ],
     "Grains and Soy: Soybeans Meal": [
@@ -11032,6 +11048,10 @@
       {
         "date": "2026-06-18",
         "close": 303.3
+      },
+      {
+        "date": "2026-06-22",
+        "close": 303.7
       }
     ],
     "Grains and Soy: Wheat": [
@@ -11514,6 +11534,10 @@
       {
         "date": "2026-06-18",
         "close": 614
+      },
+      {
+        "date": "2026-06-22",
+        "close": 607
       }
     ],
     "Metals: Gold": [
@@ -11999,7 +12023,7 @@
       },
       {
         "date": "2026-06-22",
-        "close": 4210.4
+        "close": 4202.7
       }
     ],
     "Metals: Copper": [
@@ -14426,6 +14450,10 @@
       {
         "date": "2026-06-18",
         "close": 106.88
+      },
+      {
+        "date": "2026-06-22",
+        "close": 106.59
       }
     ],
     "Interest Rates: 2 Year T-Notes": [
@@ -15880,6 +15908,10 @@
       {
         "date": "2026-06-18",
         "close": 113.38
+      },
+      {
+        "date": "2026-06-22",
+        "close": 112.59
       }
     ],
     "Softs and Fibers: Rice": [
@@ -16362,6 +16394,10 @@
       {
         "date": "2026-06-18",
         "close": 12.57
+      },
+      {
+        "date": "2026-06-22",
+        "close": 12.86
       }
     ],
     "Softs and Fibers: Lumber": [
@@ -16851,5 +16887,5 @@
       }
     ]
   },
-  "updated": "2026-06-23T06:34:49.787Z"
+  "updated": "2026-06-23T08:33:53.150Z"
 }
