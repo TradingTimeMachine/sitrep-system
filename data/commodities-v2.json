@@ -13,8 +13,8 @@
       "close": 0.71
     },
     "Currencies: EUR/USD": {
-      "date": "2026-06-22",
-      "close": 1.14262
+      "date": "2026-06-23",
+      "close": 1.137955
     },
     "Currencies: Japanese Yen": {
       "date": "2026-06-22",
@@ -29,20 +29,20 @@
       "close": 73.86
     },
     "Energies: NY Harbor Heating Oil": {
-      "date": "2026-06-22",
-      "close": 3.07
+      "date": "2026-06-23",
+      "close": 3.12
     },
     "Energies: Unleaded Gas": {
-      "date": "2026-06-22",
-      "close": 2.9
+      "date": "2026-06-23",
+      "close": 2.85
     },
     "Energies: Natural Gas": {
       "date": "2026-06-22",
       "close": 3.22
     },
     "Energies: RBOB Gasoline": {
-      "date": "2026-06-22",
-      "close": 2.9
+      "date": "2026-06-23",
+      "close": 2.85
     },
     "Energies: Brent Crude": {
       "date": "2026-06-22",
@@ -93,20 +93,20 @@
       "close": 607
     },
     "Metals: Gold": {
-      "date": "2026-06-22",
-      "close": 4202.7
+      "date": "2026-06-23",
+      "close": 4129.1
     },
     "Metals: Copper": {
-      "date": "2026-06-22",
-      "close": 6.43
+      "date": "2026-06-23",
+      "close": 6.19
     },
     "Metals: Platinum": {
       "date": "2026-06-22",
       "close": 1699.4
     },
     "Metals: Silver": {
-      "date": "2026-06-22",
-      "close": 66.07
+      "date": "2026-06-23",
+      "close": 62.13
     },
     "Interest Rates: 3 Month SOFR": {
       "date": "2026-06-22",
@@ -1598,10 +1598,6 @@
     ],
     "Currencies: EUR/USD": [
       {
-        "date": "2025-12-25",
-        "close": 1.17832
-      },
-      {
         "date": "2025-12-26",
         "close": 1.1772
       },
@@ -2316,6 +2312,10 @@
       {
         "date": "2026-06-22",
         "close": 1.14262
+      },
+      {
+        "date": "2026-06-23",
+        "close": 1.137955
       }
     ],
     "Currencies: Japanese Yen": [
@@ -4260,6 +4260,10 @@
       {
         "date": "2026-06-22",
         "close": 3.07
+      },
+      {
+        "date": "2026-06-23",
+        "close": 3.12
       }
     ],
     "Energies: Unleaded Gas": [
@@ -4746,6 +4750,10 @@
       {
         "date": "2026-06-22",
         "close": 2.9
+      },
+      {
+        "date": "2026-06-23",
+        "close": 2.85
       }
     ],
     "Energies: Natural Gas": [
@@ -5718,6 +5726,10 @@
       {
         "date": "2026-06-22",
         "close": 2.9
+      },
+      {
+        "date": "2026-06-23",
+        "close": 2.85
       }
     ],
     "Energies: Brent Crude": [
@@ -12024,6 +12036,10 @@
       {
         "date": "2026-06-22",
         "close": 4202.7
+      },
+      {
+        "date": "2026-06-23",
+        "close": 4129.1
       }
     ],
     "Metals: Copper": [
@@ -12510,6 +12526,10 @@
       {
         "date": "2026-06-22",
         "close": 6.43
+      },
+      {
+        "date": "2026-06-23",
+        "close": 6.19
       }
     ],
     "Metals: Platinum": [
@@ -13482,6 +13502,10 @@
       {
         "date": "2026-06-22",
         "close": 66.07
+      },
+      {
+        "date": "2026-06-23",
+        "close": 62.13
       }
     ],
     "Interest Rates: 3 Month SOFR": [
@@ -16891,5 +16915,5 @@
       }
     ]
   },
-  "updated": "2026-06-24T02:35:39.337Z"
+  "updated": "2026-06-24T04:33:33.301Z"
 }
