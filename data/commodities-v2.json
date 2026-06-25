@@ -25,8 +25,8 @@
       "close": 1.24
     },
     "Energies: WTI Crude": {
-      "date": "2026-06-23",
-      "close": 73.14
+      "date": "2026-06-24",
+      "close": 70.34
     },
     "Energies: NY Harbor Heating Oil": {
       "date": "2026-06-24",
@@ -45,12 +45,12 @@
       "close": 2.78
     },
     "Energies: Brent Crude": {
-      "date": "2026-06-23",
-      "close": 75.48
+      "date": "2026-06-24",
+      "close": 72.69
     },
     "Meats: Feeder Cattle": {
-      "date": "2026-06-23",
-      "close": 368.15
+      "date": "2026-06-24",
+      "close": 373.23
     },
     "Meats: Live Cattle": {
       "date": "2026-06-24",
@@ -69,8 +69,8 @@
       "close": 65.68
     },
     "Grains and Soy: Corn": {
-      "date": "2026-06-23",
-      "close": 437.25
+      "date": "2026-06-24",
+      "close": 433.75
     },
     "Grains and Soy: Kansas City Wheat": {
       "date": "2026-06-24",
@@ -89,8 +89,8 @@
       "close": 300.5
     },
     "Grains and Soy: Wheat": {
-      "date": "2026-06-23",
-      "close": 597
+      "date": "2026-06-24",
+      "close": 595.75
     },
     "Metals: Gold": {
       "date": "2026-06-24",
@@ -117,20 +117,20 @@
       "close": 107.07
     },
     "Interest Rates: 2 Year T-Notes": {
-      "date": "2026-06-23",
-      "close": 102.96
+      "date": "2026-06-24",
+      "close": 103.06
     },
     "Interest Rates: 10 Year T-Bond": {
-      "date": "2026-06-23",
-      "close": 102.96
+      "date": "2026-06-24",
+      "close": 103.06
     },
     "Interest Rates: 30 Year T-Bond": {
       "date": "2026-06-24",
       "close": 114.19
     },
     "Softs and Fibers: Rice": {
-      "date": "2026-06-23",
-      "close": 13.27
+      "date": "2026-06-24",
+      "close": 13.3
     },
     "Softs and Fibers: Lumber": {
       "date": "2026-06-24",
@@ -3793,7 +3793,11 @@
       },
       {
         "date": "2026-06-23",
-        "close": 73.14
+        "close": 73.21
+      },
+      {
+        "date": "2026-06-24",
+        "close": 70.34
       }
     ],
     "Energies: NY Harbor Heating Oil": [
@@ -6236,6 +6240,10 @@
       {
         "date": "2026-06-23",
         "close": 75.48
+      },
+      {
+        "date": "2026-06-24",
+        "close": 72.69
       }
     ],
     "Meats: Feeder Cattle": [
@@ -6722,6 +6730,10 @@
       {
         "date": "2026-06-23",
         "close": 368.15
+      },
+      {
+        "date": "2026-06-24",
+        "close": 373.23
       }
     ],
     "Meats: Live Cattle": [
@@ -8669,7 +8681,7 @@
       },
       {
         "date": "2026-06-23",
-        "close": 66.61
+        "close": 66.58
       },
       {
         "date": "2026-06-24",
@@ -9160,6 +9172,10 @@
       {
         "date": "2026-06-23",
         "close": 437.25
+      },
+      {
+        "date": "2026-06-24",
+        "close": 433.75
       }
     ],
     "Grains and Soy: Kansas City Wheat": [
@@ -10135,7 +10151,7 @@
       },
       {
         "date": "2026-06-23",
-        "close": 303.25
+        "close": 302
       },
       {
         "date": "2026-06-24",
@@ -11606,6 +11622,10 @@
       {
         "date": "2026-06-23",
         "close": 597
+      },
+      {
+        "date": "2026-06-24",
+        "close": 595.75
       }
     ],
     "Metals: Gold": [
@@ -15032,6 +15052,10 @@
       {
         "date": "2026-06-23",
         "close": 102.96
+      },
+      {
+        "date": "2026-06-24",
+        "close": 103.06
       }
     ],
     "Interest Rates: 10 Year T-Bond": [
@@ -15518,6 +15542,10 @@
       {
         "date": "2026-06-23",
         "close": 102.96
+      },
+      {
+        "date": "2026-06-24",
+        "close": 103.06
       }
     ],
     "Interest Rates: 30 Year T-Bond": [
@@ -16494,6 +16522,10 @@
       {
         "date": "2026-06-23",
         "close": 13.27
+      },
+      {
+        "date": "2026-06-24",
+        "close": 13.3
       }
     ],
     "Softs and Fibers: Lumber": [
@@ -16987,5 +17019,5 @@
       }
     ]
   },
-  "updated": "2026-06-25T06:36:22.841Z"
+  "updated": "2026-06-25T08:34:46.095Z"
 }
