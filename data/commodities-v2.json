@@ -9,7 +9,7 @@
       "close": 1.33
     },
     "Currencies: Canadian Dollar": {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "close": 0.71
     },
     "Currencies: EUR/USD": {
@@ -21,7 +21,7 @@
       "close": 0.01
     },
     "Currencies: Swiss Franc": {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "close": 1.25
     },
     "Energies: WTI Crude": {
@@ -53,12 +53,12 @@
       "close": 360.8
     },
     "Meats: Live Cattle": {
-      "date": "2026-07-01",
-      "close": 241.83
+      "date": "2026-07-02",
+      "close": 239.03
     },
     "Meats: Lean Hogs": {
-      "date": "2026-07-01",
-      "close": 97.05
+      "date": "2026-07-02",
+      "close": 98.6
     },
     "Meats: Milk Class III": {
       "date": "2026-07-02",
@@ -69,32 +69,32 @@
       "close": 65.56
     },
     "Grains and Soy: Corn": {
-      "date": "2026-07-01",
-      "close": 443
+      "date": "2026-07-02",
+      "close": 440.75
     },
     "Grains and Soy: Kansas City Wheat": {
-      "date": "2026-07-01",
-      "close": 635
+      "date": "2026-07-02",
+      "close": 638.5
     },
     "Grains and Soy: Oats": {
-      "date": "2026-07-01",
-      "close": 337
+      "date": "2026-07-02",
+      "close": 343.75
     },
     "Grains and Soy: Soybeans": {
-      "date": "2026-07-01",
-      "close": 1149.25
+      "date": "2026-07-02",
+      "close": 1146.75
     },
     "Grains and Soy: Soybeans Meal": {
-      "date": "2026-07-01",
-      "close": 304.7
+      "date": "2026-07-02",
+      "close": 304.4
     },
     "Grains and Soy: Wheat": {
-      "date": "2026-07-01",
-      "close": 600
+      "date": "2026-07-02",
+      "close": 600.25
     },
     "Metals: Gold": {
       "date": "2026-07-02",
-      "close": 4137.6
+      "close": 4125.7
     },
     "Metals: Copper": {
       "date": "2026-07-02",
@@ -106,15 +106,15 @@
     },
     "Metals: Silver": {
       "date": "2026-07-02",
-      "close": 61.46
+      "close": 61.06
     },
     "Interest Rates: 3 Month SOFR": {
       "date": "2026-07-02",
       "close": 96.01
     },
     "Interest Rates: 5 Year T-Notes": {
-      "date": "2026-07-01",
-      "close": 106.85
+      "date": "2026-07-02",
+      "close": 106.96
     },
     "Interest Rates: 2 Year T-Notes": {
       "date": "2026-07-02",
@@ -129,8 +129,8 @@
       "close": 112.56
     },
     "Softs and Fibers: Rice": {
-      "date": "2026-07-01",
-      "close": 13.35
+      "date": "2026-07-02",
+      "close": 13.31
     },
     "Softs and Fibers: Lumber": {
       "date": "2026-07-02",
@@ -1625,6 +1625,10 @@
       },
       {
         "date": "2026-07-01",
+        "close": 0.71
+      },
+      {
+        "date": "2026-07-02",
         "close": 0.71
       }
     ],
@@ -3339,6 +3343,10 @@
       },
       {
         "date": "2026-07-01",
+        "close": 1.25
+      },
+      {
+        "date": "2026-07-02",
         "close": 1.25
       }
     ],
@@ -6817,7 +6825,7 @@
       },
       {
         "date": "2026-07-01",
-        "close": 364.2
+        "close": 364.15
       },
       {
         "date": "2026-07-02",
@@ -7316,6 +7324,10 @@
       {
         "date": "2026-07-01",
         "close": 241.83
+      },
+      {
+        "date": "2026-07-02",
+        "close": 239.03
       }
     ],
     "Meats: Lean Hogs": [
@@ -7810,6 +7822,10 @@
       {
         "date": "2026-07-01",
         "close": 97.05
+      },
+      {
+        "date": "2026-07-02",
+        "close": 98.6
       }
     ],
     "Meats: Milk Class III": [
@@ -9291,7 +9307,11 @@
       },
       {
         "date": "2026-07-01",
-        "close": 443
+        "close": 442.25
+      },
+      {
+        "date": "2026-07-02",
+        "close": 440.75
       }
     ],
     "Grains and Soy: Kansas City Wheat": [
@@ -9786,6 +9806,10 @@
       {
         "date": "2026-07-01",
         "close": 635
+      },
+      {
+        "date": "2026-07-02",
+        "close": 638.5
       }
     ],
     "Grains and Soy: Oats": [
@@ -10279,7 +10303,11 @@
       },
       {
         "date": "2026-07-01",
-        "close": 337
+        "close": 336.5
+      },
+      {
+        "date": "2026-07-02",
+        "close": 343.75
       }
     ],
     "Grains and Soy: Soybeans": [
@@ -10774,6 +10802,10 @@
       {
         "date": "2026-07-01",
         "close": 1149.25
+      },
+      {
+        "date": "2026-07-02",
+        "close": 1146.75
       }
     ],
     "Grains and Soy: Soybeans Meal": [
@@ -11268,6 +11300,10 @@
       {
         "date": "2026-07-01",
         "close": 304.7
+      },
+      {
+        "date": "2026-07-02",
+        "close": 304.4
       }
     ],
     "Grains and Soy: Wheat": [
@@ -11762,6 +11798,10 @@
       {
         "date": "2026-07-01",
         "close": 600
+      },
+      {
+        "date": "2026-07-02",
+        "close": 600.25
       }
     ],
     "Metals: Gold": [
@@ -12259,7 +12299,7 @@
       },
       {
         "date": "2026-07-02",
-        "close": 4137.6
+        "close": 4125.7
       }
     ],
     "Metals: Copper": [
@@ -13749,11 +13789,11 @@
       },
       {
         "date": "2026-07-01",
-        "close": 59.79
+        "close": 60.51
       },
       {
         "date": "2026-07-02",
-        "close": 61.46
+        "close": 61.06
       }
     ],
     "Interest Rates: 3 Month SOFR": [
@@ -14745,7 +14785,11 @@
       },
       {
         "date": "2026-07-01",
-        "close": 106.85
+        "close": 106.87
+      },
+      {
+        "date": "2026-07-02",
+        "close": 106.96
       }
     ],
     "Interest Rates: 2 Year T-Notes": [
@@ -16734,6 +16778,10 @@
       {
         "date": "2026-07-01",
         "close": 13.35
+      },
+      {
+        "date": "2026-07-02",
+        "close": 13.31
       }
     ],
     "Softs and Fibers: Lumber": [
@@ -17235,5 +17283,5 @@
       }
     ]
   },
-  "updated": "2026-07-03T06:34:40.148Z"
+  "updated": "2026-07-03T08:33:45.225Z"
 }
