@@ -46,31 +46,31 @@
     },
     "Energies: Brent Crude": {
       "date": "2026-07-02",
-      "close": 72.23
+      "close": 72.36
     },
     "Meats: Feeder Cattle": {
       "date": "2026-07-02",
-      "close": 360.8
+      "close": 360.63
     },
     "Meats: Live Cattle": {
       "date": "2026-07-02",
-      "close": 239.03
+      "close": 239.23
     },
     "Meats: Lean Hogs": {
       "date": "2026-07-02",
-      "close": 98.6
+      "close": 98.75
     },
     "Meats: Milk Class III": {
       "date": "2026-07-02",
-      "close": 16.14
+      "close": 16.07
     },
     "Grains and Soy: Soybean Oil": {
       "date": "2026-07-02",
-      "close": 65.56
+      "close": 65.43
     },
     "Grains and Soy: Corn": {
       "date": "2026-07-02",
-      "close": 440.75
+      "close": 441.5
     },
     "Grains and Soy: Kansas City Wheat": {
       "date": "2026-07-02",
@@ -90,7 +90,7 @@
     },
     "Grains and Soy: Wheat": {
       "date": "2026-07-02",
-      "close": 600.25
+      "close": 599.75
     },
     "Metals: Gold": {
       "date": "2026-07-02",
@@ -102,7 +102,7 @@
     },
     "Metals: Platinum": {
       "date": "2026-07-02",
-      "close": 1633
+      "close": 1628.1
     },
     "Metals: Silver": {
       "date": "2026-07-02",
@@ -110,19 +110,19 @@
     },
     "Interest Rates: 3 Month SOFR": {
       "date": "2026-07-02",
-      "close": 96.01
+      "close": 96
     },
     "Interest Rates: 5 Year T-Notes": {
       "date": "2026-07-02",
-      "close": 106.96
+      "close": 106.92
     },
     "Interest Rates: 2 Year T-Notes": {
       "date": "2026-07-02",
-      "close": 103.1
+      "close": 103.09
     },
     "Interest Rates: 10 Year T-Bond": {
       "date": "2026-07-02",
-      "close": 103.1
+      "close": 103.09
     },
     "Interest Rates: 30 Year T-Bond": {
       "date": "2026-07-02",
@@ -130,7 +130,7 @@
     },
     "Softs and Fibers: Rice": {
       "date": "2026-07-02",
-      "close": 13.31
+      "close": 13.27
     },
     "Softs and Fibers: Lumber": {
       "date": "2026-07-02",
@@ -4339,7 +4339,7 @@
       },
       {
         "date": "2026-07-01",
-        "close": 3.21
+        "close": 3.22
       },
       {
         "date": "2026-07-02",
@@ -6331,7 +6331,7 @@
       },
       {
         "date": "2026-07-02",
-        "close": 72.23
+        "close": 72.36
       }
     ],
     "Meats: Feeder Cattle": [
@@ -6829,7 +6829,7 @@
       },
       {
         "date": "2026-07-02",
-        "close": 360.8
+        "close": 360.63
       }
     ],
     "Meats: Live Cattle": [
@@ -7327,7 +7327,7 @@
       },
       {
         "date": "2026-07-02",
-        "close": 239.03
+        "close": 239.23
       }
     ],
     "Meats: Lean Hogs": [
@@ -7825,7 +7825,7 @@
       },
       {
         "date": "2026-07-02",
-        "close": 98.6
+        "close": 98.75
       }
     ],
     "Meats: Milk Class III": [
@@ -8315,7 +8315,7 @@
       },
       {
         "date": "2026-07-02",
-        "close": 16.14
+        "close": 16.07
       }
     ],
     "Grains and Soy: Soybean Oil": [
@@ -8813,7 +8813,7 @@
       },
       {
         "date": "2026-07-02",
-        "close": 65.56
+        "close": 65.43
       }
     ],
     "Grains and Soy: Corn": [
@@ -9311,7 +9311,7 @@
       },
       {
         "date": "2026-07-02",
-        "close": 440.75
+        "close": 441.5
       }
     ],
     "Grains and Soy: Kansas City Wheat": [
@@ -11801,7 +11801,7 @@
       },
       {
         "date": "2026-07-02",
-        "close": 600.25
+        "close": 599.75
       }
     ],
     "Metals: Gold": [
@@ -13295,7 +13295,7 @@
       },
       {
         "date": "2026-07-02",
-        "close": 1633
+        "close": 1628.1
       }
     ],
     "Metals: Silver": [
@@ -14291,7 +14291,7 @@
       },
       {
         "date": "2026-07-02",
-        "close": 96.01
+        "close": 96
       }
     ],
     "Interest Rates: 5 Year T-Notes": [
@@ -14789,7 +14789,7 @@
       },
       {
         "date": "2026-07-02",
-        "close": 106.96
+        "close": 106.92
       }
     ],
     "Interest Rates: 2 Year T-Notes": [
@@ -15287,7 +15287,7 @@
       },
       {
         "date": "2026-07-02",
-        "close": 103.1
+        "close": 103.09
       }
     ],
     "Interest Rates: 10 Year T-Bond": [
@@ -15785,7 +15785,7 @@
       },
       {
         "date": "2026-07-02",
-        "close": 103.1
+        "close": 103.09
       }
     ],
     "Interest Rates: 30 Year T-Bond": [
@@ -16781,7 +16781,7 @@
       },
       {
         "date": "2026-07-02",
-        "close": 13.31
+        "close": 13.27
       }
     ],
     "Softs and Fibers: Lumber": [
@@ -17283,5 +17283,5 @@
       }
     ]
   },
-  "updated": "2026-07-04T04:34:12.048Z"
+  "updated": "2026-07-04T06:33:43.862Z"
 }
