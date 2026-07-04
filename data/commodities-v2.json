@@ -26,7 +26,7 @@
     },
     "Energies: WTI Crude": {
       "date": "2026-07-02",
-      "close": 68.48
+      "close": 68.69
     },
     "Energies: NY Harbor Heating Oil": {
       "date": "2026-07-02",
@@ -82,7 +82,7 @@
     },
     "Grains and Soy: Soybeans": {
       "date": "2026-07-02",
-      "close": 1146.75
+      "close": 1147.75
     },
     "Grains and Soy: Soybeans Meal": {
       "date": "2026-07-02",
@@ -126,7 +126,7 @@
     },
     "Interest Rates: 30 Year T-Bond": {
       "date": "2026-07-02",
-      "close": 112.56
+      "close": 112.44
     },
     "Softs and Fibers: Rice": {
       "date": "2026-07-02",
@@ -3845,7 +3845,7 @@
       },
       {
         "date": "2026-07-02",
-        "close": 68.48
+        "close": 68.69
       }
     ],
     "Energies: NY Harbor Heating Oil": [
@@ -10805,7 +10805,7 @@
       },
       {
         "date": "2026-07-02",
-        "close": 1146.75
+        "close": 1147.75
       }
     ],
     "Grains and Soy: Soybeans Meal": [
@@ -16283,7 +16283,7 @@
       },
       {
         "date": "2026-07-02",
-        "close": 112.56
+        "close": 112.44
       }
     ],
     "Softs and Fibers: Rice": [
@@ -17283,5 +17283,5 @@
       }
     ]
   },
-  "updated": "2026-07-04T06:33:43.862Z"
+  "updated": "2026-07-04T08:36:36.374Z"
 }
