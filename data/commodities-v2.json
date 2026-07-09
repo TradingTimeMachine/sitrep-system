@@ -45,8 +45,8 @@
       "close": 3.13
     },
     "Energies: Brent Crude": {
-      "date": "2026-07-07",
-      "close": 73.92
+      "date": "2026-07-08",
+      "close": 77.65
     },
     "Meats: Feeder Cattle": {
       "date": "2026-07-08",
@@ -65,8 +65,8 @@
       "close": 16.19
     },
     "Grains and Soy: Soybean Oil": {
-      "date": "2026-07-07",
-      "close": 67.25
+      "date": "2026-07-08",
+      "close": 69.4
     },
     "Grains and Soy: Corn": {
       "date": "2026-07-08",
@@ -77,8 +77,8 @@
       "close": 643
     },
     "Grains and Soy: Oats": {
-      "date": "2026-07-07",
-      "close": 357
+      "date": "2026-07-08",
+      "close": 358.5
     },
     "Grains and Soy: Soybeans": {
       "date": "2026-07-08",
@@ -98,7 +98,7 @@
     },
     "Metals: Copper": {
       "date": "2026-07-08",
-      "close": 6.12
+      "close": 6.11
     },
     "Metals: Platinum": {
       "date": "2026-07-08",
@@ -6240,6 +6240,10 @@
       {
         "date": "2026-07-07",
         "close": 73.92
+      },
+      {
+        "date": "2026-07-08",
+        "close": 77.65
       }
     ],
     "Meats: Feeder Cattle": [
@@ -8677,7 +8681,11 @@
       },
       {
         "date": "2026-07-07",
-        "close": 67.25
+        "close": 67.27
+      },
+      {
+        "date": "2026-07-08",
+        "close": 69.4
       }
     ],
     "Grains and Soy: Corn": [
@@ -9163,7 +9171,7 @@
       },
       {
         "date": "2026-07-07",
-        "close": 463.5
+        "close": 464.25
       },
       {
         "date": "2026-07-08",
@@ -9653,7 +9661,7 @@
       },
       {
         "date": "2026-07-07",
-        "close": 652
+        "close": 652.75
       },
       {
         "date": "2026-07-08",
@@ -10143,7 +10151,11 @@
       },
       {
         "date": "2026-07-07",
-        "close": 357
+        "close": 359.25
+      },
+      {
+        "date": "2026-07-08",
+        "close": 358.5
       }
     ],
     "Grains and Soy: Soybeans": [
@@ -12593,7 +12605,7 @@
       },
       {
         "date": "2026-07-08",
-        "close": 6.12
+        "close": 6.11
       }
     ],
     "Metals: Platinum": [
@@ -14549,7 +14561,7 @@
       },
       {
         "date": "2026-07-07",
-        "close": 106.67
+        "close": 106.79
       },
       {
         "date": "2026-07-08",
@@ -17007,5 +17019,5 @@
       }
     ]
   },
-  "updated": "2026-07-09T06:33:51.207Z"
+  "updated": "2026-07-09T08:33:34.349Z"
 }
