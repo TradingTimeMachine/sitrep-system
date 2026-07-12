@@ -50,7 +50,7 @@
     },
     "Meats: Feeder Cattle": {
       "date": "2026-07-10",
-      "close": 354.38
+      "close": 354.6
     },
     "Meats: Live Cattle": {
       "date": "2026-07-10",
@@ -58,11 +58,11 @@
     },
     "Meats: Lean Hogs": {
       "date": "2026-07-10",
-      "close": 98.9
+      "close": 85.08
     },
     "Meats: Milk Class III": {
       "date": "2026-07-10",
-      "close": 16.64
+      "close": 16.63
     },
     "Grains and Soy: Soybean Oil": {
       "date": "2026-07-10",
@@ -74,7 +74,7 @@
     },
     "Grains and Soy: Kansas City Wheat": {
       "date": "2026-07-10",
-      "close": 675.25
+      "close": 676.25
     },
     "Grains and Soy: Oats": {
       "date": "2026-07-10",
@@ -82,7 +82,7 @@
     },
     "Grains and Soy: Soybeans": {
       "date": "2026-07-10",
-      "close": 1189.5
+      "close": 1190.75
     },
     "Grains and Soy: Soybeans Meal": {
       "date": "2026-07-10",
@@ -114,7 +114,7 @@
     },
     "Interest Rates: 5 Year T-Notes": {
       "date": "2026-07-10",
-      "close": 106.56
+      "close": 106.55
     },
     "Interest Rates: 2 Year T-Notes": {
       "date": "2026-07-10",
@@ -126,7 +126,7 @@
     },
     "Interest Rates: 30 Year T-Bond": {
       "date": "2026-07-10",
-      "close": 111.22
+      "close": 111.16
     },
     "Softs and Fibers: Rice": {
       "date": "2026-07-10",
@@ -6781,7 +6781,7 @@
       },
       {
         "date": "2026-07-10",
-        "close": 354.38
+        "close": 354.6
       }
     ],
     "Meats: Live Cattle": [
@@ -7769,7 +7769,7 @@
       },
       {
         "date": "2026-07-10",
-        "close": 98.9
+        "close": 85.08
       }
     ],
     "Meats: Milk Class III": [
@@ -8255,7 +8255,7 @@
       },
       {
         "date": "2026-07-10",
-        "close": 16.64
+        "close": 16.63
       }
     ],
     "Grains and Soy: Soybean Oil": [
@@ -9737,7 +9737,7 @@
       },
       {
         "date": "2026-07-10",
-        "close": 675.25
+        "close": 676.25
       }
     ],
     "Grains and Soy: Oats": [
@@ -10725,7 +10725,7 @@
       },
       {
         "date": "2026-07-10",
-        "close": 1189.5
+        "close": 1190.75
       }
     ],
     "Grains and Soy: Soybeans Meal": [
@@ -14677,7 +14677,7 @@
       },
       {
         "date": "2026-07-10",
-        "close": 106.56
+        "close": 106.55
       }
     ],
     "Interest Rates: 2 Year T-Notes": [
@@ -16159,7 +16159,7 @@
       },
       {
         "date": "2026-07-10",
-        "close": 111.22
+        "close": 111.16
       }
     ],
     "Softs and Fibers: Rice": [
@@ -17151,5 +17151,5 @@
       }
     ]
   },
-  "updated": "2026-07-12T06:33:57.040Z"
+  "updated": "2026-07-12T08:36:42.690Z"
 }
