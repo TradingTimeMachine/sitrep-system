@@ -1,7 +1,7 @@
 {
   "latest": {
     "Currencies: Australian Dollar": {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "close": 0.7
     },
     "Currencies: British Pound": {
@@ -46,11 +46,11 @@
     },
     "Energies: Brent Crude": {
       "date": "2026-07-15",
-      "close": 81.75
+      "close": 81.06
     },
     "Meats: Feeder Cattle": {
-      "date": "2026-07-14",
-      "close": 348.8
+      "date": "2026-07-15",
+      "close": 350.7
     },
     "Meats: Live Cattle": {
       "date": "2026-07-15",
@@ -69,8 +69,8 @@
       "close": 70.93
     },
     "Grains and Soy: Corn": {
-      "date": "2026-07-14",
-      "close": 459.5
+      "date": "2026-07-15",
+      "close": 469.25
     },
     "Grains and Soy: Kansas City Wheat": {
       "date": "2026-07-15",
@@ -85,8 +85,8 @@
       "close": 1201.75
     },
     "Grains and Soy: Soybeans Meal": {
-      "date": "2026-07-14",
-      "close": 316.3
+      "date": "2026-07-15",
+      "close": 320.2
     },
     "Grains and Soy: Wheat": {
       "date": "2026-07-15",
@@ -98,7 +98,7 @@
     },
     "Metals: Copper": {
       "date": "2026-07-15",
-      "close": 6.38
+      "close": 6.34
     },
     "Metals: Platinum": {
       "date": "2026-07-15",
@@ -106,11 +106,11 @@
     },
     "Metals: Silver": {
       "date": "2026-07-15",
-      "close": 58.16
+      "close": 57.43
     },
     "Interest Rates: 3 Month SOFR": {
-      "date": "2026-07-14",
-      "close": 95.99
+      "date": "2026-07-15",
+      "close": 96.04
     },
     "Interest Rates: 5 Year T-Notes": {
       "date": "2026-07-15",
@@ -125,8 +125,8 @@
       "close": 103.07
     },
     "Interest Rates: 30 Year T-Bond": {
-      "date": "2026-07-14",
-      "close": 110.91
+      "date": "2026-07-15",
+      "close": 111.16
     },
     "Softs and Fibers: Rice": {
       "date": "2026-07-15",
@@ -621,6 +621,10 @@
       },
       {
         "date": "2026-07-14",
+        "close": 0.7
+      },
+      {
+        "date": "2026-07-15",
         "close": 0.7
       }
     ],
@@ -6235,11 +6239,11 @@
       },
       {
         "date": "2026-07-14",
-        "close": 81.4
+        "close": 80.95
       },
       {
         "date": "2026-07-15",
-        "close": 81.75
+        "close": 81.06
       }
     ],
     "Meats: Feeder Cattle": [
@@ -6726,6 +6730,10 @@
       {
         "date": "2026-07-14",
         "close": 348.8
+      },
+      {
+        "date": "2026-07-15",
+        "close": 350.7
       }
     ],
     "Meats: Live Cattle": [
@@ -8673,7 +8681,7 @@
       },
       {
         "date": "2026-07-14",
-        "close": 70.69
+        "close": 70.68
       },
       {
         "date": "2026-07-15",
@@ -9163,7 +9171,11 @@
       },
       {
         "date": "2026-07-14",
-        "close": 459.5
+        "close": 460.5
+      },
+      {
+        "date": "2026-07-15",
+        "close": 469.25
       }
     ],
     "Grains and Soy: Kansas City Wheat": [
@@ -10139,7 +10151,7 @@
       },
       {
         "date": "2026-07-14",
-        "close": 356.5
+        "close": 359.25
       },
       {
         "date": "2026-07-15",
@@ -10629,7 +10641,7 @@
       },
       {
         "date": "2026-07-14",
-        "close": 1190.5
+        "close": 1191
       },
       {
         "date": "2026-07-15",
@@ -11120,6 +11132,10 @@
       {
         "date": "2026-07-14",
         "close": 316.3
+      },
+      {
+        "date": "2026-07-15",
+        "close": 320.2
       }
     ],
     "Grains and Soy: Wheat": [
@@ -12589,7 +12605,7 @@
       },
       {
         "date": "2026-07-15",
-        "close": 6.38
+        "close": 6.34
       }
     ],
     "Metals: Platinum": [
@@ -13565,11 +13581,11 @@
       },
       {
         "date": "2026-07-14",
-        "close": 59.04
+        "close": 59.1
       },
       {
         "date": "2026-07-15",
-        "close": 58.16
+        "close": 57.43
       }
     ],
     "Interest Rates: 3 Month SOFR": [
@@ -14056,6 +14072,10 @@
       {
         "date": "2026-07-14",
         "close": 95.99
+      },
+      {
+        "date": "2026-07-15",
+        "close": 96.04
       }
     ],
     "Interest Rates: 5 Year T-Notes": [
@@ -16012,6 +16032,10 @@
       {
         "date": "2026-07-14",
         "close": 110.91
+      },
+      {
+        "date": "2026-07-15",
+        "close": 111.16
       }
     ],
     "Softs and Fibers: Rice": [
@@ -16995,5 +17019,5 @@
       }
     ]
   },
-  "updated": "2026-07-16T06:33:43.466Z"
+  "updated": "2026-07-16T08:36:05.870Z"
 }
